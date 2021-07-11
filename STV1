@@ -3,11 +3,11 @@
 http://adultswim-vodlive.cdn.turner.com/live/eric-andre/stream.m3u8
 #EXTINF:0 type="stream" channelId="3207" name="11 MyTV (KOTR-LD)" group="Local" logo="https://upload.wikimedia.org/wikipedia/en/b/bd/Kotrlp.jpg" tvg-country="US", 11 MyTV (KOTR-LD) (480i)
 https://cdnapisec.kaltura.com/p/2630451/sp/2630451/playManifest/entryId/1_hq4vlk40/deliveryProfileId/672/protocol/https/format/applehttp/a.m3u8
-#EXTINF:0 type="stream" channelId="2065" group="unsorted", WWE Network
+#EXTINF:0 type="stream" channelId="23245" group="unsorted", WWE Network
 http://loginto.live:80/9E2GucVqA/qorMDQjpwg/4289
 #EXTINF:1 type="stream" channelId="1052" group="unsorted", TNT
 http://primestreams.tv:826/hommydriver/Qo1gnR9Nku/109218
-#EXTINF:1 type="stream" channelId="3229" group="unsorted", USA NETWORK
+#EXTINF:1 type="stream" channelId="32429" group="unsorted", USA NETWORK
 http://evolved.host:8080/spenchev123@gmail.com/j8tXTG46V1/99149
 #EXTINF:1 type="stream" channelId="1194" group="unsorted", BT Sport 1 HD
 http://nope.nottodaykaren.tk:80/HutenDG/firefire/16174
@@ -71,13 +71,13 @@ https://h1.ustvgo.la/FOX/myStream/chunks.m3u8?nimblesessionid=11769249&wmsAuthSi
 https://h1.ustvgo.la/TBS/myStream/chunks.m3u8?nimblesessionid=11772601&wmsAuthSign=c2VydmVyX3RpbWU9NS8yLzIwMjEgODozMTozOSBBTSZoYXNoX3ZhbHVlPUdFR0JvcUlhT29vTkVXVkNDQU1jSkE9PSZ2YWxpZG1pbnV0ZXM9MjQw
 #EXTINF:0 type="stream" channelId="3229", USA Network
 http://stream.tvtap.live:8081/live/us-usanet.stream/chunks.m3u8
-#EXTINF:1 type="stream" channelId="1052" group="unsorted", TNT
+#EXTINF:1 type="stream" channelId="10122" group="unsorted", TNT
 http://primestreams.tv:826/hommydriver/Qo1gnR9Nku/96162
-#EXTINF:1 type="stream" channelId="1052" group="unsorted", TNT
+#EXTINF:1 type="stream" channelId="14732" group="unsorted", TNT
 http://we.caughtyousnooping.club:80/Famtv/JKM120611/886
-#EXTINF:1 type="stream" channelId="1052" group="unsorted", TNT
+#EXTINF:1 type="stream" channelId="16572" group="unsorted", TNT
 http://we.caughtyousnooping.club:80/mYaESHd3Zf/3BbeDHHvtu/886
-#EXTINF:1 type="stream" channelId="1231" group="unsorted", TNT
+#EXTINF:1 type="stream" channelId="143241" group="unsorted", TNT
 https://16live00.akamaized.net/TNT/index.m3u8
 #EXTINF:0 type="stream" channelId="2065" group="unsorted", WWE Network
 http://iptvjet.one:8080/valtercardoso.diasns/uh996mgaxb/758
@@ -93,7 +93,7 @@ http://85.203.33.88/grandee2/hb2Xmf40/14659
 http://stream.tvtap.live:8081/live/nba.stream/chunks.m3u8
 #EXTINF:0 type="stream" channelId="2719" group="Kids" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/1200px-Cartoon_Network_2010_logo.svg.png", Cartoon Network HD
 http://185.180.221.194:8278/streams/d/Cn/playlist.m3u8
-#EXTINF:0 type="stream" channelId="239" group="Kids" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/1200px-Cartoon_Network_2010_logo.svg.png", Cartoon Network HD
+#EXTINF:0 type="stream" channelId="2391" group="Kids" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/1200px-Cartoon_Network_2010_logo.svg.png", Cartoon Network HD
 http://we.caughtyousnooping.club:80/mYaESHd3Zf/3BbeDHHvtu/694
 #EXTINF:0 type="stream" channelId="2720" group="Kids" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/2019_Disney_Channel_logo.svg/250px-2019_Disney_Channel_logo.svg.png", Disney Channel HD
 http://185.180.221.194:8278/streams/d/Disneyxd/playlist.m3u8
