@@ -1,0 +1,355 @@
+#EXTM3U
+#EXTINF:0 type="stream" channelId="-1" group="unsorted", The Eric Andre Show
+http://adultswim-vodlive.cdn.turner.com/live/eric-andre/stream.m3u8
+#EXTINF:0 type="stream" channelId="3207" name="11 MyTV (KOTR-LD)" group="Local" logo="https://upload.wikimedia.org/wikipedia/en/b/bd/Kotrlp.jpg" tvg-country="US", 11 MyTV (KOTR-LD) (480i)
+https://cdnapisec.kaltura.com/p/2630451/sp/2630451/playManifest/entryId/1_hq4vlk40/deliveryProfileId/672/protocol/https/format/applehttp/a.m3u8
+#EXTINF:0 type="stream" channelId="2065" group="unsorted", WWE Network
+http://loginto.live:80/9E2GucVqA/qorMDQjpwg/4289
+#EXTINF:1 type="stream" channelId="1052" group="unsorted", TNT
+http://primestreams.tv:826/hommydriver/Qo1gnR9Nku/109218
+#EXTINF:1 type="stream" channelId="3229" group="unsorted", USA NETWORK
+http://evolved.host:8080/spenchev123@gmail.com/j8tXTG46V1/99149
+#EXTINF:1 type="stream" channelId="1194" group="unsorted", BT Sport 1 HD
+http://nope.nottodaykaren.tk:80/HutenDG/firefire/16174
+#EXTINF:0 type="stream" channelId="-1" group="unsorted" logo="https://upload.wikimedia.org/wikipedia/en/f/fc/HBOHits-ASIA.png", HBO Hits
+https://liveorigin01.hbogoasia.com:8443/origin/live/main/HITS/index.m3u8
+#EXTINF:0 type="stream" channelId="2583" group="unsorted", HBO Signature
+https://liveorigin01.hbogoasia.com:8443/origin/live/main/SIG/index.m3u8
+#EXTINF:0 type="stream" channelId="2584" group="unsorted", HBO Family
+https://liveorigin01.hbogoasia.com:8443/origin/live/main/FAMILY/index.m3u8
+#EXTINF:0 type="stream" channelId="-1" logo="https://static.wikia.nocookie.net/logopedia/images/d/df/RED_by_HBO.svg/revision/latest/scale-to-width-down/250?cb=20210104162109", Red by HBO
+https://liveorigin01.hbogoasia.com:8443/origin/live/main/RED/index.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="unsorted" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/1024px-HBO_logo.svg.png", HBO Asia
+http://50.7.161.82:8278/streams/d/Hbo/playlist.m3u8
+#EXTINF:0 type="stream" channelId="2557" group="unsorted", Warner TV Asia
+http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/FOXMOVIES-HD-1080p/playlist.m3u8
+#EXTINF:0 type="stream" channelId="1862" group="unsorted" logo="https://upload.wikimedia.org/wikipedia/commons/1/19/FOX-Movies.png", FOX Movies Asia
+https://livecdn.fptplay.net/foxlive/foxmovieshd_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:0 type="stream" channelId="2557" group="unsorted", Warner TV
+http://203.154.243.89:11205/
+#EXTINF:0 type="stream" channelId="208" group="unsorted", FOX HD Asia
+https://livecdn.fptplay.net/foxlive/foxhd_hls.smil/chunklist_b1200000.m3u8
+#EXTINF:0 type="stream" channelId="177" group="unsorted", FOX Asia
+http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/FOX-HD-1080p/playlist.m3u8
+#EXTINF:0 type="stream" channelId="1303" group="unsorted", FX
+https://bozztv.com/teleyupp/teleup-fxhd/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="Japan" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/TV_Asahi_Logo.svg/1280px-TV_Asahi_Logo.svg.png", TV Asahi
+http://203.162.235.41:16906
+#EXTINF:0 type="stream" channelId="-1" group="Movies" logo="http://kamiselaluada.com/img/prive.png", &privé
+https://y5w8j4a9.ssl.hwcdn.net/andprivehd/tracks-v1a1/index.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="Movies" logo="https://en.m.wikipedia.org/wiki/%26flix#/media/File%3A%26flix_logo.png", &flix
+https://y5w8j4a9.ssl.hwcdn.net/andflixhd/tracks-v1a1/index.m3u8
+#EXTINF:0 type="stream" channelId="1573" group="Undefined" tvg-country="UN", AXN
+http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/AXN-HD-1080p/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 type="stream" channelId="-1" group="unsorted", Mongolian National Broadcaster
+http://103.14.38.107:1935/live/mnb.stream/chunklist.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="unsorted", Mongolian National Broadcaster HD
+http://103.14.38.107:1935/live/mn2.stream/chunklist.m3u8
+#EXTINF:0 type="stream" channelId="1106" group="unsorted", MTV UK
+https://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/index_3500_av-p.m3u8?sd=10&rebase=on
+#EXTINF:0 type="stream" channelId="-1" group="unsorted", MTV Block Party
+http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS03/master.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="unsorted", MTV Spankin' New
+http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS07/master.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="unsorted", MTV Biggest Pop
+http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS02/master.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="unsorted" logo="https://cdn.freebiesupply.com/logos/large/2x/channel-v-logo-png-transparent.png", Channel V
+http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/CHANNELV-HD-1080p/playlist.m3u8
+#EXTINF:0 type="stream" channelId="4036" group="Movies" logo="https://upload.wikimedia.org/wikipedia/commons/f/fe/Paramount_Network_%28Black%29_Logo.png", Paramount Network
+http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/PARAMOUNT-HD-720p/playlist.m3u8
+#EXTINF:0 type="stream" channelId="1300" group="unsorted", Pop TV
+https://live-poptv-fastly-prod.global.ssl.fastly.net/pop/master.m3u8
+#EXTINF:0 type="stream" channelId="1300" group="unsorted", Pop HD
+https://live-poptv-fastly-prod.global.ssl.fastly.net/pop/master.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="Movies" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuaQNIlMpggEMfg_Mj3PXS6sqFyzuJKylyCw&usqp=CAU", Sony One
+http://185.180.221.194:8278/streams/d/SetOne/playlist.m3u8
+#EXTINF:0 type="stream" channelId="177" name="Fox Russia" group="Movies" tvg-country="RU", FOX Russia (576p)
+http://188.40.68.167/russia/fox_russia_sd/playlist.m3u8
+#EXTINF:0 type="stream" channelId="177" group="unsorted", FOX
+https://h1.ustvgo.la/FOX/myStream/chunks.m3u8?nimblesessionid=11769249&wmsAuthSign=c2VydmVyX3RpbWU9NS8yLzIwMjEgODoyMzoyMCBBTSZoYXNoX3ZhbHVlPTlCM29lYW5YWW9STUxzby9QN0x1QkE9PSZ2YWxpZG1pbnV0ZXM9MjQw
+#EXTINF:0 type="stream" channelId="3228" group="unsorted", TBS
+https://h1.ustvgo.la/TBS/myStream/chunks.m3u8?nimblesessionid=11772601&wmsAuthSign=c2VydmVyX3RpbWU9NS8yLzIwMjEgODozMTozOSBBTSZoYXNoX3ZhbHVlPUdFR0JvcUlhT29vTkVXVkNDQU1jSkE9PSZ2YWxpZG1pbnV0ZXM9MjQw
+#EXTINF:0 type="stream" channelId="3229", USA Network
+http://stream.tvtap.live:8081/live/us-usanet.stream/chunks.m3u8
+#EXTINF:1 type="stream" channelId="1052" group="unsorted", TNT
+http://primestreams.tv:826/hommydriver/Qo1gnR9Nku/96162
+#EXTINF:1 type="stream" channelId="1052" group="unsorted", TNT
+http://we.caughtyousnooping.club:80/Famtv/JKM120611/886
+#EXTINF:1 type="stream" channelId="1052" group="unsorted", TNT
+http://we.caughtyousnooping.club:80/mYaESHd3Zf/3BbeDHHvtu/886
+#EXTINF:1 type="stream" channelId="1231" group="unsorted", TNT
+https://16live00.akamaized.net/TNT/index.m3u8
+#EXTINF:0 type="stream" channelId="2065" group="unsorted", WWE Network
+http://iptvjet.one:8080/valtercardoso.diasns/uh996mgaxb/758
+#EXTINF:0 type="stream" channelId="1444" logo="http://assets.stickpng.com/images/5842aa04a6515b1e0ad75b07.png", ABC
+http://185.183.34.118/iptv/F59KKDMP2GN7ZB/1087/index.m3u8
+#EXTINF:0 type="stream" channelId="1193" logo="https://download.logo.wine/logo/BT_Sport/BT_Sport-Logo.wine.png", BT SPORT 1
+http://85.203.33.88/grandee2/hb2Xmf40/14657
+#EXTINF:0 type="stream" channelId="1195" logo="https://download.logo.wine/logo/BT_Sport/BT_Sport-Logo.wine.png", BT SPORT 2
+http://85.203.33.88/grandee2/hb2Xmf40/14658
+#EXTINF:0 type="stream" channelId="3475" logo="https://download.logo.wine/logo/BT_Sport/BT_Sport-Logo.wine.png", BT SPORT 3
+http://85.203.33.88/grandee2/hb2Xmf40/14659
+#EXTINF:0 type="stream" channelId="805" group="Sports" logo="https://www.freepnglogos.com/uploads/nba-logo-png/nba-logo-png-5.png", NBA TV
+http://stream.tvtap.live:8081/live/nba.stream/chunks.m3u8
+#EXTINF:0 type="stream" channelId="2719" group="Kids" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/1200px-Cartoon_Network_2010_logo.svg.png", Cartoon Network HD
+http://185.180.221.194:8278/streams/d/Cn/playlist.m3u8
+#EXTINF:0 type="stream" channelId="239" group="Kids" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/1200px-Cartoon_Network_2010_logo.svg.png", Cartoon Network HD
+http://we.caughtyousnooping.club:80/mYaESHd3Zf/3BbeDHHvtu/694
+#EXTINF:0 type="stream" channelId="2720" group="Kids" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/2019_Disney_Channel_logo.svg/250px-2019_Disney_Channel_logo.svg.png", Disney Channel HD
+http://185.180.221.194:8278/streams/d/Disneyxd/playlist.m3u8
+#EXTINF:0 type="stream" channelId="19" group="Kids" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBRxfXEAMBs7E80jrHmayn7EdcZT4q9xd1Qw&usqp=CAU", Disney Channel
+http://my.streamerstv.com:25461/Andy/Andy/55
+#EXTINF:0 type="stream" channelId="1198" group="Kids" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Disney_XD_-_2015.svg/200px-Disney_XD_-_2015.svg.png", Disney XD
+http://stream.tvtap.live:8081/live/disneyxd.stream/chunks.m3u8
+#EXTINF:0 type="stream" channelId="1197", Disney Junior
+http://51.79.82.231:8080/US_DISNEY_JR_EAST_USA/video.m3u8
+#EXTINF:0 type="stream" channelId="434", Nickelodeon UK
+http://securetv.net:8080/kHMYckF4XA/8471269681/1226
+#EXTINF:0 type="stream" channelId="334" group="Kids", Nickelodeon HD
+http://185.183.34.118/iptv/F59KKDMP2GN7ZB/1069/index.m3u8
+#EXTINF:0 type="stream" channelId="322" group="Kids" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Nickelodeon_2009_logo.svg/250px-Nickelodeon_2009_logo.svg.png", Nickelodeon JR
+http://185.180.221.194:8278/streams/d/Nickelodeon/playlist.m3u8
+#EXTINF:0 type="stream" channelId="41" group="Kids", Nickelodeon SD
+http://stream.tvtap.live:8081/live/us-nick.stream/chunks.m3u8
+#EXTINF:0 type="stream" channelId="321" group="Kids" logo="https://mpng.subpng.com/20180721/aq/kisspng-boomerang-logo-television-channel-tom-and-jerry-dog-5b53c4af10de42.3513045215322164950691.jpg", Boomerang
+http://stream.tvtap.live:8081/live/us-boomerang.stream/chunks.m3u8
+#EXTINF:-1 tvg-id="Mnet.kr" tvg-name="Mnet" tvg-country="KR" tvg-language="" tvg-logo="http://image.tving.com/upload/cms/caic/CAIC1900/C00579.png" group-title="",Mnet
+http://51.81.66.195:1935/krtv/mnet_540/playlist.m3u8
+#EXTINF:-1 tvg-id="Mnet.kr" tvg-name="Mnet" tvg-country="KR" tvg-language="Korean" tvg-logo="" group-title="",Mnet
+http://95.217.44.77:80/mnet/tracks-v1a1/mono.m3u8
+#EXTINF:0 type="stream" channelId="70" group="unsorted", FS1
+http://134.19.182.131:8080/vdg10_2.m3u8?h=17769c8f9018b3491d23270c45762d50
+#EXTINF:0 type="stream" channelId="3206" group="unsorted", The CW
+https://bozztv.com/teleyupp1/teleup-cw-whp/tracks-v2a1/mono.m3u8
+#EXTINF:0 type="stream" channelId="2510" group="unsorted", ESPN (1080p)
+http://securetv.net:8080/PeMrj5KcTB/8478805158/15951
+#EXTINF:0 type="stream" channelId="2540" group="unsorted", ESPN (720p)
+http://stream2.grandma.fit/fs2.m3u8
+#EXTINF:0 type="stream" channelId="344" group="unsorted", ESPN 2 (720p)
+http://stream2.grandma.fit/espn2.m3u8
+#EXTINF:0 type="stream" channelId="3211" group="unsorted", ESPN U (720p)
+https://gma2.blab.email/espnu.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="unsorted" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/FITE_TV.svg/1280px-FITE_TV.svg.png", Fite
+https://cdn-cf.fite.tv/linear/fite247/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="unsorted", FOX Sport HD 1
+https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="unsorted", Fox Sports Asia (720p)
+https://livecdn.fptplay.net/qnetlive/foxsports_2000.stream/chunklist.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="unsorted", Fox Sports 2 Asia (720p)
+https://livecdn.fptplay.net/qnetlive/foxsports2_2000.stream/chunklist.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="unsorted", Fox Sports 3 Asia (720p)
+https://livecdn.fptplay.net/qnetlive/foxsports3_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="unsorted", 21 Jump Street
+https://dai.google.com/linear/hls/event/UXgY8vuCSgiAlXtckOHm6A/master.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="unsorted", AFV
+https://dai.google.com/linear/hls/event/18_lZXPySFa5_GRVEbOX_A/master.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="unsorted", Amazing Discoveries TV
+https://uni01rtmp.tulix.tv/amazingdtv/amazingdtv/playlist.m3u8
+#EXTINF:0 type="stream" channelId="529" group="unsorted", Arirang
+http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1" logo="https://static.wikia.nocookie.net/logopedia/images/f/f4/TNT_2016.svg", TNT West
+http://185.183.34.118/iptv/F59KKDMP2GN7ZB/1102/index.m3u8
+#EXTINF:0 type="stream" channelId="-1" logo="https://static.wikia.nocookie.net/logopedia/images/f/f4/TNT_2016.svg", TNT East
+http://cloudcdn.tk/live/alfnuf2009/JXXZ71470/13666.ts
+#EXTINF:0 type="stream" channelId="57" group="Factual" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/2019_Discovery_logo.svg/440px-2019_Discovery_logo.svg.png", Discovery
+http://iptvtree.net:8080/live/32ad147d/055af3e9/755.ts
+#EXTINF:0 type="stream" channelId="58" logo="https://upload.wikimedia.org/wikipedia/commons/8/8b/Discovery_science_new_logo_2017.png", Discovery Science
+http://iptvtree.net:8080/live/32ad147d/055af3e9/2301.ts
+#EXTINF:0 type="stream" channelId="-1" logo="https://static.wikia.nocookie.net/logopedia/images/f/f0/Discovery-asia.png" tvg-country="PH", Discovery Asia
+http://iptvtree.net:8080/live/32ad147d/055af3e9/273829.ts
+#EXTINF:0 type="stream" channelId="-1" logo="https://upload.wikimedia.org/wikipedia/commons/d/d5/Smithsonian_Channel.png", Smithsonian Channel Asia 1080p
+https://smithsonianaus-samsungau.amagi.tv/playlist.m3u8
+#EXTINF:0 type="stream" channelId="1455" group="FactEnt", History
+http://stream.tvtap.live:8081/live/us-history.stream/chunks.m3u8
+#EXTINF:0 type="stream" channelId="1201" logo="https://upload.wikimedia.org/wikipedia/commons/d/d1/H2_channel_logo.PNG" tvg-country="PH", History 2
+http://iptvtree.net:8080/live/32ad147d/055af3e9/1601.ts
+#EXTINF:0 type="stream" channelId="-1" logo="https://logos.fandom.com/wiki/Planet_Earth?file=PlanetEarth.png" tvg-country="PH", Planet Earth
+http://iptvtree.net:8080/live/32ad147d/055af3e9/7693.ts
+#EXTINF:0 type="stream" channelId="3192" logo="https://upload.wikimedia.org/wikipedia/en/4/44/BBC_Earth_logo.png" tvg-country="PH", BBC Earth
+http://iptvtree.net:8080/live/32ad147d/055af3e9/23271.ts
+#EXTINF:0 type="stream" channelId="1143" group="unsorted", BBC News
+http://51.52.156.22:8888/http/004
+#EXTINF:0 type="stream" channelId="-1" group="unsorted", BBC Toronto Gaunda Punjab
+http://start.agmediachandigarh.com/gaundapunjab/tv/playlist.m3u8
+#EXTINF:0 type="stream" channelId="67" group="MALAY_PRO" logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png", TLC
+http://185.180.221.194:8278/streams/d/Tlc/playlist.m3u8
+#EXTINF:0 type="stream" channelId="1230" group="unsorted", Box Hits
+http://csm-e.tm.yospace.com/csm/extlive/boxplus01,boxhits-desktop.m3u8?yo.up=http%3a%2f%2fboxtv-origin-elb.cds1.yospace.com%2fuploads%2fboxhits%2f
+#EXTINF:0 type="stream" channelId="1230" group="unsorted", Box Hits
+http://csm-e.tm.yospace.com/csm/extlive/boxplus01,boxhits-desktop.m3u8?yo.up=http%3a%2f%2fboxtv-origin-elb.cds1.yospace.com%2fuploads%2fboxhits%2f
+#EXTINF:0 type="stream" channelId="-1" group="unsorted", Canal Macau (Opt-2)
+http://61.244.22.4/ch2/ch2.live/playelist.m3u8
+#EXTINF:0 type="stream" channelId="1397" group="unsorted", CBC News Network
+https://cbcnewshd-f.akamaihd.net/i/cbcnews_30@304030/index_2500_av-p.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="unsorted", CBS TV
+http://cbs-live.gscdn.com/cbs-live/cbs-live.stream/hasbahca.m3u8
+#EXTINF:0 type="stream" channelId="894" group="unsorted", CCTV-4 (Opt-2)
+http://45.126.83.51/qwr9ew/s/s19/index.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="unsorted", CGNTV Japan
+http://cgntv-glive.ofsdelivery.net/live/_definst_/cgntv_jp/playlist.m3u8
+#EXTINF:0 type="stream" channelId="1199" group="unsorted", Channel 5
+https://dlau142f16b92.cloudfront.net/hls/ch5ctv/master02.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="unsorted", CNA
+http://210.210.155.35/uq2663/h/h29/01.m3u8
+#EXTINF:0 type="stream" channelId="352" group="unsorted", Deutsche Welle (Opt-1)
+http://dwstream5-lh.akamaihd.net/i/dwstream5_live@124540/master.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="unsorted", BS Asahi (New!)
+http://203.162.235.41:16914
+#EXTINF:0 type="stream" channelId="-1" group="unsorted", Dragon Television
+http://45.126.83.51/qwr9ew/s/s29/index.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="unsorted", EBS 1
+http://ebsonair.ebs.co.kr/groundwavefamilypc/familypc1m/chunklist_w1960240276.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="unsorted", EBS 2
+http://ebsonair.ebs.co.kr:1935/ebs2familypc/familypc1m/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="unsorted", EBS e
+http://ebsonair.ebs.co.kr/plus3familypc/familypc1m/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="unsorted", EBS Plus 1
+http://ebsonair.ebs.co.kr:1935/plus1tablet500k/tablet500k/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="unsorted", EBS Plus 2
+http://ebsonair.ebs.co.kr:1935/plus2tablet500k/tablet500k/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="unsorted", EWTN Canada
+https://dyo5cp96eopax.cloudfront.net/p/CANE.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="unsorted", FailArmy
+https://dai.google.com/linear/hls/event/7tuuoX1wSsCTaki1HqJFYw/master.m3u8
+#EXTINF:0 type="stream" channelId="4040" group="unsorted", Fight Sports
+http://210.210.155.35/session/b09f20ac-0755-11e9-90c8-c81f66f89318/uq2663/h/h05/02.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="unsorted", FTV News (Opt-2)
+http://210.61.56.23/hls/ftvtv/index.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="unsorted", Global Calgary
+https://dfmjr9irb1dl5.cloudfront.net/out/v1/454010ff309e4963a087f5802856e346/index.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="unsorted", GSTV
+https://gemstv.wide-stream.net/gemstv01/smil:gemstv01.smil/chunklist.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="unsorted", Gunma TV
+https://movie.mcas.jp/switcher/smil:mcas8.smil/master.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="unsorted", Hallypop
+https://dai.google.com/linear/hls/event/ctGD-E18Q0-3WScFd_tK5w/master.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="unsorted", IMPACT Wrestling
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/59b722526996084038c01e1b/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=734&deviceId=59b722526996084038c01e1b&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
+#EXTINF:0 type="stream" channelId="-1" group="unsorted", Japanet Channel DX
+https://bcsecurelivehls-i.akamaihd.net/hls/live/265320/5043843989001/140130JTDX/index.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="unsorted", KBS LiveCam DokDo
+http://kbs-dokdo.gscdn.com/dokdo_300/_definst_/dokdo_300.stream/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="unsorted", Kepez TV
+http://85.132.81.184:8080/arbkepez/live/index.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="unsorted", New Japan Pro Wrestling World
+https://aka-amd-njpwworld-hls-enlive.akamaized.net/hls/video/njpw_en/njpw_en_channel01_3/chunklist_DVR.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="unsorted", NHK Chinese Vision
+https://nhkw-zh-hlscomp.akamaized.net/8thz5iufork8wjip/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="unsorted", NHK World Japan
+https://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/global/2003458/live.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="unsorted", NTV News24
+https://www.news24.jp/livestream/index.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="unsorted", QVC Japan
+https://cdn-live1.qvc.jp/iPhone/1501/1501.m3u8
+#EXTINF:0 type="stream" channelId="1333" group="unsorted", Red Bull TV
+http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="unsorted", Ring of Honor
+https://dai.google.com/linear/hls/event/RNiQYO3aTjOqTe8od1zlqA/master.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="unsorted", RT UK
+https://rt-uk.secure.footprint.net/1106.m3u8?streamType=live
+#EXTINF:0 type="stream" channelId="-1" group="unsorted", SBS Plus
+https://streaming-a-802.cdn.nextologies.com/SBS_Plus/live/SBS_Plus_1500k/chunks.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="unsorted", Sheffield Live! 93.2 FM
+http://tv.sheffieldlive.org/hls/main.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="unsorted", Shop Channel
+https://stream3.shopch.jp/HLS/master.m3u8
+#EXTINF:0 type="stream" channelId="1175" group="unsorted", Sky News
+https://skynews2-plutolive-vo.akamaized.net/cdhlsskynewsamericas/1013/latest.m3u8?serverSideAds=true
+#EXTINF:0 type="stream" channelId="1447" group="unsorted", Spike (Opt-1)
+https://viacomitalytest-lh.akamaihd.net/i/sbshdlive_1@829515/index_1800_av-p.m3u8
+#EXTINF:0 type="stream" channelId="2146" group="unsorted", Teleritmo
+http://mdstrm.com/live-stream-playlist_400/57b4dc126338448314449d0c.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="unsorted", TMZ
+https://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1234A-tmz/CDN/1280x720_5000000/index.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="unsorted", Tokyo MX1
+https://movie.mcas.jp/mcas/smil:mx1_prod.smil/master.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="unsorted", Tokyo MX2
+https://movie.mcas.jp/mcas/smil:mx2_prod.smil/master.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="unsorted", TRUELIVE
+https://vcnleomarkstudios.teleosmedia.com/stream/leomarkstudios/screamfest/seglist_720p.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="unsorted", Weather News
+http://movie.mcas.jp/mcas/smil:wn1.smil/master.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="unsorted", World Poker Tour
+https://0f2030e8d8b24ee5bf5144417e07d65a.mediatailor.us-west-2.amazonaws.com/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/WPT-Stirr/119.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="unsorted", YTN
+http://slive.ytn.co.kr:1935/dmb/ydlive_20140419_1/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="unsorted", Action Movies
+https://rakuten-actionmovies-1-gb.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="unsorted", Animax Japan (English Subs)
+http://202.57.43.60:8443/live/5748aabe4c9d661afbd7f4068248f664/125.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="unsorted", Kerrang (576p)
+http://csm-e.tm.yospace.com/csm/extlive/boxplus01,kerrang-desktop.m3u8?yo.up=http://boxtv-origin-elb.cds1.yospace.com/uploads/kerrang/
+#EXTINF:0 type="stream" channelId="-1" group="unsorted", CNN Philippines
+https://streaming.cnnphilippines.com/live/myStream/chunklist.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="unsorted", Cine Mo!
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Philippines/3254f236ad3e872.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="Movies" logo="https://www.kindpng.com/picc/b/470-4700247_velvet-sky-png.png", Cinema One
+http://tigerfights.xyz:2052/live/Michelle/Michelle/2456517.m3u8
+#EXTINF:0 type="stream" channelId="57" group="unsorted", Discovery
+https://indotv.tech/m3u8sd/usee-disco-indonesia.m3u8
+#EXTINF:0 type="stream" channelId="50" group="unsorted", Animal Planet
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/730
+#EXTINF:0 type="stream" channelId="1455" group="unsorted", History
+https://indotv.tech/m3u8sd/usee-history-indonesia.m3u8
+#EXTINF:0 type="stream" channelId="56" group="unsorted", National Geographic
+https://indotv.tech/m3u8sd/usee-natgeo-indonesia.m3u8
+#EXTINF:0 type="stream" channelId="645" group="unsorted", RT Documentary
+http://rt-doc.secure.footprint.net/1101_2500Kb.m3u8
+#EXTINF:0 type="stream" channelId="721" group="unsorted", NASA TV
+https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
+#EXTINF:0 type="stream" channelId="171" group="unsorted", Da Vinci
+http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/DAVINCY-HD-1080p/playlist.m3u8
+#EXTINF:0 type="stream" channelId="5022" group="unsorted", SBS Food
+https://sbs-live.akamaized.net/hls/live/2002829-b/channel3/geo/master_1800K.m3u8|X-Forwarded-For=52.62.247.239
+#EXTINF:0 type="stream" channelId="-1" group="unsorted", TLC US
+https://bozztv.com/teleyupp/teleup-tlc/playlist.m3u8
+#EXTINF:0 type="stream" channelId="1390" group="unsorted", PBS
+https://ssc4.wpsu.psu.edu/WPSU_LLStream/ngrp:WPSU1_720max/chunklist_b786944.m3u8
+#EXTINF:0 type="stream" channelId="280" group="unsorted", Fashion TV
+https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_pg13_zw9_27065_ftv_pg13_196_hls.smil/chunklist_b4700000_t64MTA4MHA=.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="unsorted", Fashion TV+
+http://fash1043.cloudycdn.services/slive/_definst_/ftv_midnite_secrets_adaptive.smil/chunklist_b4700000_t64MTA4MHA=.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="unsorted", Red Bull TV HD
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
+#EXTINF:0 type="stream" channelId="4583" group="unsorted", MLB Network
+http://hlslive-akc-med1.media.mlb.com/ls01/mlbnetwork/NETWORK_LINEAR_1/master_wired.m3u8
+#EXTINF:0 type="stream" channelId="2894" group="unsorted", NFL Network
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ced7d5df64be98e07ed47b6/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=708&deviceId=5ced7d5df64be98e07ed47b6&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
+#EXTINF:0 type="stream" channelId="2883" group="unsorted", CNN
+http://1111296894.rsc.cdn77.org/ls-54548-1/tracks-v1a1/mono.m3u8
+#EXTINF:0 type="stream" channelId="893" group="unsorted", CGTN
+http://live.cgtn.com/1000/prog_index.m3u8
+#EXTINF:0 type="stream" channelId="352" group="unsorted", Deutsche Welle
+http://dwstream4-lh.akamaihd.net/i/dwstream4_live@131329/index_1_av-b.m3u8
+#EXTINF:0 type="stream" channelId="139" group="unsorted", France 24
+http://f24hls-i.akamaihd.net/hls/live/221147/F24_EN_HI_HLS/master_500.m3u8
+#EXTINF:0 type="stream" channelId="1189" group="unsorted", Crime + Investigation
+http://203.154.243.31:15001
+#EXTINF:0 type="stream" channelId="1190" group="unsorted", Comedy Central
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/731
+#EXTINF:0 type="stream" channelId="1211" group="unsorted", Game Show Network
+https://bozztv.com/teleyupp/teleup-gsn-sd/index.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="unsorted", ABC TV Australia
+https://c.mjh.nz/101002510251/
+#EXTINF:0 type="stream" channelId="-1" group="unsorted", Zee TV HD
+https://y5w8j4a9.ssl.hwcdn.net/ztvhdusa/tracks-v1a1/index.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="unsorted", Zee World
+https://y5w8j4a9.ssl.hwcdn.net/world/tracks-v1a1/index.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="unsorted", &Flix HD
+https://y5w8j4a9.ssl.hwcdn.net/andflixhd/tracks-v1a1/index.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="unsorted", Movies Now
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Uk/cd8e768b1b89661.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="unsorted", Star Movies
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/India/53b93bc93a361a2.m3u8
+#EXTINF:0 type="stream" channelId="3128" group="unsorted", Zee Cinema
+https://y5w8j4a9.ssl.hwcdn.net/cinemausa/tracks-v1a1/index.m3u8
+#EXTINF:0 type="stream" channelId="4036" group="unsorted", Paramount Network
+http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/PARAMOUNT-HD-720p/playlist.m3u8
+#EXTINF:0 type="stream" channelId="151" group="unsorted", VH1
+http://stream.streamhubtv.xyz:8080/Iptv/xQDusVsVwA/22645
+#EXTINF:0 type="stream" channelId="-1" name="SBS Plus" logo="https://img.pooq.co.kr/BMS/ChannelImg/21_sbs%20Plus.png" tvg-country="KR", SBS Plus
+http://sksmsanf.iptime.org:9999/klive/api/url.m3u8?m=url&s=wavve&i=S03&q=SD&apikey=OJW57DXHXF
+#EXTINF:0 type="stream" channelId="-1" name="SBS Plus" logo="https://i.imgur.com/lJdOstp.png" tvg-country="KR", SBS Plus (480p)
+https://streaming-a-802.cdn.nextologies.com/SBS_Plus/live/SBS_Plus_1500k/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1" name="SBS Star" logo="https://i.imgur.com/S1YWrNd.jpg" tvg-country="KR", SBS Star (480p)
+https://streaming-a-802.cdn.nextologies.com/SBS_18/playlist.m3u8
