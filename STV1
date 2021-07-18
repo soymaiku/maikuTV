@@ -1,6 +1,8 @@
 #EXTM3U
 #EXTINF:0 type="stream" channelId="-1" group="unsorted", The Eric Andre Show
 http://adultswim-vodlive.cdn.turner.com/live/eric-andre/stream.m3u8
+#EXTINF:0 type="stream" channelId="-1002" group="", Wrestling TV
+http://loginto.live:80/eYE36VSgD/KBaeUqdJhj/1128
 #EXTINF:0 type="stream" channelId="3207" name="11 MyTV (KOTR-LD)" group="Local" logo="https://upload.wikimedia.org/wikipedia/en/b/bd/Kotrlp.jpg" tvg-country="US", 11 MyTV (KOTR-LD) (480i)
 https://cdnapisec.kaltura.com/p/2630451/sp/2630451/playManifest/entryId/1_hq4vlk40/deliveryProfileId/672/protocol/https/format/applehttp/a.m3u8
 #EXTINF:0 type="stream" channelId="23245" group="unsorted", WWE Network 1
