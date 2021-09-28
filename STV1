@@ -325,3 +325,6 @@ http://qqtv.nl:8080/shah/shah123/20874
 http://we.caughtyousnooping.club:80/mYaESHd3Zf/3BbeDHHvtu/187
 #EXTINF:0 type="stream" channelId="3226" group="Movies" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Starz_2016.svg/398px-Starz_2016.svg.png", STARZ
 http://qqtv.nl:8080/shah/shah123/20888
+#EXTINF:-1 tvg-id="GamingTV.us" tvg-name="Gaming TV" tvg-country="US" tvg-language="English" tvg-logo="https://images.pluto.tv/channels/5f8eccd81062c300078a11df/colorLogoPNG.png" group-title="",Gaming TV
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f8eccd81062c300078a11df/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
+
