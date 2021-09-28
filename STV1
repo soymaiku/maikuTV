@@ -1,6 +1,8 @@
 #EXTM3U
 #EXTINF:0 type="stream" channelId="-1" group="Entertainment" logo="https://seeklogo.com/images/A/adult-swim-logo-28477F09E1-seeklogo.com.png", ADULT SWIM
 http://qqtv.nl:8080/shah/shah123/390887
+#EXTINF:0 type="stream" channelId="-1023" group="Cartoons", Cartoon Netwook
+https://list.iptvcat.com/my_list/s/f75b5c9c1cfe60220a46c4b69ef532cd.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="unsorted" logo="https://static.wikia.nocookie.net/logopedia/images/8/81/The_Eric_Andre_Show_alternate_logo.PNG/revision/latest/scale-to-width-down/250?cb=20201102235507" background="#568999", The Eric Andre Show
 http://adultswim-vodlive.cdn.turner.com/live/eric-andre/stream.m3u8
 #EXTINF:1 type="stream" channelId="1052" group="unsorted" background="#568999", TNT 4
