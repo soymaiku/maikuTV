@@ -55,6 +55,66 @@ http://thtg.vn:8001/thtg.m3u8?checkedby:iptvcat.com
 http://113.163.216.23:1935/live/tv2.stream_480p/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1" name="World Poker Tour" group="Entertainment" logo="https://images.pluto.tv/channels/5f8ecfb9db6c180007a6d1b0/colorLogoPNG.png" tvg-country="CA" background="#568999", World Poker Tour (720p)
 https://world-poker-tour-samsung-ca.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:0 type="stream" channelId="1211" group="unsorted", Game Show Network
+https://bozztv.com/teleyupp/teleup-gsn-sd/index.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="Music" logo="https://upload.wikimedia.org/wikipedia/en/a/a0/The_Edge_%28radio_station%29_logo.png", EDGE TV
+https://livestreamdirect-edgetv.mediaworks.nz/edgetv.m3u8
+#EXTINF:0 type="stream" channelId="1283" group="Kids/Family" logo="https://static.wikia.nocookie.net/logopedia/images/2/2e/PopMax.png/revision/latest/scale-to-width-down/200?cb=20170928012212", POP MAX
+http://mytv.fun:8080/99xctzjwoo/94tfra516t/15876
+#EXTINF:0 type="stream" channelId="1214" group="Movies" logo="http://glmtv.pw/logo/prestige/United-Kingdom/sony-movies-us-uk.png", SONY MOVIES
+http://iptvtree.net:8080/32ad147d/055af3e9/5831
+#EXTINF:0 type="stream" channelId="4458" group="Movies", SONY MOVIES CLASSIC
+http://mytv.fun:8080/99xctzjwoo/94tfra516t/6524
+#EXTINF:0 type="stream" channelId="1208" group="Entertainment" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/A%26E_Network_logo.svg/300px-A%26E_Network_logo.svg.png", A&E
+http://iptvtree.net:8080/32ad147d/055af3e9/275188
+#EXTINF:0 type="stream" channelId="322" group="Kids/Family" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Nick_Jr._logo_2009.svg/400px-Nick_Jr._logo_2009.svg.png", NICK JR.
+http://iptvtree.net:8080/32ad147d/055af3e9/14835
+#EXTINF:0 type="stream" channelId="3889" group="Kids/Family" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/NickMusic.svg/384px-NickMusic.svg.png", NICKMUSIC
+http://qqtv.nl:8080/shah/shah123/21095
+#EXTINF:0 type="stream" channelId="2711" group="Kids/Family" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Nicktoons_UK_Logo_2010.svg/500px-Nicktoons_UK_Logo_2010.svg.png", NICKTOONS
+http://qqtv.nl:8080/shah/shah123/186910
+#EXTINF:0 type="stream" channelId="19" group="Kids/Family" logo="https://static.wikia.nocookie.net/logopedia/images/f/ff/Disney_channel_2019.svg/revision/latest/scale-to-width-down/2000?cb=20200320115508", DISNEY CHANNEL
+http://mytv.fun:8080/99xctzjwoo/94tfra516t/14369
+#EXTINF:0 type="stream" channelId="1197" group="Kids/Family" logo="https://i.ibb.co/YD7Lmvs/Disney-Junior-2019.png", DISNEY JUNIOR
+http://mytv.fun:8080/99xctzjwoo/94tfra516t/675522
+#EXTINF:0 type="stream" channelId="1198" group="Kids/Family" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Disney_XD_-_2015.svg/300px-Disney_XD_-_2015.svg.png", DISNEY XD
+http://mytv.fun:8080/99xctzjwoo/94tfra516t/14368
+#EXTINF:0 type="stream" channelId="-1" group="Kids/Family" logo="https://i.imgur.com/xePwW13.png", LEGO CHANNEL
+https://legochannel-roku.amagi.tv/playlist.m3u8
+#EXTINF:0 type="stream" channelId="2051" group="Factual" logo="https://seeklogo.com/images/S/smithsonian-channel-logo-D12E345A27-seeklogo.com.png", SMITHSONIAN CHANNEL (SEA)
+https://smithsonianaus-samsungau.amagi.tv/playlist.m3u8
+#EXTINF:0 type="stream" channelId="56" group="Factual" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/480px-Natgeologo.svg.png", NATIONAL GEOGRAPHIC
+http://mytv.fun:8080/99xctzjwoo/94tfra516t/4881
+#EXTINF:0 type="stream" channelId="164" group="Factual" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/440px-National_Geographic_Wild_logo.svg.png", NATIONAL GEOGRAPHIC WILD
+http://mytv.fun:8080/99xctzjwoo/94tfra516t/13745
+#EXTINF:0 type="stream" channelId="50" group="Factual" logo="https://i.ibb.co/YL690Pt/Animal-Planet-2018-II.png", ANIMAL PLANET
+http://mytv.fun:8080/99xctzjwoo/94tfra516t/14393
+#EXTINF:0 type="stream" channelId="4560" group="Entertainment" logo="https://seeklogo.com/images/D/destination-america-2012-logo-5A7146122C-seeklogo.com.png", DESTINATION AMERICA
+http://mytv.fun:8080/99xctzjwoo/94tfra516t/17640
+#EXTINF:0 type="stream" channelId="-1" name="CNET" group="Entertainment" logo="http://images.pluto.tv/channels/56283c8769ba54637dea0464/colorLogoPNG.png" tvg-country="US", CNET
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/56283c8769ba54637dea0464/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
+#EXTINF:0 type="stream" channelId="3229" group="Entertainment" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/USA_Network_logo_%282016%29.svg/440px-USA_Network_logo_%282016%29.svg.png", USA NETWORK
+http://mytv.fun:8080/99xctzjwoo/94tfra516t/4901
+#EXTINF:0 type="stream" channelId="3219" group="Entertainment" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Reelz.svg/375px-Reelz.svg.png", REELZ
+http://mytv.fun:8080/99xctzjwoo/94tfra516t/51014
+#EXTINF:0 type="stream" channelId="3218" group="Entertainment" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Oxygen_TV_%282017_Logo%29.svg/400px-Oxygen_TV_%282017_Logo%29.svg.png", OXYGEN
+http://mytv.fun:8080/99xctzjwoo/94tfra516t/51015
+#EXTINF:0 type="stream" channelId="177" group="Entertainment" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Fox_Broadcasting_Company_logo_%282019%29.svg/440px-Fox_Broadcasting_Company_logo_%282019%29.svg.png", FOX
+http://mytv.fun:8080/99xctzjwoo/94tfra516t/13757
+#EXTINF:0 type="stream" channelId="3228" group="Entertainment" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/TBS_logo_2016.svg/300px-TBS_logo_2016.svg.png", TBS
+http://mytv.fun:8080/99xctzjwoo/94tfra516t/677201
+#EXTINF:0 type="stream" channelId="2065" group="Sports", WWE NETWORK
+http://mytv.fun:8080/99xctzjwoo/94tfra516t/683883
+#EXTINF:0 type="stream" channelId="-1" group="Sports" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/TSN_Logo.svg/330px-TSN_Logo.svg.png", TSN 1
+http://mytv.fun:8080/99xctzjwoo/94tfra516t/6353
+#EXTINF:0 type="stream" channelId="1395" group="Sports" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/TSN_Logo.svg/330px-TSN_Logo.svg.png", TSN 2
+http://mytv.fun:8080/99xctzjwoo/94tfra516t/6352
+#EXTINF:0 type="stream" channelId="-1" group="Sports" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/TSN_Logo.svg/330px-TSN_Logo.svg.png", TSN 3
+http://mytv.fun:8080/99xctzjwoo/94tfra516t/6351
+#EXTINF:0 type="stream" channelId="-1" group="Sports" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/TSN_Logo.svg/330px-TSN_Logo.svg.png", TSN 4
+http://mytv.fun:8080/99xctzjwoo/94tfra516t/679808
+#EXTINF:0 type="stream" channelId="-1" group="Sports" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/TSN_Logo.svg/330px-TSN_Logo.svg.png", TSN 5
+http://mytv.fun:8080/99xctzjwoo/94tfra516t/6349
 #EXTINF:0 type="stream" channelId="41" logo="http://img.ss-iptv.com/?action=getChannelLogo&id=41" tvg-country="US", Nick
 http://31.220.41.88:8081/live/us-nick.stream/playlist.m3u8
 #EXTINF:0 type="stream" channelId="19" name="Канал Disney" group="Kids" logo="https://i.imgur.com/Q9KoVy9.png" tvg-country="RU", Канал Disney (576p)
@@ -237,72 +297,6 @@ http://live.cgtn.com/1000/prog_index.m3u8
 http://dwstream4-lh.akamaihd.net/i/dwstream4_live@131329/index_1_av-b.m3u8
 #EXTINF:0 type="stream" channelId="139" group="unsorted", France 24
 http://f24hls-i.akamaihd.net/hls/live/221147/F24_EN_HI_HLS/master_500.m3u8
-#EXTINF:0 type="stream" channelId="1211" group="unsorted", Game Show Network
-https://bozztv.com/teleyupp/teleup-gsn-sd/index.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="Movies" logo="https://static.wikia.nocookie.net/russel/images/9/9a/Cine_Mo!_3D_Logo.png/revision/latest/scale-to-width-down/2000?cb=20210301131124", CINEMO!
-http://qqtv.nl:8080/shah/shah123/273501
-#EXTINF:0 type="stream" channelId="-1" group="Movies" logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/6d/Cinema_One_2013_logo.svg/1200px-Cinema_One_2013_logo.svg.png", CINEMA ONE
-http://qqtv.nl:8080/shah/shah123/52873
-#EXTINF:0 type="stream" channelId="-1" group="Music" logo="https://upload.wikimedia.org/wikipedia/en/a/a0/The_Edge_%28radio_station%29_logo.png", EDGE TV
-https://livestreamdirect-edgetv.mediaworks.nz/edgetv.m3u8
-#EXTINF:0 type="stream" channelId="1283" group="Kids/Family" logo="https://static.wikia.nocookie.net/logopedia/images/2/2e/PopMax.png/revision/latest/scale-to-width-down/200?cb=20170928012212", POP MAX
-http://mytv.fun:8080/99xctzjwoo/94tfra516t/15876
-#EXTINF:0 type="stream" channelId="1214" group="Movies" logo="http://glmtv.pw/logo/prestige/United-Kingdom/sony-movies-us-uk.png", SONY MOVIES
-http://iptvtree.net:8080/32ad147d/055af3e9/5831
-#EXTINF:0 type="stream" channelId="4458" group="Movies", SONY MOVIES CLASSIC
-http://mytv.fun:8080/99xctzjwoo/94tfra516t/6524
-#EXTINF:0 type="stream" channelId="1208" group="Entertainment" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/A%26E_Network_logo.svg/300px-A%26E_Network_logo.svg.png", A&E
-http://iptvtree.net:8080/32ad147d/055af3e9/275188
-#EXTINF:0 type="stream" channelId="322" group="Kids/Family" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Nick_Jr._logo_2009.svg/400px-Nick_Jr._logo_2009.svg.png", NICK JR.
-http://iptvtree.net:8080/32ad147d/055af3e9/14835
-#EXTINF:0 type="stream" channelId="3889" group="Kids/Family" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/NickMusic.svg/384px-NickMusic.svg.png", NICKMUSIC
-http://qqtv.nl:8080/shah/shah123/21095
-#EXTINF:0 type="stream" channelId="2711" group="Kids/Family" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Nicktoons_UK_Logo_2010.svg/500px-Nicktoons_UK_Logo_2010.svg.png", NICKTOONS
-http://qqtv.nl:8080/shah/shah123/186910
-#EXTINF:0 type="stream" channelId="19" group="Kids/Family" logo="https://static.wikia.nocookie.net/logopedia/images/f/ff/Disney_channel_2019.svg/revision/latest/scale-to-width-down/2000?cb=20200320115508", DISNEY CHANNEL
-http://mytv.fun:8080/99xctzjwoo/94tfra516t/14369
-#EXTINF:0 type="stream" channelId="1197" group="Kids/Family" logo="https://i.ibb.co/YD7Lmvs/Disney-Junior-2019.png", DISNEY JUNIOR
-http://mytv.fun:8080/99xctzjwoo/94tfra516t/675522
-#EXTINF:0 type="stream" channelId="1198" group="Kids/Family" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Disney_XD_-_2015.svg/300px-Disney_XD_-_2015.svg.png", DISNEY XD
-http://mytv.fun:8080/99xctzjwoo/94tfra516t/14368
-#EXTINF:0 type="stream" channelId="-1" group="Kids/Family" logo="https://i.imgur.com/xePwW13.png", LEGO CHANNEL
-https://legochannel-roku.amagi.tv/playlist.m3u8
-#EXTINF:0 type="stream" channelId="2051" group="Factual" logo="https://seeklogo.com/images/S/smithsonian-channel-logo-D12E345A27-seeklogo.com.png", SMITHSONIAN CHANNEL (SEA)
-https://smithsonianaus-samsungau.amagi.tv/playlist.m3u8
-#EXTINF:0 type="stream" channelId="56" group="Factual" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/480px-Natgeologo.svg.png", NATIONAL GEOGRAPHIC
-http://mytv.fun:8080/99xctzjwoo/94tfra516t/4881
-#EXTINF:0 type="stream" channelId="164" group="Factual" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/440px-National_Geographic_Wild_logo.svg.png", NATIONAL GEOGRAPHIC WILD
-http://mytv.fun:8080/99xctzjwoo/94tfra516t/13745
-#EXTINF:0 type="stream" channelId="50" group="Factual" logo="https://i.ibb.co/YL690Pt/Animal-Planet-2018-II.png", ANIMAL PLANET
-http://mytv.fun:8080/99xctzjwoo/94tfra516t/14393
-#EXTINF:0 type="stream" channelId="4560" group="Entertainment" logo="https://seeklogo.com/images/D/destination-america-2012-logo-5A7146122C-seeklogo.com.png", DESTINATION AMERICA
-http://mytv.fun:8080/99xctzjwoo/94tfra516t/17640
-#EXTINF:0 type="stream" channelId="-1" name="CNET" group="Entertainment" logo="http://images.pluto.tv/channels/56283c8769ba54637dea0464/colorLogoPNG.png" tvg-country="US", CNET
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/56283c8769ba54637dea0464/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
-#EXTINF:0 type="stream" channelId="3229" group="Entertainment" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/USA_Network_logo_%282016%29.svg/440px-USA_Network_logo_%282016%29.svg.png", USA NETWORK
-http://mytv.fun:8080/99xctzjwoo/94tfra516t/4901
-#EXTINF:0 type="stream" channelId="3219" group="Entertainment" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Reelz.svg/375px-Reelz.svg.png", REELZ
-http://mytv.fun:8080/99xctzjwoo/94tfra516t/51014
-#EXTINF:0 type="stream" channelId="3218" group="Entertainment" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Oxygen_TV_%282017_Logo%29.svg/400px-Oxygen_TV_%282017_Logo%29.svg.png", OXYGEN
-http://mytv.fun:8080/99xctzjwoo/94tfra516t/51015
-#EXTINF:0 type="stream" channelId="177" group="Entertainment" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Fox_Broadcasting_Company_logo_%282019%29.svg/440px-Fox_Broadcasting_Company_logo_%282019%29.svg.png", FOX
-http://mytv.fun:8080/99xctzjwoo/94tfra516t/13757
-#EXTINF:0 type="stream" channelId="3228" group="Entertainment" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/TBS_logo_2016.svg/300px-TBS_logo_2016.svg.png", TBS
-http://mytv.fun:8080/99xctzjwoo/94tfra516t/677201
-#EXTINF:0 type="stream" channelId="-1" group="Sports" logo="https://hugetv.org/wp-content/uploads/2016/04/tennis_channel.png", TENNIS CHANNEL
-https://playoutengine.sinclairstoryline.com/playout/9f87522c-5a0e-4ff4-b82c-d5564216132f/g.m3u8
-#EXTINF:0 type="stream" channelId="2065" group="Sports", WWE NETWORK
-http://mytv.fun:8080/99xctzjwoo/94tfra516t/683883
-#EXTINF:0 type="stream" channelId="-1" group="Sports" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/TSN_Logo.svg/330px-TSN_Logo.svg.png", TSN 1
-http://mytv.fun:8080/99xctzjwoo/94tfra516t/6353
-#EXTINF:0 type="stream" channelId="1395" group="Sports" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/TSN_Logo.svg/330px-TSN_Logo.svg.png", TSN 2
-http://mytv.fun:8080/99xctzjwoo/94tfra516t/6352
-#EXTINF:0 type="stream" channelId="-1" group="Sports" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/TSN_Logo.svg/330px-TSN_Logo.svg.png", TSN 3
-http://mytv.fun:8080/99xctzjwoo/94tfra516t/6351
-#EXTINF:0 type="stream" channelId="-1" group="Sports" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/TSN_Logo.svg/330px-TSN_Logo.svg.png", TSN 4
-http://mytv.fun:8080/99xctzjwoo/94tfra516t/679808
-#EXTINF:0 type="stream" channelId="-1" group="Sports" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/TSN_Logo.svg/330px-TSN_Logo.svg.png", TSN 5
-http://mytv.fun:8080/99xctzjwoo/94tfra516t/6349
 #EXTINF:0 type="stream" channelId="-1" group="Sports", SONY SIX
 http://qqtv.nl:8080/shah/shah123/30657
 #EXTINF:0 type="stream" channelId="-1" group="Sports", SONY TEN 1
