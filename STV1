@@ -1,6 +1,10 @@
 #EXTM3U
 #EXTINF:0 type="stream" channelId="-1" group="Entertainment" logo="https://seeklogo.com/images/A/adult-swim-logo-28477F09E1-seeklogo.com.png", ADULT SWIM
 http://qqtv.nl:8080/shah/shah123/390887
+#EXTINF:-1 tvg-id="AdultSwimSamuraiJack.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/zIjbwSa.jpg" group-title="Animation",Adult Swim Samurai Jack (1080p) [Geo-blocked]
+https://adultswim-vodlive.cdn.turner.com/live/samurai-jack/stream.m3u8
+#EXTINF:-1 tvg-id="AdultSwimRickAndMorty.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/vLzXFTa.jpg" group-title="Animation",Adult Swim Rick and Morty (1080p) [Geo-blocked]
+https://adultswim-vodlive.cdn.turner.com/live/rick-and-morty/stream.m3u8
 #EXTINF:0 type="stream" channelId="-1023" group="Cartoons", Cartoon Netwook
 https://list.iptvcat.com/my_list/s/f75b5c9c1cfe60220a46c4b69ef532cd.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="unsorted" logo="https://static.wikia.nocookie.net/logopedia/images/8/81/The_Eric_Andre_Show_alternate_logo.PNG/revision/latest/scale-to-width-down/250?cb=20201102235507" background="#568999", The Eric Andre Show
@@ -329,4 +333,7 @@ http://we.caughtyousnooping.club:80/mYaESHd3Zf/3BbeDHHvtu/187
 http://qqtv.nl:8080/shah/shah123/20888
 #EXTINF:-1 tvg-id="GamingTV.us" tvg-name="Gaming TV" tvg-country="US" tvg-language="English" tvg-logo="https://images.pluto.tv/channels/5f8eccd81062c300078a11df/colorLogoPNG.png" group-title="",Gaming TV
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f8eccd81062c300078a11df/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
-
+#EXTINF:-1 tvg-id="24HourFreeMovies.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/FiTdDp1.png" group-title="Movies",24 Hour Free Movies (720p)
+https://d15690s323oesy.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/UDU-Plex/158.m3u8
+#EXTINF:-1 tvg-id="AMCPresents.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/yngqRL8.png" group-title="Entertainment",AMC Presents (1080p)
+https://amc-amcpresents-1.imdbtv.wurl.com/manifest/playlist.m3u8
