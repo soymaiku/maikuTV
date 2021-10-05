@@ -11,14 +11,8 @@ https://list.iptvcat.com/my_list/s/f75b5c9c1cfe60220a46c4b69ef532cd.m3u8
 http://adultswim-vodlive.cdn.turner.com/live/eric-andre/stream.m3u8
 #EXTINF:1 type="stream" channelId="1052" group="unsorted" background="#568999", TNT 4
 https://16live00.akamaized.net/TNT/index.m3u8
-#EXTINF:0 type="stream" channelId="177" background="#568999", Fox 5 NY
-http://securetv.net:8080/AfRPdHqe1P/3803851994/22524
-#EXTINF:0 type="stream" channelId="177" background="#568999", Fox 5 NY HD
-http://securetv.net:8080/Rnp6p6RwEw/maxxpower1234/15932
 #EXTINF:0 type="stream" channelId="2065" background="#568999", Wrestling TV
 http://loginto.live:80/eYE36VSgD/KBaeUqdJhj/1128
-#EXTINF:0 type="stream" channelId="177" group="Undefined" tvg-country="US" background="#568999", FOX New York
-http://icego.club:80/vanderlei12/vanderlei12/54468?checkedby:iptvcat.com
 #EXTINF:0 type="stream" channelId="2065" group="unsorted" background="#568999", WWE Network 1
 http://loginto.live:80/9E2GucVqA/qorMDQjpwg/4289
 #EXTINF:1 type="stream" channelId="1052" group="unsorted" background="#568999", TNT
