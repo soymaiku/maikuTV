@@ -1,327 +1,487 @@
 #EXTM3U
-#EXTINF:0 type="stream" channelId="-1" group="Entertainment" logo="https://seeklogo.com/images/A/adult-swim-logo-28477F09E1-seeklogo.com.png", ADULT SWIM
-http://qqtv.nl:8080/shah/shah123/390887
-#EXTINF:-1 tvg-id="AdultSwimSamuraiJack.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/zIjbwSa.jpg" group-title="Animation",Adult Swim Samurai Jack (1080p) [Geo-blocked]
-https://adultswim-vodlive.cdn.turner.com/live/samurai-jack/stream.m3u8
-#EXTINF:-1 tvg-id="AdultSwimRickAndMorty.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/vLzXFTa.jpg" group-title="Animation",Adult Swim Rick and Morty (1080p) [Geo-blocked]
-https://adultswim-vodlive.cdn.turner.com/live/rick-and-morty/stream.m3u8
-#EXTINF:0 type="stream" channelId="-1023" group="Cartoons", Cartoon Netwook
-https://list.iptvcat.com/my_list/s/f75b5c9c1cfe60220a46c4b69ef532cd.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="unsorted" logo="https://static.wikia.nocookie.net/logopedia/images/8/81/The_Eric_Andre_Show_alternate_logo.PNG/revision/latest/scale-to-width-down/250?cb=20201102235507" background="#568999", The Eric Andre Show
+#EXTINF:291 type="stream" channelId="-1", The Eric Andre Show
 http://adultswim-vodlive.cdn.turner.com/live/eric-andre/stream.m3u8
-#EXTINF:1 type="stream" channelId="1052" group="unsorted" background="#568999", TNT 4
+#EXTINF:300 type="stream" channelId="-1", Adult Swim Samurai Jack (1080p) [Geo-blocked]
+https://adultswim-vodlive.cdn.turner.com/live/samurai-jack/stream.m3u8
+#EXTINF:0 type="stream" channelId="-1", Adult Swim Rick and Morty (1080p) [Geo-blocked]
+https://adultswim-vodlive.cdn.turner.com/live/rick-and-morty/stream.m3u8
+#EXTINF:1 type="stream" channelId="-1", TNT 4
 https://16live00.akamaized.net/TNT/index.m3u8
-#EXTINF:0 type="stream" channelId="2065" background="#568999", Wrestling TV
+#EXTINF:0 type="stream" channelId="-1", Wrestling TV
 http://loginto.live:80/eYE36VSgD/KBaeUqdJhj/1128
-#EXTINF:0 type="stream" channelId="2065" group="unsorted" background="#568999", WWE Network 1
+#EXTINF:0 type="stream" channelId="-1", WWE Network 1
 http://loginto.live:80/9E2GucVqA/qorMDQjpwg/4289
-#EXTINF:1 type="stream" channelId="1052" group="unsorted" background="#568999", TNT
+#EXTINF:1 type="stream" channelId="1052", TNT
 http://primestreams.tv:826/hommydriver/Qo1gnR9Nku/109218
-#EXTINF:1 type="stream" channelId="3229" group="unsorted" background="#568999", USA NETWORK 1
+#EXTINF:1 type="stream" channelId="-1", USA NETWORK 1
 http://super-iptv.net:2052/elmu986/BalkanIPTVclub/50113?checkedby:iptvcat.com
-#EXTINF:0 type="stream" channelId="1190" name="Comedy Central" logo="https://static.epg.best/il/ComedyCentral.il.png" tvg-country="US", Comedy Central
+#EXTINF:25 type="stream" channelId="1190", Comedy Central
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ca671f215a62078d2ec0abf/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=465&deviceId=5ca671f215a62078d2ec0abf&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
-#EXTINF:1 type="stream" channelId="1194" group="unsorted", BT Sport 1 HD
+#EXTINF:1 type="stream" channelId="1194", BT Sport 1 HD
 http://channels.perfectiptv.co.uk:8080/4750174873/7040805933/189
-#EXTINF:0 type="stream" channelId="-1" group="unsorted" logo="https://upload.wikimedia.org/wikipedia/en/f/fc/HBOHits-ASIA.png", HBO Hits
+#EXTINF:0 type="stream" channelId="-1", HBO Hits
 https://liveorigin01.hbogoasia.com:8443/origin/live/main/HITS/index.m3u8
-#EXTINF:0 type="stream" channelId="2583" group="unsorted", HBO Signature
+#EXTINF:0 type="stream" channelId="2583", HBO Signature
 https://liveorigin01.hbogoasia.com:8443/origin/live/main/SIG/index.m3u8
-#EXTINF:0 type="stream" channelId="2584" group="unsorted", HBO Family
+#EXTINF:0 type="stream" channelId="2584", HBO Family
 https://liveorigin01.hbogoasia.com:8443/origin/live/main/FAMILY/index.m3u8
-#EXTINF:0 type="stream" channelId="-1" logo="https://www.tm.com.my/tv/assets/imgs/channels/red-by-hbo.png", Red by HBO
+#EXTINF:0 type="stream" channelId="-1", Red by HBO
 https://liveorigin01.hbogoasia.com:8443/origin/live/main/RED/index.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="unsorted" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/1024px-HBO_logo.svg.png", HBO Asia
+#EXTINF:99 type="stream" channelId="-1", HBO Asia
 http://50.7.161.82:8278/streams/d/Hbo/playlist.m3u8
-#EXTINF:0 type="stream" channelId="2557" group="unsorted", Warner TV
+#EXTINF:0 type="stream" channelId="2557", Warner TV
 http://203.154.243.89:11205/
-#EXTINF:0 type="stream" channelId="-1" group="Sport;Undefined" logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/1c/New_Japan_Pro_Wrestling_Logo_2.svg/480px-New_Japan_Pro_Wrestling_Logo_2.svg.png" tvg-country="JP;US", New Japan Pro Wrestling World\\\\\\\\\\\\\\,NJPW World
+#EXTINF:508 type="stream" channelId="-1", New Japan Pro Wrestling World\\\\\\\\\\\\\\ - NJPW World
 https://aka-amd-njpwworld-hls-enlive.akamaized.net/hls/video/njpw_en/njpw_en_channel01_3/chunklist_DVR.m3u8?checkedby:iptvcat.com
-#EXTINF:0 type="stream" channelId="1303" group="unsorted" background="#568999", FX
+#EXTINF:0 type="stream" channelId="1303", FX
 https://bozztv.com/teleyupp/teleup-fxhd/playlist.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="Undefined" logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/56/DZBB594.svg/1200px-DZBB594.svg.png" tvg-country="PH" background="#802b2b", Super Radyo DZBB
+#EXTINF:33 type="stream" channelId="-1", Super Radyo DZBB
 http://stream.gmanews.tv/ioslive/livestream/chunklist.m3u8?checkedby:iptvcat.com
-#EXTINF:0 type="stream" channelId="1862" group="unsorted" logo="https://upload.wikimedia.org/wikipedia/commons/1/19/FOX-Movies.png" tvg-country="VN", FOX Movies Asia
+#EXTINF:0 type="stream" channelId="-1", FOX Movies Asia
 https://livecdn.fptplay.net/foxlive/foxmovieshd_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:0 type="stream" channelId="208" group="unsorted", FOX HD Asia
+#EXTINF:0 type="stream" channelId="-1", FOX HD Asia
 https://livecdn.fptplay.net/foxlive/foxhd_hls.smil/chunklist_b1200000.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="Undefined" logo="https://img.hplus.com.vn/460x260/poster/2018/06/05/709843-DN1.png" tvg-country="VN", Da Nang TV2
+#EXTINF:26 type="stream" channelId="-1", Da Nang TV2
 http://drtdnglive.e49a7c38.cdnviet.com/livestream/chunklist.m3u8?checkedby:iptvcat.com
-#EXTINF:0 type="stream" channelId="-1" name="Cà Mau TV" logo="https://i.imgur.com/gWc8xVD.jpg" tvg-country="VN", Cà Mau TV (720p)
+#EXTINF:0 type="stream" channelId="-1", C� Mau TV (720p)
 http://tv.ctvcamau.vn/live/tv/tv.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="Undefined" logo="https://www.coolstreaming.us/img/ch/image5645725876.jpg" tvg-country="VN", Tien Giang
+#EXTINF:0 type="stream" channelId="-1", Tien Giang
 http://thtg.vn:8001/thtg.m3u8?checkedby:iptvcat.com
-#EXTINF:0 type="stream" channelId="-1" name="BRT" logo="https://static.wikia.nocookie.net/logos/images/b/b4/BRT_logo_2002_%28Ba_Ria-Vung_Tau%29.png/revision/latest/scale-to-width-down/2000?cb=20210717143810&path-prefix=vi" tvg-country="VN", BRT (360p)
+#EXTINF:0 type="stream" channelId="-1", BRT (360p)
 http://113.163.216.23:1935/live/tv2.stream_480p/playlist.m3u8
-#EXTINF:0 type="stream" channelId="-1" name="World Poker Tour" group="Entertainment" logo="https://images.pluto.tv/channels/5f8ecfb9db6c180007a6d1b0/colorLogoPNG.png" tvg-country="CA" background="#568999", World Poker Tour (720p)
+#EXTINF:0 type="stream" channelId="-1", World Poker Tour (720p)
 https://world-poker-tour-samsung-ca.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:0 type="stream" channelId="1211" group="unsorted", Game Show Network
+#EXTINF:0 type="stream" channelId="1211", Game Show Network
 https://bozztv.com/teleyupp/teleup-gsn-sd/index.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="Music" logo="https://upload.wikimedia.org/wikipedia/en/a/a0/The_Edge_%28radio_station%29_logo.png", EDGE TV
+#EXTINF:0 type="stream" channelId="-1", EDGE TV
 https://livestreamdirect-edgetv.mediaworks.nz/edgetv.m3u8
-#EXTINF:0 type="stream" channelId="1283" group="Kids/Family" logo="https://static.wikia.nocookie.net/logopedia/images/2/2e/PopMax.png/revision/latest/scale-to-width-down/200?cb=20170928012212", POP MAX
+#EXTINF:0 type="stream" channelId="1283", POP MAX
 http://mytv.fun:8080/99xctzjwoo/94tfra516t/15876
-#EXTINF:0 type="stream" channelId="1214" group="Movies" logo="http://glmtv.pw/logo/prestige/United-Kingdom/sony-movies-us-uk.png", SONY MOVIES
+#EXTINF:0 type="stream" channelId="1214", SONY MOVIES
 http://iptvtree.net:8080/32ad147d/055af3e9/5831
-#EXTINF:0 type="stream" channelId="4458" group="Movies", SONY MOVIES CLASSIC
+#EXTINF:0 type="stream" channelId="4458", SONY MOVIES CLASSIC
 http://mytv.fun:8080/99xctzjwoo/94tfra516t/6524
-#EXTINF:0 type="stream" channelId="1208" group="Entertainment" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/A%26E_Network_logo.svg/300px-A%26E_Network_logo.svg.png", A&E
+#EXTINF:0 type="stream" channelId="1208", A&E
 http://iptvtree.net:8080/32ad147d/055af3e9/275188
-#EXTINF:0 type="stream" channelId="322" group="Kids/Family" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Nick_Jr._logo_2009.svg/400px-Nick_Jr._logo_2009.svg.png", NICK JR.
+#EXTINF:0 type="stream" channelId="322", NICK JR.
 http://iptvtree.net:8080/32ad147d/055af3e9/14835
-#EXTINF:0 type="stream" channelId="3889" group="Kids/Family" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/NickMusic.svg/384px-NickMusic.svg.png", NICKMUSIC
+#EXTINF:0 type="stream" channelId="3889", NICKMUSIC
 http://qqtv.nl:8080/shah/shah123/21095
-#EXTINF:0 type="stream" channelId="2711" group="Kids/Family" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Nicktoons_UK_Logo_2010.svg/500px-Nicktoons_UK_Logo_2010.svg.png", NICKTOONS
+#EXTINF:0 type="stream" channelId="2711", NICKTOONS
 http://qqtv.nl:8080/shah/shah123/186910
-#EXTINF:0 type="stream" channelId="19" group="Kids/Family" logo="https://static.wikia.nocookie.net/logopedia/images/f/ff/Disney_channel_2019.svg/revision/latest/scale-to-width-down/2000?cb=20200320115508", DISNEY CHANNEL
+#EXTINF:0 type="stream" channelId="19", DISNEY CHANNEL
 http://mytv.fun:8080/99xctzjwoo/94tfra516t/14369
-#EXTINF:0 type="stream" channelId="1197" group="Kids/Family" logo="https://i.ibb.co/YD7Lmvs/Disney-Junior-2019.png", DISNEY JUNIOR
+#EXTINF:0 type="stream" channelId="1197", DISNEY JUNIOR
 http://mytv.fun:8080/99xctzjwoo/94tfra516t/675522
-#EXTINF:0 type="stream" channelId="1198" group="Kids/Family" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Disney_XD_-_2015.svg/300px-Disney_XD_-_2015.svg.png", DISNEY XD
+#EXTINF:0 type="stream" channelId="1198", DISNEY XD
 http://mytv.fun:8080/99xctzjwoo/94tfra516t/14368
-#EXTINF:0 type="stream" channelId="-1" group="Kids/Family" logo="https://i.imgur.com/xePwW13.png", LEGO CHANNEL
+#EXTINF:0 type="stream" channelId="-1", LEGO CHANNEL
 https://legochannel-roku.amagi.tv/playlist.m3u8
-#EXTINF:0 type="stream" channelId="2051" group="Factual" logo="https://seeklogo.com/images/S/smithsonian-channel-logo-D12E345A27-seeklogo.com.png", SMITHSONIAN CHANNEL (SEA)
+#EXTINF:0 type="stream" channelId="2051", SMITHSONIAN CHANNEL (SEA)
 https://smithsonianaus-samsungau.amagi.tv/playlist.m3u8
-#EXTINF:0 type="stream" channelId="56" group="Factual" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/480px-Natgeologo.svg.png", NATIONAL GEOGRAPHIC
+#EXTINF:0 type="stream" channelId="56", NATIONAL GEOGRAPHIC
 http://mytv.fun:8080/99xctzjwoo/94tfra516t/4881
-#EXTINF:0 type="stream" channelId="164" group="Factual" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/440px-National_Geographic_Wild_logo.svg.png", NATIONAL GEOGRAPHIC WILD
+#EXTINF:0 type="stream" channelId="164", NATIONAL GEOGRAPHIC WILD
 http://mytv.fun:8080/99xctzjwoo/94tfra516t/13745
-#EXTINF:0 type="stream" channelId="50" group="Factual" logo="https://i.ibb.co/YL690Pt/Animal-Planet-2018-II.png", ANIMAL PLANET
+#EXTINF:0 type="stream" channelId="50", ANIMAL PLANET
 http://mytv.fun:8080/99xctzjwoo/94tfra516t/14393
-#EXTINF:0 type="stream" channelId="4560" group="Entertainment" logo="https://seeklogo.com/images/D/destination-america-2012-logo-5A7146122C-seeklogo.com.png", DESTINATION AMERICA
+#EXTINF:0 type="stream" channelId="4560", DESTINATION AMERICA
 http://mytv.fun:8080/99xctzjwoo/94tfra516t/17640
-#EXTINF:0 type="stream" channelId="-1" name="CNET" group="Entertainment" logo="http://images.pluto.tv/channels/56283c8769ba54637dea0464/colorLogoPNG.png" tvg-country="US", CNET
+#EXTINF:0 type="stream" channelId="-1", CNET
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/56283c8769ba54637dea0464/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
-#EXTINF:0 type="stream" channelId="3229" group="Entertainment" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/USA_Network_logo_%282016%29.svg/440px-USA_Network_logo_%282016%29.svg.png", USA NETWORK
+#EXTINF:0 type="stream" channelId="3229", USA NETWORK
 http://mytv.fun:8080/99xctzjwoo/94tfra516t/4901
-#EXTINF:0 type="stream" channelId="3219" group="Entertainment" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Reelz.svg/375px-Reelz.svg.png", REELZ
+#EXTINF:0 type="stream" channelId="3219", REELZ
 http://mytv.fun:8080/99xctzjwoo/94tfra516t/51014
-#EXTINF:0 type="stream" channelId="3218" group="Entertainment" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Oxygen_TV_%282017_Logo%29.svg/400px-Oxygen_TV_%282017_Logo%29.svg.png", OXYGEN
+#EXTINF:0 type="stream" channelId="3218", OXYGEN
 http://mytv.fun:8080/99xctzjwoo/94tfra516t/51015
-#EXTINF:0 type="stream" channelId="177" group="Entertainment" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Fox_Broadcasting_Company_logo_%282019%29.svg/440px-Fox_Broadcasting_Company_logo_%282019%29.svg.png", FOX
+#EXTINF:0 type="stream" channelId="177", FOX
 http://mytv.fun:8080/99xctzjwoo/94tfra516t/13757
-#EXTINF:0 type="stream" channelId="3228" group="Entertainment" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/TBS_logo_2016.svg/300px-TBS_logo_2016.svg.png", TBS
+#EXTINF:0 type="stream" channelId="3228", TBS
 http://mytv.fun:8080/99xctzjwoo/94tfra516t/677201
-#EXTINF:0 type="stream" channelId="2065" group="Sports", WWE NETWORK
+#EXTINF:0 type="stream" channelId="2065", WWE NETWORK
 http://mytv.fun:8080/99xctzjwoo/94tfra516t/683883
-#EXTINF:0 type="stream" channelId="-1" group="Sports" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/TSN_Logo.svg/330px-TSN_Logo.svg.png", TSN 1
+#EXTINF:0 type="stream" channelId="-1", TSN 1
 http://mytv.fun:8080/99xctzjwoo/94tfra516t/6353
-#EXTINF:0 type="stream" channelId="1395" group="Sports" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/TSN_Logo.svg/330px-TSN_Logo.svg.png", TSN 2
+#EXTINF:0 type="stream" channelId="1395", TSN 2
 http://mytv.fun:8080/99xctzjwoo/94tfra516t/6352
-#EXTINF:0 type="stream" channelId="-1" group="Sports" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/TSN_Logo.svg/330px-TSN_Logo.svg.png", TSN 3
+#EXTINF:0 type="stream" channelId="-1", TSN 3
 http://mytv.fun:8080/99xctzjwoo/94tfra516t/6351
-#EXTINF:0 type="stream" channelId="-1" group="Sports" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/TSN_Logo.svg/330px-TSN_Logo.svg.png", TSN 4
+#EXTINF:0 type="stream" channelId="-1", TSN 4
 http://mytv.fun:8080/99xctzjwoo/94tfra516t/679808
-#EXTINF:0 type="stream" channelId="-1" group="Sports" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/TSN_Logo.svg/330px-TSN_Logo.svg.png", TSN 5
+#EXTINF:0 type="stream" channelId="-1", TSN 5
 http://mytv.fun:8080/99xctzjwoo/94tfra516t/6349
-#EXTINF:0 type="stream" channelId="41" logo="http://img.ss-iptv.com/?action=getChannelLogo&id=41" tvg-country="US", Nick
+#EXTINF:0 type="stream" channelId="41", Nick
 http://31.220.41.88:8081/live/us-nick.stream/playlist.m3u8
-#EXTINF:0 type="stream" channelId="19" name="Канал Disney" group="Kids" logo="https://i.imgur.com/Q9KoVy9.png" tvg-country="RU", Канал Disney (576p)
+#EXTINF:0 type="stream" channelId="-1", 
 http://188.40.68.167/russia/disney/playlist.m3u8
-#EXTINF:0 type="stream" channelId="-1" name="Yu-Gi-Oh" logo="https://www.pngkit.com/png/full/71-713310_yugioh-logo-yu-gi-oh-png.png" tvg-country="US", Yu-Gi-Oh
+#EXTINF:0 type="stream" channelId="-1", Yu-Gi-Oh
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f4ec10ed9636f00089b8c89/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
-#EXTINF:0 type="stream" channelId="2578" group="Sport" tvg-country="BR", ESPN Brasil FHD
+#EXTINF:0 type="stream" channelId="-1", ESPN Brasil FHD
 http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/38413?checkedby:iptvcat.com
-#EXTINF:0 type="stream" channelId="805" group="Sport" tvg-country="US" background="#568999", NBA TV
+#EXTINF:0 type="stream" channelId="805", NBA TV
 http://icego.club:80/vanderlei12/vanderlei12/54485?checkedby:iptvcat.com
-#EXTINF:0 type="stream" channelId="-1" group="Japan" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/TV_Asahi_Logo.svg/1280px-TV_Asahi_Logo.svg.png", TV Asahi
+#EXTINF:0 type="stream" channelId="-1", TV Asahi
 http://203.162.235.41:16906
-#EXTINF:0 type="stream" channelId="-1" group="unsorted" logo="https://upload.wikimedia.org/wikipedia/en/d/df/Mongolian_National_Broadcaster_%28logo%29.png", Mongolian National Broadcaster
+#EXTINF:0 type="stream" channelId="-1", Mongolian National Broadcaster
 http://103.14.38.107:1935/live/mnb.stream/chunklist.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="unsorted" logo="https://upload.wikimedia.org/wikipedia/en/d/df/Mongolian_National_Broadcaster_%28logo%29.png", Mongolian National Broadcaster HD
+#EXTINF:0 type="stream" channelId="-1", Mongolian National Broadcaster HD
 http://103.14.38.107:1935/live/mn2.stream/chunklist.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="unsorted" logo="https://images.pluto.tv/channels/5d14fdb8ca91eedee1633117/colorLogoPNG.png", MTV Spankin' New
+#EXTINF:0 type="stream" channelId="-1", MTV Spankin' New
 http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS07/master.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="unsorted" logo="https://images.pluto.tv/channels/5d14fd1a252d35decbc4080c/colorLogoPNG.png", MTV Biggest Pop
+#EXTINF:0 type="stream" channelId="-1", MTV Biggest Pop
 http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS02/master.m3u8
-#EXTINF:0 type="stream" channelId="1300" group="USA" background="#568999", Pop TV
+#EXTINF:0 type="stream" channelId="1300", Pop TV
 https://live-poptv-fastly-prod.global.ssl.fastly.net/pop/master.m3u8
-#EXTINF:0 type="stream" channelId="1300" group="usa" background="#568999", Pop HD
+#EXTINF:0 type="stream" channelId="-1", Pop HD
 https://live-poptv-fastly-prod.global.ssl.fastly.net/pop/master.m3u8
-#EXTINF:0 type="stream" channelId="177" name="Fox Russia" group="Movies" tvg-country="RU", FOX Russia (576p)
+#EXTINF:0 type="stream" channelId="177", FOX Russia (576p)
 http://188.40.68.167/russia/fox_russia_sd/playlist.m3u8
-#EXTINF:0 type="stream" channelId="3229", USA Network 2
+#EXTINF:0 type="stream" channelId="-1", USA Network 2
 http://stream.tvtap.live:8081/live/us-usanet.stream/chunks.m3u8
-#EXTINF:0 type="stream" channelId="1444" logo="http://assets.stickpng.com/images/5842aa04a6515b1e0ad75b07.png", ABC
+#EXTINF:0 type="stream" channelId="1444", ABC
 http://185.183.34.118/iptv/F59KKDMP2GN7ZB/1087/index.m3u8
-#EXTINF:0 type="stream" channelId="1193" logo="https://download.logo.wine/logo/BT_Sport/BT_Sport-Logo.wine.png", BT SPORT 1 50fps
+#EXTINF:0 type="stream" channelId="-1", BT SPORT 1 50fps
 http://hypernetworks.xyz:80/bodney69/wDfh5Y0m5P/85306
-#EXTINF:0 type="stream" channelId="805" group="Sports" logo="https://www.freepnglogos.com/uploads/nba-logo-png/nba-logo-png-5.png", NBA TV
+#EXTINF:0 type="stream" channelId="805", NBA TV
 http://stream.tvtap.live:8081/live/nba.stream/chunks.m3u8
-#EXTINF:0 type="stream" channelId="70" group="unsorted", FS1
+#EXTINF:0 type="stream" channelId="70", FS1
 http://134.19.182.131:8080/vdg10_2.m3u8?h=17769c8f9018b3491d23270c45762d50
-#EXTINF:0 type="stream" channelId="3206" group="unsorted", The CW
+#EXTINF:0 type="stream" channelId="3206", The CW
 https://bozztv.com/teleyupp1/teleup-cw-whp/tracks-v2a1/mono.m3u8
-#EXTINF:0 type="stream" channelId="2540" group="unsorted", ESPN (1080p)
+#EXTINF:0 type="stream" channelId="2540", ESPN (1080p)
 http://securetv.net:8080/PeMrj5KcTB/8478805158/15951
-#EXTINF:0 type="stream" channelId="2540" group="unsorted", ESPN (720p)
+#EXTINF:0 type="stream" channelId="2540", ESPN (720p)
 http://stream2.grandma.fit/fs2.m3u8
-#EXTINF:0 type="stream" channelId="344" group="unsorted", ESPN 2 (720p)
+#EXTINF:0 type="stream" channelId="344", ESPN 2 (720p)
 http://stream2.grandma.fit/espn2.m3u8
-#EXTINF:0 type="stream" channelId="3211" group="unsorted", ESPN U (720p)
+#EXTINF:0 type="stream" channelId="3211", ESPN U (720p)
 https://gma2.blab.email/espnu.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="unsorted" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/FITE_TV.svg/1280px-FITE_TV.svg.png", Fite
+#EXTINF:0 type="stream" channelId="-1", Fite
 https://cdn-cf.fite.tv/linear/fite247/playlist.m3u8
-#EXTINF:0 type="stream" channelId="4616" name="Axs TV" group="Entertainment" logo="https://zap2it.tmsimg.com/h3/NowShowing/28506/s28506_h3_aa.png" tvg-country="US", AXS TV (720p)
+#EXTINF:0 type="stream" channelId="4616", AXS TV (720p)
 https://bozztv.com/teleyupp/teleup-axshd/playlist.m3u8
-#EXTINF:0 type="stream" channelId="-1" name="AXS TV Now" group="General" logo="https://f9q4g5j6.ssl.hwcdn.net/605d1bba10396351a3042dd4" tvg-country="US", AXS TV Now (1080p)
+#EXTINF:0 type="stream" channelId="-1", AXS TV Now (1080p)
 https://dikcfc9915kp8.cloudfront.net/hls/main.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="unsorted" logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/85/Fox_Sports_Australia_Logos.svg/1280px-Fox_Sports_Australia_Logos.svg.png" tvg-country="AU", FOX Sport HD 1
+#EXTINF:0 type="stream" channelId="-1", FOX Sport HD 1
 https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="unsorted" logo="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/ecd51263-bb0f-4465-af86-f7ed25e58e70/def0w31-a84d4090-b56e-4e39-a9dd-ff72dacf01c3.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2VjZDUxMjYzLWJiMGYtNDQ2NS1hZjg2LWY3ZWQyNWU1OGU3MFwvZGVmMHczMS1hODRkNDA5MC1iNTZlLTRlMzktYTlkZC1mZjcyZGFjZjAxYzMucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.1J6jNMt-uZ1PAyX7Pxz5cZKseQHZJeCdH-2Q6ghCvb0", AFV
+#EXTINF:0 type="stream" channelId="-1", AFV
 https://dai.google.com/linear/hls/event/18_lZXPySFa5_GRVEbOX_A/master.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="unsorted" logo="https://image.roku.com/developer_channels/prod/5da3658a31ea9d21cbfabd6e32c5568e7d7fe4d9238d231782d27cb78600e187.png", Amazing Discoveries TV
+#EXTINF:0 type="stream" channelId="-1", Amazing Discoveries TV
 https://uni01rtmp.tulix.tv/amazingdtv/amazingdtv/playlist.m3u8
-#EXTINF:0 type="stream" channelId="529" group="unsorted", Arirang
+#EXTINF:0 type="stream" channelId="529", Arirang
 http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
-#EXTINF:0 type="stream" channelId="-1" name="eGG Network" group="Gaming" logo="https://battle-arena.my/wp-content/uploads/2018/09/egg_logo_reversed__B.png", eGG Network
+#EXTINF:0 type="stream" channelId="-1", eGG Network
 http://210.210.155.35:80/session/d1b3a4ce-2ef5-11eb-87e1-c81f66f89318/uq2663/h/h22/01.m3u8
-#EXTINF:0 type="stream" channelId="-1" logo="https://upload.wikimedia.org/wikipedia/commons/d/d5/Smithsonian_Channel.png", Smithsonian Channel Asia 1080p
+#EXTINF:0 type="stream" channelId="-1", Smithsonian Channel Asia 1080p
 https://smithsonianaus-samsungau.amagi.tv/playlist.m3u8
-#EXTINF:0 type="stream" channelId="3192" logo="https://upload.wikimedia.org/wikipedia/en/4/44/BBC_Earth_logo.png" tvg-country="PH", BBC Earth
+#EXTINF:0 type="stream" channelId="3192", BBC Earth
 http://iptvtree.net:8080/live/32ad147d/055af3e9/23271.ts
-#EXTINF:0 type="stream" channelId="-1" name="NBC Jacksonville FL (WTLV)" group="Local" logo="https://i.imgur.com/KQrtvoo.jpg" tvg-country="US", NBC / ABC Jacksonville FL (WTLV) (1080p)
+#EXTINF:0 type="stream" channelId="-1", NBC / ABC Jacksonville FL (WTLV) (1080p)
 https://livevideo01.firstcoastnews.com/hls/live/2014550/newscasts/live.m3u8
-#EXTINF:0 type="stream" channelId="1143" group="unsorted", BBC News
+#EXTINF:0 type="stream" channelId="1143", BBC News
 http://51.52.156.22:8888/http/004
-#EXTINF:0 type="stream" channelId="-1" group="unsorted" logo="https://upload.wikimedia.org/wikipedia/en/4/4d/Teledifusão_de_Macau.png", Canal Macau (Opt-2)
+#EXTINF:0 type="stream" channelId="-1", Canal Macau (Opt-2)
 http://61.244.22.4/ch2/ch2.live/playelist.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="unsorted" logo="https://lh3.googleusercontent.com/proxy/lwP7bhVvld8DGnyiIMT0SC6ag5VOBOHOcIfLQ35TQ7iGgHTGoIou55C6_HypVmM6Z2pB-FD1e0IH8aL7x2TyCkkX", CBS TV
+#EXTINF:0 type="stream" channelId="-1", CBS TV
 http://cbs-live.gscdn.com/cbs-live/cbs-live.stream/hasbahca.m3u8
-#EXTINF:0 type="stream" channelId="894" group="unsorted", CCTV-4 (Opt-2)
+#EXTINF:0 type="stream" channelId="894", CCTV-4 (Opt-2)
 http://45.126.83.51/qwr9ew/s/s19/index.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="unsorted" logo="https://vectorlogo4u.com/wp-content/uploads/2019/06/CNA-Channel-News-Asia-Logo.png", CNA
+#EXTINF:0 type="stream" channelId="-1", CNA
 http://210.210.155.35/uq2663/h/h29/01.m3u8
-#EXTINF:0 type="stream" channelId="352" group="unsorted", Deutsche Welle (Opt-1)
+#EXTINF:0 type="stream" channelId="352", Deutsche Welle (Opt-1)
 http://dwstream5-lh.akamaihd.net/i/dwstream5_live@124540/master.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="unsorted" logo="https://www.bs-asahi.co.jp/wp-content/uploads/2019/07/bsasahi_pr_sns.jpg", BS Asahi (New!)
+#EXTINF:0 type="stream" channelId="-1", BS Asahi (New!)
 http://203.162.235.41:16914
-#EXTINF:0 type="stream" channelId="-1" group="unsorted" logo="data:image/png;base64,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" tvg-country="TW", Dragon Television
+#EXTINF:0 type="stream" channelId="-1", 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" tvg-country="TW" -  Dragon Television
 http://45.126.83.51/qwr9ew/s/s29/index.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="unsorted" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/EBS_1_logo.svg/1200px-EBS_1_logo.svg.png" tvg-country="KR", EBS Plus 1
+#EXTINF:0 type="stream" channelId="-1", EBS Plus 1
 http://ebsonair.ebs.co.kr:1935/plus1tablet500k/tablet500k/playlist.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="unsorted" logo="https://static.wikia.nocookie.net/logopedia/images/5/5c/Channels_IPTV_02.png/revision/latest?cb=20180627175021", EBS Plus 2
+#EXTINF:0 type="stream" channelId="-1", EBS Plus 2
 http://ebsonair.ebs.co.kr:1935/plus2tablet500k/tablet500k/playlist.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="unsorted" logo="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/9bf014d9-4c02-4260-9bab-e645f8305095/de41nbv-c7c04c11-7385-45b7-982d-81218c00c55d.png/v1/fill/w_748,h_627,strp/fail_army_symbol_by_waterisgood_de41nbv-fullview.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NjI3IiwicGF0aCI6IlwvZlwvOWJmMDE0ZDktNGMwMi00MjYwLTliYWItZTY0NWY4MzA1MDk1XC9kZTQxbmJ2LWM3YzA0YzExLTczODUtNDViNy05ODJkLTgxMjE4YzAwYzU1ZC5wbmciLCJ3aWR0aCI6Ijw9NzQ4In1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmltYWdlLm9wZXJhdGlvbnMiXX0.q0TNQ16lGgoNLzHaPr-Gr2oBa6VUfFEzlDeqs5BjcEA", FailArmy
+#EXTINF:0 type="stream" channelId="-1", h_627 - strp/fail_army_symbol_by_waterisgood_de41nbv-fullview.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NjI3IiwicGF0aCI6IlwvZlwvOWJmMDE0ZDktNGMwMi00MjYwLTliYWItZTY0NWY4MzA1MDk1XC9kZTQxbmJ2LWM3YzA0YzExLTczODUtNDViNy05ODJkLTgxMjE4YzAwYzU1ZC5wbmciLCJ3aWR0aCI6Ijw9NzQ4In1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmltYWdlLm9wZXJhdGlvbnMiXX0.q0TNQ16lGgoNLzHaPr-Gr2oBa6VUfFEzlDeqs5BjcEA"\, FailArmy
 https://dai.google.com/linear/hls/event/7tuuoX1wSsCTaki1HqJFYw/master.m3u8
-#EXTINF:0 type="stream" channelId="4040" group="unsorted", Fight Sports
+#EXTINF:0 type="stream" channelId="4040", Fight Sports
 http://210.210.155.35/session/b09f20ac-0755-11e9-90c8-c81f66f89318/uq2663/h/h05/02.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="unsorted" logo="https://amcham.com.tw/wp-content/uploads/2020/12/ftv-news-logo.png", FTV News (Opt-2)
+#EXTINF:0 type="stream" channelId="-1", FTV News (Opt-2)
 http://210.61.56.23/hls/ftvtv/index.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="unsorted", Gunma TV
+#EXTINF:0 type="stream" channelId="-1", Gunma TV
 https://movie.mcas.jp/switcher/smil:mcas8.smil/master.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="unsorted" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Impact_Wrestling_Logo.svg/1291px-Impact_Wrestling_Logo.svg.png", IMPACT Wrestling
+#EXTINF:0 type="stream" channelId="-1", IMPACT Wrestling
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/59b722526996084038c01e1b/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=734&deviceId=59b722526996084038c01e1b&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
-#EXTINF:0 type="stream" channelId="-1" group="unsorted" logo="https://res.cloudinary.com/crunchbase-production/image/upload/c_lpad,h_170,w_170,f_auto,b_white,q_auto:eco,dpr_1/e0jstxjvmapn0ag1bjqp", Japanet Channel DX
+#EXTINF:0 type="stream" channelId="-1", h_170 - w_170\,f_auto\,b_white\,q_auto:eco\,dpr_1/e0jstxjvmapn0ag1bjqp"\, Japanet Channel DX
 https://bcsecurelivehls-i.akamaihd.net/hls/live/265320/5043843989001/140130JTDX/index.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="unsorted", KBS LiveCam DokDo
+#EXTINF:0 type="stream" channelId="-1", KBS LiveCam DokDo
 http://kbs-dokdo.gscdn.com/dokdo_300/_definst_/dokdo_300.stream/playlist.m3u8
-#EXTINF:0 type="stream" channelId="-1" logo="https://static.wikia.nocookie.net/tvpedia/images/c/ce/Kəpəz_TV_%28Азербайджан%29_%282019-н.в.%29.png/revision/latest?cb=20190304151708&path-prefix=ru", Kepez TV
+#EXTINF:0 type="stream" channelId="-1", Kepez TV
 http://85.132.81.184:8080/arbkepez/live/index.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="unsorted" logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/1c/New_Japan_Pro_Wrestling_Logo_2.svg/480px-New_Japan_Pro_Wrestling_Logo_2.svg.png", New Japan Pro Wrestling World
+#EXTINF:0 type="stream" channelId="-1", New Japan Pro Wrestling World
 https://aka-amd-njpwworld-hls-enlive.akamaized.net/hls/video/njpw_en/njpw_en_channel01_3/chunklist_DVR.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="unsorted", NHK Chinese Vision
+#EXTINF:0 type="stream" channelId="-1", NHK Chinese Vision
 https://nhkw-zh-hlscomp.akamaized.net/8thz5iufork8wjip/playlist.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="unsorted", NHK World Japan
-https://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/global/2003458/live.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="unsorted", NTV News24
+#EXTINF:0 type="stream" channelId="-1", NTV News24
 https://www.news24.jp/livestream/index.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="unsorted", QVC Japan
+#EXTINF:0 type="stream" channelId="-1", QVC Japan
 https://cdn-live1.qvc.jp/iPhone/1501/1501.m3u8
-#EXTINF:0 type="stream" channelId="1333" group="unsorted", Red Bull TV
+#EXTINF:0 type="stream" channelId="1333", Red Bull TV
 http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="unsorted", Ring of Honor
+#EXTINF:0 type="stream" channelId="-1", Ring of Honor
 https://stadium-ringofhonor-1.sinclair.wurl.com/manifest/playlist.m3u8
-#EXTINF:0 type="stream" channelId="-1" name="STIRR Ring of Honor" logo="https://komonews.com/resources/media2/3x1/full/119/center/90/154876f2-ed78-4a1e-959d-96aab12af9cd-small3x1_STIRR_Logo_0720_ROHBestofthePlanet_1920x1080_EPG.png?cb=c81e728d9d4c2f636f067f89cc14862c" tvg-country="US", STIRR Ring of Honor (720p)
+#EXTINF:0 type="stream" channelId="-1", STIRR Ring of Honor (720p)
 https://dai.google.com/linear/hls/event/RNiQYO3aTjOqTe8od1zlqA/master.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="unsorted" logo="https://static.wikia.nocookie.net/logopedia/images/5/56/SBS_Plus_logo.png/revision/latest/scale-to-width-down/200?cb=20200910235424" tvg-country="KR", SBS Plus
+#EXTINF:0 type="stream" channelId="-1", SBS Plus
 https://streaming-a-802.cdn.nextologies.com/SBS_Plus/live/SBS_Plus_1500k/chunks.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="unsorted" logo="https://cdn-radiotime-logos.tunein.com/s81091d.png", Sheffield Live! 93.2 FM
+#EXTINF:0 type="stream" channelId="-1", Sheffield Live! 93.2 FM
 http://tv.sheffieldlive.org/hls/main.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="unsorted" logo="https://www.oracle.com/node/oce/storyhub/prod/api/v1.1/assets/CONT4AAC0BCBB97A4ABC9BADC98867C918EB/native" tvg-country="JP", Shop Channel
+#EXTINF:0 type="stream" channelId="-1", Shop Channel
 https://stream3.shopch.jp/HLS/master.m3u8
-#EXTINF:0 type="stream" channelId="1175" group="unsorted", Sky News
+#EXTINF:0 type="stream" channelId="1175", Sky News
 https://skynews2-plutolive-vo.akamaized.net/cdhlsskynewsamericas/1013/latest.m3u8?serverSideAds=true
-#EXTINF:0 type="stream" channelId="1447" group="unsorted", Spike (Opt-1)
+#EXTINF:0 type="stream" channelId="1447", Spike (Opt-1)
 https://viacomitalytest-lh.akamaihd.net/i/sbshdlive_1@829515/index_1800_av-p.m3u8
-#EXTINF:0 type="stream" channelId="2146" group="unsorted", Teleritmo
+#EXTINF:0 type="stream" channelId="2146", Teleritmo
 http://mdstrm.com/live-stream-playlist_400/57b4dc126338448314449d0c.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="unsorted" logo="https://logos-download.com/wp-content/uploads/2020/06/TMZ_Logo.png", TMZ
+#EXTINF:0 type="stream" channelId="-1", TMZ
 https://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1234A-tmz/CDN/1280x720_5000000/index.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="unsorted", Tokyo MX1
+#EXTINF:0 type="stream" channelId="-1", Tokyo MX1
 https://movie.mcas.jp/mcas/smil:mx1_prod.smil/master.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="unsorted", Tokyo MX2
+#EXTINF:0 type="stream" channelId="-1", Tokyo MX2
 https://movie.mcas.jp/mcas/smil:mx2_prod.smil/master.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="unsorted" logo="https://res.cloudinary.com/crunchbase-production/image/upload/c_lpad,f_auto,q_auto:eco,dpr_1/xgadodx7njmnyyftac8h", TRUELIVE
+#EXTINF:0 type="stream" channelId="-1", f_auto - q_auto:eco\,dpr_1/xgadodx7njmnyyftac8h"\, TRUELIVE
 https://vcnleomarkstudios.teleosmedia.com/stream/leomarkstudios/screamfest/seglist_720p.m3u8
-#EXTINF:0 type="stream" channelId="2035" name="Love Nature" group="Educational" logo="https://i.ibb.co/X8hFFP4/Love-Nature-Type-Mask-FINAL-highres-removebg-preview-1.png", Love Nature
-http://bamus-eng-roku.amagi.tv/playlist1080p.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="unsorted" logo="https://www.redhat.com/cms/managed-files/styles/wysiwyg_full_width/s3/weathernews_logo_225x158.png?itok=OMPiDcyp", Weather News
+#EXTINF:0 type="stream" channelId="-1", Weather News
 http://movie.mcas.jp/mcas/smil:wn1.smil/master.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="unsorted" logo="https://www.ytn.co.kr/img/logo_ytn.png" tvg-country="KR", YTN
+#EXTINF:0 type="stream" channelId="-1", YTN
 http://slive.ytn.co.kr:1935/dmb/ydlive_20140419_1/playlist.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="Movies" logo="https://waitforit.rakuten.tv/assets/R_TV-WHITE.png", Rakuten Action Movies
+#EXTINF:0 type="stream" channelId="-1", Rakuten Action Movies
 https://rakuten-actionmovies-1-gb.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="unsorted" logo="http://img.ss-iptv.com/?action=getChannelLogo&id=2883" tvg-country="PH", CNN Philippines
+#EXTINF:0 type="stream" channelId="-1", CNN Philippines
 https://streaming.cnnphilippines.com/live/myStream/chunklist.m3u8
-#EXTINF:0 type="stream" channelId="-1" name="Nat Geo WILD Asia" group="Documentary" logo="https://download.logo.wine/logo/Nat_Geo_Wild/Nat_Geo_Wild-Logo.wine.png" tvg-country="MY", Nat Geo WILD Asia (720p)
+#EXTINF:0 type="stream" channelId="-1", Nat Geo WILD Asia (720p)
 http://50.7.161.82:8278/streams/d/Natgeowild/playlist.m3u8
-#EXTINF:0 type="stream" channelId="-1" name="Nat Geo WILD Russia" group="Documentary" logo="https://download.logo.wine/logo/Nat_Geo_Wild/Nat_Geo_Wild-Logo.wine.png" tvg-country="RU", Nat Geo WILD Russia (1080p)
+#EXTINF:0 type="stream" channelId="-1", Nat Geo WILD Russia (1080p)
 https://sc.id-tv.kz/NatGeoWildHD_34_35.m3u8
-#EXTINF:0 type="stream" channelId="645" group="unsorted", RT Documentary
+#EXTINF:0 type="stream" channelId="645", RT Documentary
 http://rt-doc.secure.footprint.net/1101_2500Kb.m3u8
-#EXTINF:0 type="stream" channelId="721" group="unsorted", NASA TV
+#EXTINF:0 type="stream" channelId="721", NASA TV
 https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
-#EXTINF:0 type="stream" channelId="67" group="unsorted", TLC US
+#EXTINF:0 type="stream" channelId="-1", TLC US
 https://bozztv.com/teleyupp/teleup-tlc/playlist.m3u8
-#EXTINF:0 type="stream" channelId="1390" group="unsorted", PBS
+#EXTINF:0 type="stream" channelId="1390", PBS
 https://ssc4.wpsu.psu.edu/WPSU_LLStream/ngrp:WPSU1_720max/chunklist_b786944.m3u8
-#EXTINF:0 type="stream" channelId="280" group="unsorted", Fashion TV
+#EXTINF:0 type="stream" channelId="280", Fashion TV
 https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_pg13_zw9_27065_ftv_pg13_196_hls.smil/chunklist_b4700000_t64MTA4MHA=.m3u8
-#EXTINF:0 type="stream" channelId="281" group="unsorted", Fashion TV+
+#EXTINF:0 type="stream" channelId="-1", Fashion TV+
 http://fash1043.cloudycdn.services/slive/_definst_/ftv_midnite_secrets_adaptive.smil/chunklist_b4700000_t64MTA4MHA=.m3u8
-#EXTINF:0 type="stream" channelId="-1" name="World Poker Tour" group="Entertainment" logo="https://images.pluto.tv/channels/5f8ecfb9db6c180007a6d1b0/colorLogoPNG.png" tvg-country="US", World Poker Tour (1080p)
+#EXTINF:0 type="stream" channelId="-1", World Poker Tour (1080p)
 https://dth07jsr8atug.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/WPT-Plex/171.m3u8
-#EXTINF:0 type="stream" channelId="1333" group="unsorted", Red Bull TV HD
+#EXTINF:0 type="stream" channelId="-1", Red Bull TV HD
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
-#EXTINF:0 type="stream" channelId="4583" group="unsorted", MLB Network
+#EXTINF:0 type="stream" channelId="4583", MLB Network
 http://hlslive-akc-med1.media.mlb.com/ls01/mlbnetwork/NETWORK_LINEAR_1/master_wired.m3u8
-#EXTINF:0 type="stream" channelId="2894" group="unsorted", NFL Network
+#EXTINF:0 type="stream" channelId="2894", NFL Network
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ced7d5df64be98e07ed47b6/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=708&deviceId=5ced7d5df64be98e07ed47b6&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
-#EXTINF:0 type="stream" channelId="2883" group="unsorted", CNN
+#EXTINF:0 type="stream" channelId="2883", CNN
 http://1111296894.rsc.cdn77.org/ls-54548-1/tracks-v1a1/mono.m3u8
-#EXTINF:0 type="stream" channelId="893" group="unsorted", CGTN
+#EXTINF:0 type="stream" channelId="893", CGTN
 http://live.cgtn.com/1000/prog_index.m3u8
-#EXTINF:0 type="stream" channelId="352" group="unsorted", Deutsche Welle
+#EXTINF:0 type="stream" channelId="352", Deutsche Welle
 http://dwstream4-lh.akamaihd.net/i/dwstream4_live@131329/index_1_av-b.m3u8
-#EXTINF:0 type="stream" channelId="139" group="unsorted", France 24
+#EXTINF:0 type="stream" channelId="139", France 24
 http://f24hls-i.akamaihd.net/hls/live/221147/F24_EN_HI_HLS/master_500.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="Sports", SONY SIX
+#EXTINF:0 type="stream" channelId="-1", SONY SIX
 http://qqtv.nl:8080/shah/shah123/30657
-#EXTINF:0 type="stream" channelId="-1" group="Sports", SONY TEN 1
+#EXTINF:0 type="stream" channelId="-1", SONY TEN 1
 http://qqtv.nl:8080/shah/shah123/30625
-#EXTINF:0 type="stream" channelId="-1" group="Sports", SONY TEN 2
+#EXTINF:0 type="stream" channelId="-1", SONY TEN 2
 http://qqtv.nl:8080/shah/shah123/30624
-#EXTINF:0 type="stream" channelId="2327" group="Movies" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Showtime.svg/440px-Showtime.svg.png", SHOWTIME
+#EXTINF:0 type="stream" channelId="2327", SHOWTIME
 http://qqtv.nl:8080/shah/shah123/67138
-#EXTINF:0 type="stream" channelId="3220" group="Movies" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Showtime.svg/440px-Showtime.svg.png", SHOWTIME 2
+#EXTINF:0 type="stream" channelId="3220", SHOWTIME 2
 http://qqtv.nl:8080/shah/shah123/20894
-#EXTINF:0 type="stream" channelId="3222" group="Movies" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Showtime.svg/440px-Showtime.svg.png", SHOWTIME EXTREME
+#EXTINF:0 type="stream" channelId="3222", SHOWTIME EXTREME
 http://qqtv.nl:8080/shah/shah123/67139
-#EXTINF:0 type="stream" channelId="3223" group="Movies" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Showtime.svg/440px-Showtime.svg.png", SHOWTIME FAMILY ZONE
+#EXTINF:0 type="stream" channelId="3223", SHOWTIME FAMILY ZONE
 http://we.caughtyousnooping.club:80/mYaESHd3Zf/3BbeDHHvtu/183
-#EXTINF:0 type="stream" channelId="3224" group="Movies" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Showtime.svg/440px-Showtime.svg.png", SHOWTIME NEXT
+#EXTINF:0 type="stream" channelId="3224", SHOWTIME NEXT
 http://qqtv.nl:8080/shah/shah123/393657
-#EXTINF:0 type="stream" channelId="-1" group="Movies" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Showtime.svg/440px-Showtime.svg.png", SHOWTIME SHOWCASE
+#EXTINF:0 type="stream" channelId="-1", SHOWTIME SHOWCASE
 http://qqtv.nl:8080/shah/shah123/20874
-#EXTINF:0 type="stream" channelId="3225" group="Movies" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Showtime.svg/440px-Showtime.svg.png", SHOWTIME WOMEN
+#EXTINF:0 type="stream" channelId="3225", SHOWTIME WOMEN
 http://we.caughtyousnooping.club:80/mYaESHd3Zf/3BbeDHHvtu/187
-#EXTINF:0 type="stream" channelId="3226" group="Movies" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Starz_2016.svg/398px-Starz_2016.svg.png", STARZ
-http://qqtv.nl:8080/shah/shah123/20888
-#EXTINF:-1 tvg-id="GamingTV.us" tvg-name="Gaming TV" tvg-country="US" tvg-language="English" tvg-logo="https://images.pluto.tv/channels/5f8eccd81062c300078a11df/colorLogoPNG.png" group-title="",Gaming TV
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f8eccd81062c300078a11df/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
-#EXTINF:-1 tvg-id="24HourFreeMovies.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/FiTdDp1.png" group-title="Movies",24 Hour Free Movies (720p)
-https://d15690s323oesy.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/UDU-Plex/158.m3u8
-#EXTINF:-1 tvg-id="AMCPresents.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/yngqRL8.png" group-title="Entertainment",AMC Presents (1080p)
-https://amc-amcpresents-1.imdbtv.wurl.com/manifest/playlist.m3u8
+#EXTINF:0 type="stream" channelId="2557", Warner TV
+http://203.154.243.89:11205/
+#EXTINF:0 type="stream" channelId="4956", Starmovies HD
+http://103.153.39.34:8000/play/a04f/index.m3u8
+#EXTINF:0 type="stream" channelId="1303" name="FX" group="US" tvg-country="us",  FX
+http://stream.tvtap.live:8081/live/us-fx.stream/chunks.m3u8
+#EXTINF:0 type="stream" channelId="4592", HBO Zone
+http://stream.tvtap.live:8081/live/us-hbozone.stream/chunks.m3u8
+#EXTINF:0 type="stream" channelId="1330", HBO USA
+http://stream.tvtap.live:8081/live/us-hbo.stream/chunks.m3u8
+#EXTINF:0 type="stream" channelId="2584", HBO Family USA
+http://stream.tvtap.live:8081/live/us-hbofamily.stream/chunks.m3u8
+#EXTINF:0 type="stream" channelId="-1", Movies X
+http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1", Movies Now
+http://103.157.237.18:8000/play/725
+#EXTINF:0 type="stream" channelId="-1", Showtime backup
+http://stream.tvtap.live:8081/live/us-cinemax.stream/chunks.m3u8
+#EXTINF:0 type="stream" channelId="4552", Actionmax
+http://stream.tvtap.live:8081/live/us-cinemaxaction.stream/chunks.m3u8
+#EXTINF:0 type="stream" channelId="-1", 5 Starmax
+http://stream.tvtap.live:8081/live/us-cinemax-5starmax.stream/chunks.m3u8
+#EXTINF:0 type="stream" channelId="3229", USA Network
+http://stream.tvtap.live:8081/live/us-usanet.stream/chunks.m3u8
+#EXTINF:0 type="stream" channelId="-1", MNX
+http://evdibac.com/live/307241001327/307241001327/83605.ts
+#EXTINF:0 type="stream" channelId="-1", MN+
+http://evdibac.com/live/307241001327/307241001327/83603.ts
+#EXTINF:0 type="stream" channelId="-1", tvN Movie
+http://51.15.12.163:8080/Ainamanja/6a4fef36/157596?token=ShUNAEFcElxECg0AXw8BVVJUBAlUAQRYVAJWVAZVAAJUBlJQV1cIA1EaGEZKTREDAFhpWAUVDwsABVRVA05DFkJSFz5bUBJcRA0NXQ8AQUpDQV9cBBUPCAAAWlcDVVdUCRtHEVtQElxECQRcAQ9BSkNQTkUERVtYWm4HB0ELAgYTDQsUXlgcRAlWawBcVAIIBRcME1AVGRtfQhNADQwUD10bRwNbQEIHEl0WXhsAUVBDGRRSDkJbTURIQVgVLC1BHRUAGUZRXhUPV1pGAxsXFUMZFFgSaEdcRUURB1YPBBETDUdREBgSCwdAawdWVw0DAkFfXg9EFwMUA0FOFQ8ODVhDChNtRFkCRAIWVQgLW1JDSA==
+#EXTINF:0 type="stream" channelId="-1", Movie Kingdom
+https://a.jsrdn.com/broadcast/e9b4093a41/+0000/high/c.m3u8
+#EXTINF:0 type="stream" channelId="1286", Thrill
+http://45.126.83.51/qwr9ew/s/s34/index.m3u8
+#EXTINF:0 type="stream" channelId="883", K+ (Movies)
+http://210.210.155.35:80/uq2663/h/h08/01.m3u8
+#EXTINF:0 type="stream" channelId="4550", Starz Cinema
+http://stream.tvtap.live:8081/live/us-starzcinema.stream/chunks.m3u8
+#EXTINF:0 type="stream" channelId="3226", Starz
+http://stream.tvtap.live:8081/live/us-starz.stream/chunks.m3u8
+#EXTINF:0 type="stream" channelId="4551", Starz Comedy
+http://stream.tvtap.live:8081/live/us-starz-comedy.stream/chunks.m3u8
+#EXTINF:0 type="stream" channelId="-1", Celestial Movies [HEVC]
+http://50.7.161.82:8278/streams/d/Celestial/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1", MoviesComedy
+https://a.jsrdn.com/broadcast/e9b4093a41/+0000/c.m3u8
+#EXTINF:0 type="stream" channelId="-1", LaughtTv
+https://playout4multirtmp.tulix.tv/live7/Stream1/chunklist_w1897993124.m3u8
+#EXTINF:0 type="stream" channelId="321", Boomerang
+http://stream.tvtap.live:8081/live/us-boomerang.stream/chunks.m3u8
+#EXTINF:0 type="stream" channelId="805", NBA TV
+http://stream.tvtap.live:8081/live/nba.stream/chunks.m3u8
+#EXTINF:0 type="stream" channelId="4642", UFC
+https://live-k2302-kbp.1plus1.video/sport/smil:sport.smil/chunklist_b6000000.m3u8
+#EXTINF:0 type="stream" channelId="-1", UFC 2
+https://stadiumlivein-i.akamaihd.net/hls/live/522512/mux_4/master.m3u8
+#EXTINF:0 type="stream" channelId="3473", BOX Nation
+http://iptvtree.net:8080/live/32ad147d/055af3e9/4719.ts
+#EXTINF:0 type="stream" channelId="2894", NFL Network
+http://iptvtree.net:8080/32ad147d/055af3e9/2367
+#EXTINF:0 type="stream" channelId="-1", ONE Golf
+http://162.250.201.58:6211/pk/ONEGOLF/index.m3u8
+#EXTINF:0 type="stream" channelId="5027", RACING.COM
+https://racingvic-i.akamaized.net/hls/live/598695/racingvic/1500.m3u8?id=eroz_brebes.m3u8
+#EXTINF:0 type="stream" channelId="57", Discovery
+http://iptvtree.net:8080/live/32ad147d/055af3e9/755.ts
+#EXTINF:0 type="stream" channelId="58", Discovery Science
+http://iptvtree.net:8080/live/32ad147d/055af3e9/2301.ts
+#EXTINF:0 type="stream" channelId="-1", Smithsonian Channel Asia 1080p
+https://smithsonianaus-samsungau.amagi.tv/playlist.m3u8
+#EXTINF:0 type="stream" channelId="1455", History
+http://stream.tvtap.live:8081/live/us-history.stream/chunks.m3u8
+#EXTINF:0 type="stream" channelId="3192", BBC Earth
+http://iptvtree.net:8080/live/32ad147d/055af3e9/23271.ts
+#EXTINF:0 type="stream" channelId="50", Animal Planet
+http://stream.tvtap.live:8081/live/ap9.stream/chunks.m3u8
+#EXTINF:0 type="stream" channelId="2035", Love Nature
+http://bamus-eng-roku.amagi.tv/playlist.m3u8
+#EXTINF:0 type="stream" channelId="1418", HGTV
+http://50.7.161.82:8278/streams/d/HGTV/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1", After School Cartoons
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/56171fafada51f8004c4b40f/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=990&deviceId=56171fafada51f8004c4b40f&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
+#EXTINF:0 type="stream" channelId="-1", PBS Kids
+https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8
+#EXTINF:0 type="stream" channelId="2908", Zoo Moo
+https://rockentertainment-zoomoo-1.samsung.wurl.com/manifest/1200.m3u8
+#EXTINF:0 type="stream" channelId="-1", HappyKids
+https://happykids-vizio.amagi.tv/playlist480p.m3u8
+#EXTINF:0 type="stream" channelId="-1", Kartoon Fun Time
+https://simultv.s.llnwi.net/n4s4/KartoonCircus/interlink.m3u8
+#EXTINF:0 type="stream" channelId="-1", Kid Central
+https://simultv.s.llnwi.net/n4s4/kidcentral/interlink.m3u8
+#EXTINF:0 type="stream" channelId="-1", Toons Googles
+https://toongoggles-toongoggles-3-au.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1", Big Buck Bunny
+https://wowzaec2demo.streamlock.net/live/bigbuckbunny/eroz_brebes.m3u8
+#EXTINF:0 type="stream" channelId="-1", Spacetoon
+https://streams.spacetoon.com/live/stchannel/smil:livesmil.smil/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1", CocoRo
+https://4ea7abcc97144832b81dc50c6e8d6330.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Roku_Cocoro/playlist.m3u8?id=eroz_brebes.m3u8
+#EXTINF:0 type="stream" channelId="1973", MTV
+http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/index_1250_av-p.m3u8
+#EXTINF:0 type="stream" channelId="289", MTV Hits
+http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/index_3500_av-p.m3u8?sd=10&rebase=on
+#EXTINF:0 type="stream" channelId="-1", The K-POP
+http://kkhyoyoyo.duckdns.org:9999/klive/api/url.m3u8?m=url&s=tving&i=C43342&q=SD&apikey=0MENK2CJI5
+#EXTINF:0 type="stream" channelId="-1", Hits Music Now
+https://livestreamdirect-edgetv.mediaworks.nz/edgetv.m3u8
+#EXTINF:0 type="stream" channelId="1944", ABC News
+https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index.m3u8
+#EXTINF:0 type="stream" channelId="893", CGTN
+https://news.cgtn.com/resource/live/english/cgtn-news.m3u8
+#EXTINF:0 type="stream" channelId="119", Bloomberg
+https://liveprodapnortheast.global.ssl.fastly.net/ap1/Channel-APTVqvs-AWS-tokyo-1/Source-APTVqvs-1000-1_live.m3u8?id=eroz_brebes.m3u8
+#EXTINF:0 type="stream" channelId="2883", CNN International
+https://i.imgur.com/2BXCg0x.jpg" tvg-url="" group-title="News" - CNN International
+#EXTINF:0 type="stream" channelId="-1", CNN International HD
+https://cnn-cnninternational-1-gb.samsung.wurl.com/manifest/playlist_1280x720_3000k.m3u8
+#EXTINF:0 type="stream" channelId="1175", Sky News
+https://skynewsau-live.akamaized.net/hls/live/2002689/skynewsau-extra1/master.m3u8
+#EXTINF:0 type="stream" channelId="-1", CBN News
+http://bcliveuniv-lh.akamaihd.net/i/iptv1_1@194050/master.m3u8
+#EXTINF:0 type="stream" channelId="397", NHK WORLD
+https://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/global/2003458/live.m3u8
+#EXTINF:0 type="stream" channelId="367", Channel NewsAsia
+https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_3.m3u8
+#EXTINF:0 type="stream" channelId="4698", VOA
+https://i.postimg.cc/sgzJcvKK/VOA.jpg" group-title="News" - VOA
+#EXTINF:0 type="stream" channelId="1317", Fox News
+http://1111296894.rsc.cdn77.org/ls-54548-2/tracks-v1a1/mono.m3u8
+#EXTINF:0 type="stream" channelId="1328", Fox Sports
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5a74b8e1e22a61737979c6bf/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=705&deviceId=5a74b8e1e22a61737979c6bf&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
+#EXTINF:0 type="stream" channelId="-1", Stadium
+https://dai.google.com/linear/hls/event/0jRU1DBXSW6a_TFheLfAUQ/master.m3u8
+#EXTINF:60 type="stream" channelId="-1", Stadium HD
+https://stadiumlivein-i.akamaihd.net/hls/live/522512/mux_4/master_3000k.m3u8
+#EXTINF:0 type="stream" channelId="2800", Travel
+http://stream.tvtap.live:8081/live/usa-travel.stream/chunks.m3u8
+#EXTINF:0 type="stream" channelId="280", Fashion TV
+https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_pg13_zw9_27065_ftv_pg13_196_hls.smil/chunklist_b900000_t64MzYwcA==.m3u8
+#EXTINF:0 type="stream" channelId="-1", NewsNOW from Fox
+http://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
+#EXTINF:0 type="stream" channelId="352", DW
+https://m-c010-j2apps.s.llnwi.net/hls/8023.DWEnglish.in_360p/index.m3u8
+#EXTINF:0 type="stream" channelId="217", Euronews
+https://euronews-euronews-world-1.roku.wurl.com/manifest/b34060fcaf527710b244a3e16504edd0.m3u8
+#EXTINF:0 type="stream" channelId="-1", TV5 Monde Asie
+https://tv5asieen-i.akamaihd.net/hls/live/631617/tv5asieen/index.m3u8
+#EXTINF:0 type="stream" channelId="-1", TBN Asia
+http://210.210.155.35/qwr9ew/s/s39/02.m3u8
+#EXTINF:0 type="stream" channelId="4428", Hillsong Channel
+http://api.new.livestream.com/accounts/27460990/events/8266909/live.m3u8
+#EXTINF:0 type="stream" channelId="-1", Pilipinas HD BeamTv
+https://d3cbe0gidjd4k2.cloudfront.net/channel_5/channel5/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1", INC TV
+https://churchrus2-lh.akamaihd.net/i/coctesting_1@57550/master.m3u8
+#EXTINF:0 type="stream" channelId="-1", Fox Sports News
+https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master.m3u8
+#EXTINF:0 type="stream" channelId="353", Outdoor Channel
+https://outdoorchannel-samsungau.amagi.tv/playlist.m3u8
+#EXTINF:54 type="stream" channelId="2744", Motorvision
+https://dai2-xumo.fubo.tv/amagi_hls_data_xumo1212A-motorvisiontv/CDN/master.m3u8
+#EXTINF:60 type="stream" channelId="-1", Tennis Channel HD
+https://tennischannel-intl-samsung-uk.amagi.tv/playlist720_p.m3u8
+#EXTINF:60 type="stream" channelId="-1", Edge Sports HD
+https://edgesports-stirr.amagi.tv/playlist1080p.m3u8
+#EXTINF:60 type="stream" channelId="-1", CBSN HD
+https://linkastream.co/headless?url=https://www.youtube.com/c/ABCNews/live
+#EXTINF:1794 type="stream" channelId="-1", NBC News Now HD
+http://nbcnews2.akamaized.net/hls/live/723426-b/NBCNewsPlaymaker24x7Linear99a3a827-ua/VIDEO_0_6596000.m3u8
+#EXTINF:24 type="stream" channelId="1319", MSNBC HD
+http://1111296894.rsc.cdn77.org/LS-ATL-54548-10/tracks-v1a1/mono.m3u8
+#EXTINF:32 type="stream" channelId="-1", Fox News HD
+http://1111296894.rsc.cdn77.org/ls-54548-2/tracks-v1a1/mono.m3u8
+#EXTINF:112 type="stream" channelId="-1", Indonesia Channel
+http://wowzaprod236-i.akamaihd.net/hls/live/1019903/7dd4cf51/playlist.m3u8
