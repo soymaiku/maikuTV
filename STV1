@@ -27,8 +27,8 @@ http://balkan-x.net:80/wS0GeiNhDl/j5Z5uVtLNZ/652.ts?checkedby:iptvcat.com
 http://balkan-x.net:80/wS0GeiNhDl/j5Z5uVtLNZ/653.ts?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Sport", BT SPORT 1 FHD
 http://live.iptvtotaal.com:8000/6234122498/8329556324/16361?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined", FOX NEW YORK HD
-http://yandanyandanke.com:8080/Cg4vC3ERee/ZwZSfKqQ2E/209259?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined", FOX
+https://h5.ustvgo.la/FOX/myStream/chunks.m3u8?nimblesessionid=4505519&wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTIvMjAyMSAzOjM4OjIxIEFNJmhhc2hfdmFsdWU9ZWFmWkEwZis0TTNaeDg5TmY0Zm81Zz09JnZhbGlkbWludXRlcz0yNDA=
 #EXTINF:25 type="stream" channelId="1190", Comedy Central
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ca671f215a62078d2ec0abf/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=465&deviceId=5ca671f215a62078d2ec0abf&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
 #EXTINF:0 type="stream" channelId="-1" logo="https://static.wikia.nocookie.net/logopedia/images/0/04/HBO_HiTS.svg/revision/latest?cb=20100511073403", HBO Hits
@@ -81,8 +81,8 @@ http://new.dtv21.org:2082/ritv5_352055/qcN9LZNZ/11157?checkedby:iptvcat.com
 http://live.iptvtotaal.com:8000/6234122498/8329556324/41743?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",FX FULLHD
 http://xcui.vitvabc.xyz:8880/287994000027/287994000027/31276?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="JP" tvg-logo="" group-title="Undefined",Animax Japan (Indonesian Subs)
-http://210.210.155.35/dr9445/h/h144/01.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="JP" tvg-logo="" group-title="Undefined",Animax Japan
+http://198.16.106.62:8278/streams/d/Cn/playlist.m3u8
 #EXTINF:0 type="stream" channelId="1211", Game Show Network
 https://list.iptvcat.com/my_list/s/7f26867854b778aaff78e2839400c8e8.m3u8
 #EXTINF:0 type="stream" channelId="-1", Edge TV
@@ -96,7 +96,7 @@ http://mytv.fun:8080/99xctzjwoo/94tfra516t/6524
 #EXTINF:0 type="stream" channelId="1208", A&E
 http://iptvtree.net:8080/32ad147d/055af3e9/275188
 #EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",Cartoon Network HD
-http://yandanyandanke.com:8080/Cg4vC3ERee/ZwZSfKqQ2E/209102?checkedby:iptvcat.com
+https://h3.ustvgo.la/CN/myStream/chunks.m3u8?nimblesessionid=107589463&wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTIvMjAyMSAzOjM0OjUyIEFNJmhhc2hfdmFsdWU9bVBIcThNNjVudlRYTiswcDY4b3lBUT09JnZhbGlkbWludXRlcz0yNDA=
 #EXTINF:0 type="stream" channelId="322", NICK JR.
 http://iptvtree.net:8080/32ad147d/055af3e9/14835
 #EXTINF:0 type="stream" channelId="2711", NICKTOONS
@@ -174,13 +174,13 @@ http://stream.tvtap.live:8081/live/nba.stream/chunks.m3u8
 #EXTINF:0 type="stream" channelId="70", FS1
 http://134.19.182.131:8080/vdg10_2.m3u8?h=17769c8f9018b3491d23270c45762d50
 #EXTINF:0 type="stream" channelId="3206", The CW
-https://bozztv.com/teleyupp1/teleup-cw-whp/tracks-v2a1/mono.m3u8
+https://h3.ustvgo.la/CW/myStream/chunks.m3u8?nimblesessionid=107592584&wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTIvMjAyMSAzOjQwOjI3IEFNJmhhc2hfdmFsdWU9cEhURXBueGJ3cVNxSHFTa2FPeGRvUT09JnZhbGlkbWludXRlcz0yNDA=
 #EXTINF:0 type="stream" channelId="2540", ESPN (1080p)
 http://securetv.net:8080/PeMrj5KcTB/8478805158/15951
 #EXTINF:0 type="stream" channelId="2540", ESPN (720p)
 http://stream2.grandma.fit/fs2.m3u8
 #EXTINF:0 type="stream" channelId="344", ESPN 2 (720p)
-http://stream2.grandma.fit/espn2.m3u8
+https://h1.ustvgo.la/ESPN2/myStream/chunks.m3u8?nimblesessionid=140449770&wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTIvMjAyMSAzOjQyOjEyIEFNJmhhc2hfdmFsdWU9VmZVYXJWNUIyd0FHZHVHUHlDUFpHdz09JnZhbGlkbWludXRlcz0yNDA=
 #EXTINF:0 type="stream" channelId="3211", ESPN U (720p)
 https://gma2.blab.email/espnu.m3u8
 #EXTINF:0 type="stream" channelId="-1", Fite
@@ -382,7 +382,7 @@ https://a.jsrdn.com/broadcast/e9b4093a41/+0000/c.m3u8
 #EXTINF:0 type="stream" channelId="-1", LaughtTv
 https://playout4multirtmp.tulix.tv/live7/Stream1/chunklist_w1897993124.m3u8
 #EXTINF:0 type="stream" channelId="321", Boomerang
-http://stream.tvtap.live:8081/live/us-boomerang.stream/chunks.m3u8
+https://h3.ustvgo.la/Boomerang/myStream/chunks.m3u8?nimblesessionid=107591206&wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTIvMjAyMSAzOjM5OjQ1IEFNJmhhc2hfdmFsdWU9dGxYTWZwQjUxcGgyWWpkYUtLTmFYZz09JnZhbGlkbWludXRlcz0yNDA=
 #EXTINF:0 type="stream" channelId="805", NBA TV
 http://stream.tvtap.live:8081/live/nba.stream/chunks.m3u8
 #EXTINF:0 type="stream" channelId="4642", UFC
