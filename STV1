@@ -77,8 +77,6 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5616f9c0ada51f8004
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f8ecfb9db6c180007a6d1b0/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
 #EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",TBS
 http://new.dtv21.org:2082/ritv5_352055/qcN9LZNZ/11157?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",Destination America
-http://live.iptvtotaal.com:8000/6234122498/8329556324/41743?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",FX FULLHD
 http://xcui.vitvabc.xyz:8880/287994000027/287994000027/31276?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="JP" tvg-logo="" group-title="Undefined",Animax Japan
@@ -175,14 +173,14 @@ http://stream.tvtap.live:8081/live/nba.stream/chunks.m3u8
 http://134.19.182.131:8080/vdg10_2.m3u8?h=17769c8f9018b3491d23270c45762d50
 #EXTINF:0 type="stream" channelId="3206", The CW
 https://h3.ustvgo.la/CW/myStream/chunks.m3u8?nimblesessionid=107592584&wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTIvMjAyMSAzOjQwOjI3IEFNJmhhc2hfdmFsdWU9cEhURXBueGJ3cVNxSHFTa2FPeGRvUT09JnZhbGlkbWludXRlcz0yNDA=
-#EXTINF:0 type="stream" channelId="2540", ESPN (1080p)
-http://securetv.net:8080/PeMrj5KcTB/8478805158/15951
+#EXTINF:0 type="stream" channelId="2530", ESPN News
+https://h3.ustvgo.la/ESPNews/myStream/chunks.m3u8?nimblesessionid=107616296&wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTIvMjAyMSA0OjM5OjExIEFNJmhhc2hfdmFsdWU9Kzhad0VvcS9CdnQ0MXRCRE85RHRpdz09JnZhbGlkbWludXRlcz0yNDA=
 #EXTINF:0 type="stream" channelId="2540", ESPN (720p)
 http://stream2.grandma.fit/fs2.m3u8
 #EXTINF:0 type="stream" channelId="344", ESPN 2 (720p)
 https://h1.ustvgo.la/ESPN2/myStream/chunks.m3u8?nimblesessionid=140449770&wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTIvMjAyMSAzOjQyOjEyIEFNJmhhc2hfdmFsdWU9VmZVYXJWNUIyd0FHZHVHUHlDUFpHdz09JnZhbGlkbWludXRlcz0yNDA=
 #EXTINF:0 type="stream" channelId="3211", ESPN U (720p)
-https://gma2.blab.email/espnu.m3u8
+https://h5.ustvgo.la/ESPNU/myStream/chunks.m3u8?nimblesessionid=4530169&wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTIvMjAyMSA0OjM4OjMxIEFNJmhhc2hfdmFsdWU9eDlJZEJha0NQRDZmWXlJYWpSbTlVUT09JnZhbGlkbWludXRlcz0yNDA=
 #EXTINF:0 type="stream" channelId="-1", Fite
 https://cdn-cf.fite.tv/linear/fite247/playlist.m3u8
 #EXTINF:0 type="stream" channelId="4616", AXS TV (720p)
@@ -515,3 +513,29 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f8eccd81
 https://d15690s323oesy.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/UDU-Plex/158.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="Entertainment" logo="https://i.imgur.com/yngqRL8.png" tvg-country="US", AMC Presents (1080p)
 https://amc-amcpresents-1.imdbtv.wurl.com/manifest/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="Entertainment" logo="https://www.lyngsat.com/logo/tv/aa/amc-us.png" tvg-country="US", AMC
+https://h1.ustvgo.la/AMC/myStream/chunks.m3u8?nimblesessionid=140464609&wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTIvMjAyMSA0OjE5OjM5IEFNJmhhc2hfdmFsdWU9c0VNVXV1cmxvVW9YTHA5RCtSVWgyQT09JnZhbGlkbWludXRlcz0yNDA=
+#EXTINF:0 type="stream" channelId="50", logo="https://www.lyngsat.com/logo/tv/aa/animal-planet-us.png" ANIMAL PLANET
+https://h1.ustvgo.la/Animal/myStream/chunks.m3u8?nimblesessionid=140468143&wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTIvMjAyMSA0OjI1OjM1IEFNJmhhc2hfdmFsdWU9YjQxbE00a2JLY005UG00SWtZcXIyQT09JnZhbGlkbWludXRlcz0yNDA=
+#EXTINF:0 type="stream" channelId="340", BBC America
+https://h3.ustvgo.la/BBCAmerica/myStream/chunks.m3u8?nimblesessionid=107611544&wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTIvMjAyMSA0OjI0OjM4IEFNJmhhc2hfdmFsdWU9c3JVSXM0Z0NFdkU4SU1aeDVEalcxQT09JnZhbGlkbWludXRlcz0yNDA=
+#EXTINF:0 type="stream" channelId="4552", Cinemax
+https://h2.ustvgo.la/Cinemax/myStream/chunks.m3u8?nimblesessionid=113327932&wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTIvMjAyMSA0OjMyOjM5IEFNJmhhc2hfdmFsdWU9V2FROVRXelZsbG1EWlI2RC9NVys1Zz09JnZhbGlkbWludXRlcz0yNDA=
+#EXTINF:25 type="stream" channelId="1190", Comedy Central
+https://h2.ustvgo.la/Comedy/myStream/chunks.m3u8?nimblesessionid=113329679&wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTIvMjAyMSA0OjMzOjM3IEFNJmhhc2hfdmFsdWU9dVdndHYyYVRDaDFrQTYwRFFsVVlTQT09JnZhbGlkbWludXRlcz0yNDA=
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",Destination America
+https://h3.ustvgo.la/DA/myStream/chunks.m3u8?nimblesessionid=107615239&wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTIvMjAyMSA0OjMzOjM5IEFNJmhhc2hfdmFsdWU9SkZ3eThzRTc1NVZwODVscWZTR1QrUT09JnZhbGlkbWludXRlcz0yNDA=
+#EXTINF:0 type="Kids" channelId="19", Disney Channel
+https://h4.ustvgo.la/Disney/myStream/chunks.m3u8?nimblesessionid=106991921&wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTIvMjAyMSA0OjM1OjM5IEFNJmhhc2hfdmFsdWU9d0NZaXBCWWZlSHJ5YWdFMlZVS0VPZz09JnZhbGlkbWludXRlcz0yNDA=
+#EXTINF:0 type="Kids" channelId="154", Disney Jr.
+https://h2.ustvgo.la/DisneyJr/myStream/chunks.m3u8?nimblesessionid=113329928&wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTIvMjAyMSA0OjM2OjQ3IEFNJmhhc2hfdmFsdWU9RThQcGVmSnU4UFJ0enlZbWVLeDdYUT09JnZhbGlkbWludXRlcz0yNDA=
+#EXTINF:0 type="Kids" channelId="134", DisneyXD
+https://h2.ustvgo.la/DisneyXD/myStream/chunks.m3u8?nimblesessionid=113331211&wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTIvMjAyMSA0OjM3OjM3IEFNJmhhc2hfdmFsdWU9Q3E3TWtWQnMwM0pLVUUzNHFNdndkQT09JnZhbGlkbWludXRlcz0yNDA=
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined", FOX
+https://h1.ustvgo.la/FOX/myStream/chunks.m3u8?nimblesessionid=140473297&wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTIvMjAyMSA0OjQwOjA0IEFNJmhhc2hfdmFsdWU9c0pRUE9kWnAvNUNGb3pyVmpuWW5GUT09JnZhbGlkbWludXRlcz0yNDA=
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",FX
+https://h4.ustvgo.la/FX/myStream/chunks.m3u8?nimblesessionid=106994813&wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTIvMjAyMSA0OjQxOjAzIEFNJmhhc2hfdmFsdWU9SHhuNFM4UHE0VGJzU2RqelBKN0VOQT09JnZhbGlkbWludXRlcz0yNDA=
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",TBS
+https://h2.ustvgo.la/TBS/myStream/chunks.m3u8?nimblesessionid=113333293&wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTIvMjAyMSA0OjQyOjE4IEFNJmhhc2hfdmFsdWU9SS9tL0M5U1lGb1p0ZWJUc3MwL091Zz09JnZhbGlkbWludXRlcz0yNDA=
+#EXTINF:0 type="stream" channelId="24235", WWE Network
+https://h5.ustvgo.la/WWE/myStream/chunks.m3u8?nimblesessionid=4533015&wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTIvMjAyMSA0OjQ1OjQ1IEFNJmhhc2hfdmFsdWU9TlRCdnZPWXFQMU1QNnhVUkFJdmFSZz09JnZhbGlkbWludXRlcz0yNDA=
