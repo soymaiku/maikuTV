@@ -31,6 +31,8 @@ https://list.iptvcat.com/my_list/s/deeaac439c9dac689b24d205d229e609.m3u8
 http://stream.gmanews.tv/ioslive/livestream/chunklist.m3u8?checkedby:iptvcat.com
 #EXTINF:-1 group-title="Undefined" tvg-logo="https://i.imgur.com/bjGgLrA.jpg",Telemax
 http://s5.mexside.net:1935/telemax/telemax/.m3u8?checkedby:iptvcat.com
+#EXTINF:-1,Россия 24
+http://cdnmg.secure.live.rtr-vesti.ru/hls/russia_24/playlist_2.m3u8
 #EXTINF:-1 ,Da Nang TV1 (1080p) [Not 24/7]
 http://drtdnglive.e49a7c38.cdnviet.com/livedrt1/chunklist.m3u8
 #EXTINF:-1 ,Cà Mau TV (720p)
@@ -79,6 +81,8 @@ https://live-poptv-fastly-prod.global.ssl.fastly.net/pop/master.m3u8
 http://188.40.68.167/russia/fox_russia_sd/playlist.m3u8
 #EXTINF:-1 ,ESPN (720p)
 http://stream2.grandma.fit/fs2.m3u8
+#EXTINF:-1 ,ESPN2 (720p)
+http://stream2.grandma.fit/espn2.m3u8
 #EXTINF:-1 ,Fite
 https://cdn-cf.fite.tv/linear/fite247/playlist.m3u8
 #EXTINF:-1 ,AXS TV Now (1080p)
@@ -273,3 +277,43 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f8eccd81
 https://d15690s323oesy.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/UDU-Plex/158.m3u8
 #EXTINF:-1 ,AMC Presents (1080p)
 https://amc-amcpresents-1.imdbtv.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1,Boomerang
+http://185.226.88.6:1026/live/Wb8XNkyIJn/UkPn4unfnR/151.ts
+#EXTINF:-1,BT Sport 1 FHD UK
+http://mytv.fun:8080/GiavanniBalboa/inpyqlwt0s/683858
+#EXTINF:-1,BT Sport 1 HD UK
+http://mytv.fun:8080/GiavanniBalboa/inpyqlwt0s/683859
+#EXTINF:-1,BT Sport 1 UK
+http://mytv.fun:8080/GiavanniBalboa/inpyqlwt0s/683860
+#EXTINF:-1,NBA TV HD US
+http://mytv.fun:8080/GiavanniBalboa/inpyqlwt0s/5450
+#EXTINF:-1,WWE Network HD VIP US
+http://mytv.fun:8080/GiavanniBalboa/inpyqlwt0s/683002
+#EXTINF:-1,USA: Fox HD (call)
+http://xtream-ui03.feel-tv.com:25461/Vwelsbfa/widnv39573sldba/441
+#EXTINF:-1,USA: Discovery ID HD (call)
+http://xtream-ui03.feel-tv.com:25461/Vwelsbfa/widnv39573sldba/448
+#EXTINF:-1,USA: DISCOVERY VELOCITY (call)
+http://xtream-ui03.feel-tv.com:25461/Vwelsbfa/widnv39573sldba/449
+#EXTINF:-1,USA: CBS HD (call)
+http://xtream-ui03.feel-tv.com:25461/Vwelsbfa/widnv39573sldba/452
+#EXTINF:-1,USA: NBA TV HD (call)
+http://xtream-ui03.feel-tv.com:25461/Vwelsbfa/widnv39573sldba/453
+#EXTINF:-1,USA: TLC (call)
+http://xtream-ui03.feel-tv.com:25461/Vwelsbfa/widnv39573sldba/454
+#EXTINF:-1,USA: Bravo (call)
+http://xtream-ui03.feel-tv.com:25461/Vwelsbfa/widnv39573sldba/460
+#EXTINF:-1,VIP USA: Discovery Science HD (call)
+http://xtream-ui03.feel-tv.com:25461/Vwelsbfa/widnv39573sldba/469
+#EXTINF:-1,USA: History HD (call)
+http://xtream-ui03.feel-tv.com:25461/Vwelsbfa/widnv39573sldba/476
+#EXTINF:-1,USA: NBC
+http://xtream-ui03.feel-tv.com:25461/Vwelsbfa/widnv39573sldba/512
+#EXTINF:-1,USA: HBO HD
+http://xtream-ui03.feel-tv.com:25461/Vwelsbfa/widnv39573sldba/513
+#EXTINF:-1,USA: HBO Comedy HD
+http://xtream-ui03.feel-tv.com:25461/Vwelsbfa/widnv39573sldba/514
+#EXTINF:-1,USA: MTV HD
+http://xtream-ui03.feel-tv.com:25461/Vwelsbfa/widnv39573sldba/521
+#EXTINF:-1,USA: Usa (call)
+http://xtream-ui03.feel-tv.com:25461/Vwelsbfa/widnv39573sldba/526
