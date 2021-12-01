@@ -1,331 +1,451 @@
-#EXTM3U
-#EXTINF:-1 group-title="Entertainment;Undefined" tvg-logo="https://i.imgur.com/F9GnABn.png",US | Adult Swim
+#EXTM3U url-tvg=""
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="US | Adult Swim" tvg-logo="https://i.imgur.com/F9GnABn.png" group-title="Entertainment;Undefined",US | Adult Swim
 https://adultswimtv.warnermediacdn.com/hls/live/2007031/livestream/master_Layer7.m3u8?checkedby:iptvcat.com
-#EXTINF:-1 ,The Eric Andre Show
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="The Eric Andre Show" tvg-logo="" group-title="(no group)",The Eric Andre Show
 http://adultswim-vodlive.cdn.turner.com/live/eric-andre/stream.m3u8
-#EXTINF:-1 ,Adult Swim Samurai Jack (1080p) [Geo-blocked]
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Adult Swim Samurai Jack (1080p) [Geo-blocked]" tvg-logo="" group-title="(no group)",Adult Swim Samurai Jack (1080p) [Geo-blocked]
 https://adultswim-vodlive.cdn.turner.com/live/samurai-jack/stream.m3u8
-#EXTINF:-1 ,Adult Swim Rick and Morty (1080p) [Geo-blocked]
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Adult Swim Rick and Morty (1080p) [Geo-blocked]" tvg-logo="" group-title="(no group)",Adult Swim Rick and Morty (1080p) [Geo-blocked]
 https://adultswim-vodlive.cdn.turner.com/live/rick-and-morty/stream.m3u8
-#EXTINF:-1 ,TNT 4
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TNT 4" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e5/TNT_%282001%29.svg/revision/latest/scale-to-width-down/200?cb=20180731162135" group-title="(no group)",TNT 4
 https://16live00.akamaized.net/TNT/index.m3u8
-#EXTINF:-1 ,WWE Network 2
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="WWE Network 2" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-states/wwe-us.png" group-title="(no group)",WWE Network 2
 http://loginto.live:80/9E2GucVqA/qorMDQjpwg/4289
-#EXTINF:-1 ,New Japan Pro Wrestling World
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="New Japan Pro Wrestling World" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/1c/New_Japan_Pro_Wrestling_Logo_2.svg/1200px-New_Japan_Pro_Wrestling_Logo_2.svg.png" group-title="(no group)",New Japan Pro Wrestling World
 https://aka-amd-njpwworld-hls-enlive.akamaized.net/hls/video/njpw_en/njpw_en_channel01_3/chunklist_DVR.m3u8
-#EXTINF:-1 ,TNT
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TNT" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e5/TNT_%282001%29.svg/revision/latest/scale-to-width-down/200?cb=20180731162135" group-title="(no group)",TNT
 http://primestreams.tv:826/hommydriver/Qo1gnR9Nku/109218
-#EXTINF:-1 ,USA NETWORK 1
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="USA NETWORK 1" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-states/usa-us.png" group-title="(no group)",USA NETWORK 1
 https://list.iptvcat.com/my_list/s/a8d12fc15c923b2b11863a8f0d6d24da.m3u8
-#EXTINF:-1 ,USA Network 2
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="USA Network 2" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-states/usa-us.png" group-title="(no group)",USA Network 2
 https://list.iptvcat.com/my_list/s/a33fc209753a6f1f95a71c4eb1af13a2.m3u8
-#EXTINF:-1 ,Comedy Central
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Comedy Central" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-states/comedy-central-icon-us.png" group-title="(no group)",Comedy Central
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ca671f215a62078d2ec0abf/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=465&deviceId=5ca671f215a62078d2ec0abf&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
-#EXTINF:-1 ,Канал Disney (576p)
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Канал Disney (576p)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Disney_Channel_Russia.png/200px-Disney_Channel_Russia.png" group-title="(no group)",Канал Disney (576p)
 http://188.40.68.167/russia/disney/playlist.m3u8
-#EXTINF:-1 ,Warner TV
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Warner TV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a2/WarnerTVAsia.png/revision/latest/scale-to-width-down/300?cb=20180325001201" group-title="(no group)",Warner TV
 http://203.154.243.89:11205/
-#EXTINF:-1 ,FX
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FX" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-states/fx-us.png" group-title="(no group)",FX
 https://list.iptvcat.com/my_list/s/deeaac439c9dac689b24d205d229e609.m3u8
-#EXTINF:-1 ,Super Radyo DZBB
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Super Radyo DZBB" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/56/DZBB594.svg/1200px-DZBB594.svg.png" group-title="(no group)",Super Radyo DZBB
 http://stream.gmanews.tv/ioslive/livestream/chunklist.m3u8?checkedby:iptvcat.com
-#EXTINF:-1 group-title="Undefined" tvg-logo="https://i.imgur.com/bjGgLrA.jpg",Telemax
-http://s5.mexside.net:1935/telemax/telemax/.m3u8?checkedby:iptvcat.com
-#EXTINF:-1,Россия 24
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Россия 24" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Rossiya-24_Logo.svg/2560px-Rossiya-24_Logo.svg.png" group-title="(no group)",Россия 24
 http://cdnmg.secure.live.rtr-vesti.ru/hls/russia_24/playlist_2.m3u8
-#EXTINF:-1 ,Da Nang TV1 (1080p) [Not 24/7]
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Da Nang TV1 (1080p) [Not 24/7]" tvg-logo="https://img.hplus.com.vn/728x409/banner/2018/06/05/492034-DN1.png" group-title="(no group)",Da Nang TV1 (1080p) [Not 24/7]
 http://drtdnglive.e49a7c38.cdnviet.com/livedrt1/chunklist.m3u8
-#EXTINF:-1 ,Cà Mau TV (720p)
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Cà Mau TV (720p)" tvg-logo="https://static.wikia.nocookie.net/logos/images/8/89/CTV_Ca_Mau.png/revision/latest?cb=20201025094120&path-prefix=vi" group-title="(no group)",Cà Mau TV (720p)
 http://tv.ctvcamau.vn/live/tv/tv.m3u8
-#EXTINF:-1 group-title="Undefined" tvg-logo="http://tduc.tk/logo/antv.png",Vietnam : ANTV HD
-http://antvlive.ab5c6921.cdnviet.com/antv/chunklist.m3u8?checkedby:iptvcat.com
-#EXTINF:-1 group-title="Undefined" tvg-logo="https://uphinhnhanh.com/images/2019/01/31/IMG_20190131_191516.jpg",QRT
-http://113.161.6.157:8081/hls-live/livepkgr/_definst_/liveevent/livestream.m3u8?checkedby:iptvcat.com
-#EXTINF:-1 ,Tien Giang
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Tien Giang" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0c/TTV_logo_%28Tien_Giang%29.svg/revision/latest?cb=20210718094311" group-title="(no group)",Tien Giang
 https://list.iptvcat.com/my_list/s/8bb380f1e220e9a4d4d1929dc571c37f.m3u8
-#EXTINF:-1 ,BRT (360p)
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BRT (360p)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d3/BRT_HD.png" group-title="(no group)",BRT (360p)
 http://113.163.216.23:1935/live/tv2.stream_480p/playlist.m3u8
-#EXTINF:-1 ,World Poker Tour (720p)
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="World Poker Tour (720p)" tvg-logo="https://images.pluto.tv/channels/5f8ecfb9db6c180007a6d1b0/colorLogoPNG.png" group-title="(no group)",World Poker Tour (720p)
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5616f9c0ada51f8004c4b091/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5616f9c0ada51f8004c4b091&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=770&terminate=false&userId=
-#EXTINF:-1 group-title="Entertainment" tvg-logo="https://images.pluto.tv/channels/5f8ecfb9db6c180007a6d1b0/colorLogoPNG.png",World Poker Tour 2 (720p)
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f8ecfb9db6c180007a6d1b0/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
-#EXTINF:-1 ,Game Show Network
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Game Show Network" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Game_Show_Network_2018.svg/1200px-Game_Show_Network_2018.svg.png" group-title="(no group)",Game Show Network
 https://list.iptvcat.com/my_list/s/7f26867854b778aaff78e2839400c8e8.m3u8
-#EXTINF:-1 ,Edge TV
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Edge TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a0/The_Edge_%28radio_station%29_logo.png/220px-The_Edge_%28radio_station%29_logo.png" group-title="(no group)",Edge TV
 https://livestreamdirect-edgetv.mediaworks.nz/edgetv.m3u8
-#EXTINF:-1 ,NICKTOONS
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NICKTOONS" tvg-logo="" group-title="(no group)",NICKTOONS
 https://list.iptvcat.com/my_list/s/43d1b59e127554cd34bea4bb7b7f093b.m3u8
-#EXTINF:-1 ,DISNEY CHANNEL
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DISNEY CHANNEL" tvg-logo="" group-title="(no group)",DISNEY CHANNEL
 https://list.iptvcat.com/my_list/s/f451b940bc8359678ec8c1fc2233f984.m3u8
-#EXTINF:-1 ,DISNEY JUNIOR
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DISNEY JUNIOR" tvg-logo="" group-title="(no group)",DISNEY JUNIOR
 https://list.iptvcat.com/my_list/s/a5de489f97052d36278b7cec03fff7d5.m3u8
-#EXTINF:-1 ,DISNEY XD
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DISNEY XD" tvg-logo="" group-title="(no group)",DISNEY XD
 https://list.iptvcat.com/my_list/s/d3d36a6ab1c27b3945416b36106fd07b.m3u8
-#EXTINF:-1 ,LEGO CHANNEL
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="LEGO CHANNEL" tvg-logo="" group-title="(no group)",LEGO CHANNEL
 https://legochannel-roku.amagi.tv/playlist.m3u8
-#EXTINF:-1 ,SMITHSONIAN CHANNEL (SEA)
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SMITHSONIAN CHANNEL (SEA)" tvg-logo="" group-title="(no group)",SMITHSONIAN CHANNEL (SEA)
 https://smithsonianaus-samsungau.amagi.tv/playlist.m3u8
-#EXTINF:-1 ,CNET
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CNET" tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/cnet-logo-black-and-white.png" group-title="(no group)",CNET
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/56283c8769ba54637dea0464/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
-#EXTINF:-1 ,Yu-Gi-Oh
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Yu-Gi-Oh" tvg-logo="" group-title="(no group)",Yu-Gi-Oh
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f4ec10ed9636f00089b8c89/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
-#EXTINF:-1 ,TV Asahi
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TV Asahi" tvg-logo="" group-title="(no group)",TV Asahi
 http://203.162.235.41:16906
-#EXTINF:-1 ,MTV Spankin' New
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MTV Spankin' New" tvg-logo="" group-title="(no group)",MTV Spankin' New
 http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS07/master.m3u8
-#EXTINF:-1 ,MTV Biggest Pop
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MTV Biggest Pop" tvg-logo="" group-title="(no group)",MTV Biggest Pop
 http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS02/master.m3u8
-#EXTINF:-1 ,Pop
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Pop" tvg-logo="" group-title="(no group)",Pop
 https://live-poptv-fastly-prod.global.ssl.fastly.net/pop/master.m3u8
-#EXTINF:-1 ,FOX Russia (576p)
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FOX Russia (576p)" tvg-logo="" group-title="(no group)",FOX Russia (576p)
 http://188.40.68.167/russia/fox_russia_sd/playlist.m3u8
-#EXTINF:-1 ,ESPN (720p)
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ESPN (720p)" tvg-logo="" group-title="(no group)",ESPN (720p)
 http://stream2.grandma.fit/fs2.m3u8
-#EXTINF:-1 ,ESPN2 (720p)
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ESPN2 (720p)" tvg-logo="" group-title="(no group)",ESPN2 (720p)
 http://stream2.grandma.fit/espn2.m3u8
-#EXTINF:-1 ,Fite
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Fite" tvg-logo="" group-title="(no group)",Fite
 https://cdn-cf.fite.tv/linear/fite247/playlist.m3u8
-#EXTINF:-1 ,AXS TV Now (1080p)
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AXS TV Now (1080p)" tvg-logo="" group-title="(no group)",AXS TV Now (1080p)
 https://dikcfc9915kp8.cloudfront.net/hls/main.m3u8
-#EXTINF:-1 ,FOX Sport HD 1
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FOX Sport HD 1" tvg-logo="" group-title="(no group)",FOX Sport HD 1
 https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master.m3u8
-#EXTINF:-1 ,AFV
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AFV" tvg-logo="" group-title="(no group)",AFV
 https://dai.google.com/linear/hls/event/18_lZXPySFa5_GRVEbOX_A/master.m3u8
-#EXTINF:-1 ,Amazing Discoveries TV
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Amazing Discoveries TV" tvg-logo="" group-title="(no group)",Amazing Discoveries TV
 https://uni01rtmp.tulix.tv/amazingdtv/amazingdtv/playlist.m3u8
-#EXTINF:-1 ,Arirang
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Arirang" tvg-logo="" group-title="(no group)",Arirang
 http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
-#EXTINF:-1 ,NBC / ABC Jacksonville FL (WTLV) (1080p)
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NBC / ABC Jacksonville FL (WTLV) (1080p)" tvg-logo="" group-title="(no group)",NBC / ABC Jacksonville FL (WTLV) (1080p)
 https://livevideo01.firstcoastnews.com/hls/live/2014550/newscasts/live.m3u8
-#EXTINF:-1 ,Canal Macau (Opt-2)
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Canal Macau (Opt-2)" tvg-logo="" group-title="(no group)",Canal Macau (Opt-2)
 http://61.244.22.4/ch2/ch2.live/playelist.m3u8
-#EXTINF:-1 ,CBS TV
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CBS TV" tvg-logo="" group-title="(no group)",CBS TV
 http://cbs-live.gscdn.com/cbs-live/cbs-live.stream/hasbahca.m3u8
-#EXTINF:-1 ,BS Asahi (New!)
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BS Asahi (New!)" tvg-logo="" group-title="(no group)",BS Asahi (New!)
 http://203.162.235.41:16914
-#EXTINF:-1 ,EBS Plus 1
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EBS Plus 1" tvg-logo="" group-title="(no group)",EBS Plus 1
 http://ebsonair.ebs.co.kr:1935/plus1tablet500k/tablet500k/playlist.m3u8
-#EXTINF:-1 ,EBS Plus 2
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EBS Plus 2" tvg-logo="" group-title="(no group)",EBS Plus 2
 http://ebsonair.ebs.co.kr:1935/plus2tablet500k/tablet500k/playlist.m3u8
-#EXTINF:-1 ,Fail Army
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Fail Army" tvg-logo="" group-title="(no group)",Fail Army
 https://dai.google.com/linear/hls/event/7tuuoX1wSsCTaki1HqJFYw/master.m3u8
-#EXTINF:-1 ,Gunma TV
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Gunma TV" tvg-logo="" group-title="(no group)",Gunma TV
 https://movie.mcas.jp/switcher/smil:mcas8.smil/master.m3u8
-#EXTINF:-1 ,IMPACT Wrestling
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="IMPACT Wrestling" tvg-logo="" group-title="(no group)",IMPACT Wrestling
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/59b722526996084038c01e1b/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=734&deviceId=59b722526996084038c01e1b&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
-#EXTINF:-1 ,Japanet Channel DX
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Japanet Channel DX" tvg-logo="" group-title="(no group)",Japanet Channel DX
 https://bcsecurelivehls-i.akamaihd.net/hls/live/265320/5043843989001/140130JTDX/index.m3u8
-#EXTINF:-1 ,KBS LiveCam DokDo
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="KBS LiveCam DokDo" tvg-logo="" group-title="(no group)",KBS LiveCam DokDo
 http://kbs-dokdo.gscdn.com/dokdo_300/_definst_/dokdo_300.stream/playlist.m3u8
-#EXTINF:-1 ,Kepez TV
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Kepez TV" tvg-logo="" group-title="(no group)",Kepez TV
 http://85.132.81.184:8080/arbkepez/live/index.m3u8
-#EXTINF:-1 ,NHK Chinese Vision
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NHK Chinese Vision" tvg-logo="" group-title="(no group)",NHK Chinese Vision
 https://nhkw-zh-hlscomp.akamaized.net/8thz5iufork8wjip/playlist.m3u8
-#EXTINF:-1 ,NTV News24
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NTV News24" tvg-logo="" group-title="(no group)",NTV News24
 https://www.news24.jp/livestream/index.m3u8
-#EXTINF:-1 ,QVC Japan
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="QVC Japan" tvg-logo="" group-title="(no group)",QVC Japan
 https://cdn-live1.qvc.jp/iPhone/1501/1501.m3u8
-#EXTINF:-1 ,Red Bull TV
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Red Bull TV" tvg-logo="" group-title="(no group)",Red Bull TV
 http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
-#EXTINF:-1 ,Ring of Honor
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ring of Honor" tvg-logo="" group-title="(no group)",Ring of Honor
 https://stadium-ringofhonor-1.sinclair.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 ,STIRR Ring of Honor (720p)
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="STIRR Ring of Honor (720p)" tvg-logo="" group-title="(no group)",STIRR Ring of Honor (720p)
 https://dai.google.com/linear/hls/event/RNiQYO3aTjOqTe8od1zlqA/master.m3u8
-#EXTINF:-1 ,Sheffield Live! 93.2 FM
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sheffield Live! 93.2 FM" tvg-logo="" group-title="(no group)",Sheffield Live! 93.2 FM
 http://tv.sheffieldlive.org/hls/main.m3u8
-#EXTINF:-1 ,Shop Channel
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Shop Channel" tvg-logo="" group-title="(no group)",Shop Channel
 https://stream3.shopch.jp/HLS/master.m3u8
-#EXTINF:-1 ,Sky News
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sky News" tvg-logo="" group-title="(no group)",Sky News
 https://skynews2-plutolive-vo.akamaized.net/cdhlsskynewsamericas/1013/latest.m3u8?serverSideAds=true
-#EXTINF:-1 ,Spike (Opt-1)
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Spike (Opt-1)" tvg-logo="" group-title="(no group)",Spike (Opt-1)
 https://viacomitalytest-lh.akamaihd.net/i/sbshdlive_1@829515/index_1800_av-p.m3u8
-#EXTINF:-1 ,Teleritmo
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Teleritmo" tvg-logo="" group-title="(no group)",Teleritmo
 http://mdstrm.com/live-stream-playlist_400/57b4dc126338448314449d0c.m3u8
-#EXTINF:-1 ,TMZ
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TMZ" tvg-logo="" group-title="(no group)",TMZ
 https://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1234A-tmz/CDN/1280x720_5000000/index.m3u8
-#EXTINF:-1 ,Tokyo MX1
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Tokyo MX1" tvg-logo="" group-title="(no group)",Tokyo MX1
 https://movie.mcas.jp/mcas/smil:mx1_prod.smil/master.m3u8
-#EXTINF:-1 ,Tokyo MX2
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Tokyo MX2" tvg-logo="" group-title="(no group)",Tokyo MX2
 https://movie.mcas.jp/mcas/smil:mx2_prod.smil/master.m3u8
-#EXTINF:-1 ,TRUELIVE
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TRUELIVE" tvg-logo="" group-title="(no group)",TRUELIVE
 https://vcnleomarkstudios.teleosmedia.com/stream/leomarkstudios/screamfest/seglist_720p.m3u8
-#EXTINF:-1 ,Weather News
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Weather News" tvg-logo="" group-title="(no group)",Weather News
 http://movie.mcas.jp/mcas/smil:wn1.smil/master.m3u8
-#EXTINF:-1 ,YTN
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="YTN" tvg-logo="" group-title="(no group)",YTN
 http://slive.ytn.co.kr:1935/dmb/ydlive_20140419_1/playlist.m3u8
-#EXTINF:-1 ,CNN Philippines
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CNN Philippines" tvg-logo="" group-title="(no group)",CNN Philippines
 https://streaming.cnnphilippines.com/live/myStream/chunklist.m3u8
-#EXTINF:-1 ,Nat Geo WILD Russia (1080p)
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Nat Geo WILD Russia (1080p)" tvg-logo="" group-title="(no group)",Nat Geo WILD Russia (1080p)
 https://sc.id-tv.kz/NatGeoWildHD_34_35.m3u8
-#EXTINF:-1 ,NASA TV
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NASA TV" tvg-logo="" group-title="(no group)",NASA TV
 https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
-#EXTINF:-1 ,Fashion TV
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Fashion TV" tvg-logo="" group-title="(no group)",Fashion TV
 https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_pg13_zw9_27065_ftv_pg13_196_hls.smil/chunklist_b4700000_t64MTA4MHA=.m3u8
-#EXTINF:-1 ,Fashion TV+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Fashion TV+" tvg-logo="" group-title="(no group)",Fashion TV+
 http://fash1043.cloudycdn.services/slive/_definst_/ftv_midnite_secrets_adaptive.smil/chunklist_b4700000_t64MTA4MHA=.m3u8
-#EXTINF:-1 ,World Poker Tour (1080p)
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="World Poker Tour (1080p)" tvg-logo="" group-title="(no group)",World Poker Tour (1080p)
 https://dth07jsr8atug.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/WPT-Plex/171.m3u8
-#EXTINF:-1 ,Red Bull TV HD
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Red Bull TV HD" tvg-logo="" group-title="(no group)",Red Bull TV HD
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
-#EXTINF:-1 ,MLB Network
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MLB Network" tvg-logo="" group-title="(no group)",MLB Network
 http://hlslive-akc-med1.media.mlb.com/ls01/mlbnetwork/NETWORK_LINEAR_1/master_wired.m3u8
-#EXTINF:-1 ,NFL Network
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NFL Network" tvg-logo="" group-title="(no group)",NFL Network
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ced7d5df64be98e07ed47b6/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=708&deviceId=5ced7d5df64be98e07ed47b6&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
-#EXTINF:-1 ,CGTN
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CGTN" tvg-logo="" group-title="(no group)",CGTN
 http://live.cgtn.com/1000/prog_index.m3u8
-#EXTINF:-1 ,France 24
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="France 24" tvg-logo="" group-title="(no group)",France 24
 http://f24hls-i.akamaihd.net/hls/live/221147/F24_EN_HI_HLS/master_500.m3u8
-#EXTINF:-1 ,Movie Kingdom
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Movie Kingdom" tvg-logo="" group-title="(no group)",Movie Kingdom
 https://a.jsrdn.com/broadcast/e9b4093a41/+0000/high/c.m3u8
-#EXTINF:-1 ,MoviesComedy
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MoviesComedy" tvg-logo="" group-title="(no group)",MoviesComedy
 https://a.jsrdn.com/broadcast/e9b4093a41/+0000/c.m3u8
-#EXTINF:-1 ,LaughtTv
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="LaughtTv" tvg-logo="" group-title="(no group)",LaughtTv
 https://playout4multirtmp.tulix.tv/live7/Stream1/chunklist_w1897993124.m3u8
-#EXTINF:-1 ,UFC
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="UFC" tvg-logo="" group-title="(no group)",UFC
 https://live-k2302-kbp.1plus1.video/sport/smil:sport.smil/chunklist_b6000000.m3u8
-#EXTINF:-1 ,UFC 2
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="UFC 2" tvg-logo="" group-title="(no group)",UFC 2
 https://stadiumlivein-i.akamaihd.net/hls/live/522512/mux_4/master.m3u8
-#EXTINF:-1 ,ONE Golf
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ONE Golf" tvg-logo="" group-title="(no group)",ONE Golf
 http://162.250.201.58:6211/pk/ONEGOLF/index.m3u8
-#EXTINF:-1 ,Love Nature
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Love Nature" tvg-logo="" group-title="(no group)",Love Nature
 http://bamus-eng-roku.amagi.tv/playlist.m3u8
-#EXTINF:-1 ,After School Cartoons
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="After School Cartoons" tvg-logo="" group-title="(no group)",After School Cartoons
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/56171fafada51f8004c4b40f/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=990&deviceId=56171fafada51f8004c4b40f&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
-#EXTINF:-1 ,PBS Kids
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PBS Kids" tvg-logo="" group-title="(no group)",PBS Kids
 https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8
-#EXTINF:-1 ,HappyKids
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="HappyKids" tvg-logo="" group-title="(no group)",HappyKids
 https://happykids-vizio.amagi.tv/playlist480p.m3u8
-#EXTINF:-1 ,Kartoon Fun Time
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Kartoon Fun Time" tvg-logo="" group-title="(no group)",Kartoon Fun Time
 https://simultv.s.llnwi.net/n4s4/KartoonCircus/interlink.m3u8
-#EXTINF:-1 ,Kid Central
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Kid Central" tvg-logo="" group-title="(no group)",Kid Central
 https://simultv.s.llnwi.net/n4s4/kidcentral/interlink.m3u8
-#EXTINF:-1 ,Big Buck Bunny
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Big Buck Bunny" tvg-logo="" group-title="(no group)",Big Buck Bunny
 https://wowzaec2demo.streamlock.net/live/bigbuckbunny/eroz_brebes.m3u8
-#EXTINF:-1 ,Spacetoon
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Spacetoon" tvg-logo="" group-title="(no group)",Spacetoon
 https://streams.spacetoon.com/live/stchannel/smil:livesmil.smil/playlist.m3u8
-#EXTINF:-1 ,CocoRo
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CocoRo" tvg-logo="" group-title="(no group)",CocoRo
 https://4ea7abcc97144832b81dc50c6e8d6330.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Roku_Cocoro/playlist.m3u8?id=eroz_brebes.m3u8
-#EXTINF:-1 ,MTV
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MTV" tvg-logo="" group-title="(no group)",MTV
 http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/index_1250_av-p.m3u8
-#EXTINF:-1 ,MTV Hits
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MTV Hits" tvg-logo="" group-title="(no group)",MTV Hits
 http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/index_3500_av-p.m3u8?sd=10&rebase=on
-#EXTINF:-1 ,The K-POP
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="The K-POP" tvg-logo="" group-title="(no group)",The K-POP
 http://kkhyoyoyo.duckdns.org:9999/klive/api/url.m3u8?m=url&s=tving&i=C43342&q=SD&apikey=0MENK2CJI5
-#EXTINF:-1 ,ABC News
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ABC News" tvg-logo="" group-title="(no group)",ABC News
 https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index.m3u8
-#EXTINF:-1 ,CGTN
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CGTN" tvg-logo="" group-title="(no group)",CGTN
 https://news.cgtn.com/resource/live/english/cgtn-news.m3u8
-#EXTINF:-1 ,Bloomberg
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Bloomberg" tvg-logo="" group-title="(no group)",Bloomberg
 https://liveprodapnortheast.global.ssl.fastly.net/ap1/Channel-APTVqvs-AWS-tokyo-1/Source-APTVqvs-1000-1_live.m3u8?id=eroz_brebes.m3u8
-#EXTINF:-1 group-title="News",CNN International
-https://i.imgur.com/2BXCg0x.jpg" tvg-url="" group-title="News" - CNN International
-#EXTINF:-1 ,CNN International HD
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CNN International HD" tvg-logo="" group-title="(no group)",CNN International HD
 https://cnn-cnninternational-1-gb.samsung.wurl.com/manifest/playlist_1280x720_3000k.m3u8
-#EXTINF:-1 ,Sky News
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sky News" tvg-logo="" group-title="(no group)",Sky News
 https://skynewsau-live.akamaized.net/hls/live/2002689/skynewsau-extra1/master.m3u8
-#EXTINF:-1 ,CBN News
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CBN News" tvg-logo="" group-title="(no group)",CBN News
 http://bcliveuniv-lh.akamaihd.net/i/iptv1_1@194050/master.m3u8
-#EXTINF:-1 ,NHK WORLD
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NHK WORLD" tvg-logo="" group-title="(no group)",NHK WORLD
 https://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/global/2003458/live.m3u8
-#EXTINF:-1 ,Channel NewsAsia
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Channel NewsAsia" tvg-logo="" group-title="(no group)",Channel NewsAsia
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_3.m3u8
-#EXTINF:-1 group-title="News",VOA
-https://i.postimg.cc/sgzJcvKK/VOA.jpg" group-title="News" - VOA
-#EXTINF:-1 ,Fox News
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Fox News" tvg-logo="" group-title="(no group)",Fox News
 http://1111296894.rsc.cdn77.org/ls-54548-2/tracks-v1a1/mono.m3u8
-#EXTINF:-1 ,Fox Sports
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Fox Sports" tvg-logo="" group-title="(no group)",Fox Sports
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5a74b8e1e22a61737979c6bf/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=705&deviceId=5a74b8e1e22a61737979c6bf&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
-#EXTINF:-1 ,Stadium
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Stadium" tvg-logo="" group-title="(no group)",Stadium
 https://dai.google.com/linear/hls/event/0jRU1DBXSW6a_TFheLfAUQ/master.m3u8
-#EXTINF:-1 ,Stadium HD
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Stadium HD" tvg-logo="" group-title="(no group)",Stadium HD
 https://stadiumlivein-i.akamaihd.net/hls/live/522512/mux_4/master_3000k.m3u8
-#EXTINF:-1 ,Fashion TV
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Fashion TV" tvg-logo="" group-title="(no group)",Fashion TV
 https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_pg13_zw9_27065_ftv_pg13_196_hls.smil/chunklist_b900000_t64MzYwcA==.m3u8
-#EXTINF:-1 ,NewsNOW from Fox
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NewsNOW from Fox" tvg-logo="" group-title="(no group)",NewsNOW from Fox
 http://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
-#EXTINF:-1 ,DW
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DW" tvg-logo="" group-title="(no group)",DW
 https://m-c010-j2apps.s.llnwi.net/hls/8023.DWEnglish.in_360p/index.m3u8
-#EXTINF:-1 ,Euronews
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Euronews" tvg-logo="" group-title="(no group)",Euronews
 https://euronews-euronews-world-1.roku.wurl.com/manifest/b34060fcaf527710b244a3e16504edd0.m3u8
-#EXTINF:-1 ,TV5 Monde Asie
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TV5 Monde Asie" tvg-logo="" group-title="(no group)",TV5 Monde Asie
 https://tv5asieen-i.akamaihd.net/hls/live/631617/tv5asieen/index.m3u8
-#EXTINF:-1 ,Hillsong Channel
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Hillsong Channel" tvg-logo="" group-title="(no group)",Hillsong Channel
 http://api.new.livestream.com/accounts/27460990/events/8266909/live.m3u8
-#EXTINF:-1 ,Pilipinas HD BeamTv
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Pilipinas HD BeamTv" tvg-logo="" group-title="(no group)",Pilipinas HD BeamTv
 https://d3cbe0gidjd4k2.cloudfront.net/channel_5/channel5/playlist.m3u8
-#EXTINF:-1 ,INC TV
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="INC TV" tvg-logo="" group-title="(no group)",INC TV
 https://churchrus2-lh.akamaihd.net/i/coctesting_1@57550/master.m3u8
-#EXTINF:-1 ,Outdoor Channel
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Outdoor Channel" tvg-logo="" group-title="(no group)",Outdoor Channel
 https://outdoorchannel-samsungau.amagi.tv/playlist.m3u8
-#EXTINF:-1 ,Motorvision
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Motorvision" tvg-logo="" group-title="(no group)",Motorvision
 https://dai2-xumo.fubo.tv/amagi_hls_data_xumo1212A-motorvisiontv/CDN/master.m3u8
-#EXTINF:-1 ,Tennis Channel HD
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Tennis Channel HD" tvg-logo="" group-title="(no group)",Tennis Channel HD
 https://tennischannel-intl-samsung-uk.amagi.tv/playlist720_p.m3u8
-#EXTINF:-1 ,Edge Sports HD
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Edge Sports HD" tvg-logo="" group-title="(no group)",Edge Sports HD
 https://edgesports-stirr.amagi.tv/playlist1080p.m3u8
-#EXTINF:-1 ,CBSN HD
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CBSN HD" tvg-logo="" group-title="(no group)",CBSN HD
 https://linkastream.co/headless?url=https://www.youtube.com/c/ABCNews/live
-#EXTINF:-1 ,NBC News Now HD
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NBC News Now HD" tvg-logo="" group-title="(no group)",NBC News Now HD
 http://nbcnews2.akamaized.net/hls/live/723426-b/NBCNewsPlaymaker24x7Linear99a3a827-ua/VIDEO_0_6596000.m3u8
-#EXTINF:-1 ,MSNBC HD
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MSNBC HD" tvg-logo="" group-title="(no group)",MSNBC HD
 http://1111296894.rsc.cdn77.org/LS-ATL-54548-10/tracks-v1a1/mono.m3u8
-#EXTINF:-1 ,Indonesia Channel
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Indonesia Channel" tvg-logo="" group-title="(no group)",Indonesia Channel
 http://wowzaprod236-i.akamaihd.net/hls/live/1019903/7dd4cf51/playlist.m3u8
-#EXTINF:-1 ,Gaming TV
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Gaming TV" tvg-logo="" group-title="(no group)",Gaming TV
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f8eccd81062c300078a11df/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
-#EXTINF:-1 ,24 Hour Free Movies (720p)
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="24 Hour Free Movies (720p)" tvg-logo="" group-title="(no group)",24 Hour Free Movies (720p)
 https://d15690s323oesy.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/UDU-Plex/158.m3u8
-#EXTINF:-1 ,AMC Presents (1080p)
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AMC Presents (1080p)" tvg-logo="" group-title="(no group)",AMC Presents (1080p)
 https://amc-amcpresents-1.imdbtv.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1,Boomerang
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Boomerang" tvg-logo="" group-title="(no group)",Boomerang
 http://185.226.88.6:1026/live/Wb8XNkyIJn/UkPn4unfnR/151.ts
-#EXTINF:-1,BT Sport 1 FHD UK
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BT Sport 1 FHD UK" tvg-logo="" group-title="(no group)",BT Sport 1 FHD UK
 http://mytv.fun:8080/GiavanniBalboa/inpyqlwt0s/683858
-#EXTINF:-1,BT Sport 1 HD UK
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BT Sport 1 HD UK" tvg-logo="" group-title="(no group)",BT Sport 1 HD UK
 http://mytv.fun:8080/GiavanniBalboa/inpyqlwt0s/683859
-#EXTINF:-1,BT Sport 1 UK
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BT Sport 1 UK" tvg-logo="" group-title="(no group)",BT Sport 1 UK
 http://mytv.fun:8080/GiavanniBalboa/inpyqlwt0s/683860
-#EXTINF:-1,NBA TV HD US
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NBA TV HD US" tvg-logo="" group-title="(no group)",NBA TV HD US
 http://mytv.fun:8080/GiavanniBalboa/inpyqlwt0s/5450
-#EXTINF:-1,WWE Network HD VIP US
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="WWE Network HD VIP US" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-states/wwe-us.png" group-title="(no group)",WWE Network HD VIP US
 http://mytv.fun:8080/GiavanniBalboa/inpyqlwt0s/683002
-#EXTINF:-1,USA: Fox HD (call)
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="USA: Fox HD (call)" tvg-logo="" group-title="(no group)",USA: Fox HD (call)
 http://xtream-ui03.feel-tv.com:25461/Vwelsbfa/widnv39573sldba/441
-#EXTINF:-1,USA: Discovery ID HD (call)
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="USA: Discovery ID HD (call)" tvg-logo="" group-title="(no group)",USA: Discovery ID HD (call)
 http://xtream-ui03.feel-tv.com:25461/Vwelsbfa/widnv39573sldba/448
-#EXTINF:-1,USA: DISCOVERY VELOCITY (call)
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="USA: DISCOVERY VELOCITY (call)" tvg-logo="" group-title="(no group)",USA: DISCOVERY VELOCITY (call)
 http://xtream-ui03.feel-tv.com:25461/Vwelsbfa/widnv39573sldba/449
-#EXTINF:-1,USA: CBS HD (call)
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="USA: CBS HD (call)" tvg-logo="" group-title="(no group)",USA: CBS HD (call)
 http://xtream-ui03.feel-tv.com:25461/Vwelsbfa/widnv39573sldba/452
-#EXTINF:-1,USA: NBA TV HD (call)
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="USA: NBA TV HD (call)" tvg-logo="" group-title="(no group)",USA: NBA TV HD (call)
 http://xtream-ui03.feel-tv.com:25461/Vwelsbfa/widnv39573sldba/453
-#EXTINF:-1,USA: TLC (call)
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="USA: TLC (call)" tvg-logo="" group-title="(no group)",USA: TLC (call)
 http://xtream-ui03.feel-tv.com:25461/Vwelsbfa/widnv39573sldba/454
-#EXTINF:-1,USA: Bravo (call)
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="USA: Bravo (call)" tvg-logo="" group-title="(no group)",USA: Bravo (call)
 http://xtream-ui03.feel-tv.com:25461/Vwelsbfa/widnv39573sldba/460
-#EXTINF:-1,VIP USA: Discovery Science HD (call)
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="VIP USA: Discovery Science HD (call)" tvg-logo="" group-title="(no group)",VIP USA: Discovery Science HD (call)
 http://xtream-ui03.feel-tv.com:25461/Vwelsbfa/widnv39573sldba/469
-#EXTINF:-1,USA: History HD (call)
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="USA: History HD (call)" tvg-logo="" group-title="(no group)",USA: History HD (call)
 http://xtream-ui03.feel-tv.com:25461/Vwelsbfa/widnv39573sldba/476
-#EXTINF:-1,USA: NBC
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="USA: NBC" tvg-logo="" group-title="(no group)",USA: NBC
 http://xtream-ui03.feel-tv.com:25461/Vwelsbfa/widnv39573sldba/512
-#EXTINF:-1,USA: HBO HD
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="USA: HBO HD" tvg-logo="" group-title="(no group)",USA: HBO HD
 http://xtream-ui03.feel-tv.com:25461/Vwelsbfa/widnv39573sldba/513
-#EXTINF:-1,USA: HBO Comedy HD
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="USA: HBO Comedy HD" tvg-logo="" group-title="(no group)",USA: HBO Comedy HD
 http://xtream-ui03.feel-tv.com:25461/Vwelsbfa/widnv39573sldba/514
-#EXTINF:-1,USA: MTV HD
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="USA: MTV HD" tvg-logo="" group-title="(no group)",USA: MTV HD
 http://xtream-ui03.feel-tv.com:25461/Vwelsbfa/widnv39573sldba/521
-#EXTINF:-1,USA: Usa (call)
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="USA: Usa (call)" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-states/usa-us.png" group-title="(no group)",USA: Usa (call)
 http://xtream-ui03.feel-tv.com:25461/Vwelsbfa/widnv39573sldba/526
-#EXTINF:-1,UK: Disney Junior
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="USA:  ACTION MAX" tvg-logo="" group-title="(no group)",USA:  ACTION MAX
+http://appfactory.group:8080/9M2Bl5YikQ/8zly90qQUM/26812
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="USA:  CINEMAX EAST" tvg-logo="" group-title="(no group)",USA:  CINEMAX EAST
+http://appfactory.group:8080/9M2Bl5YikQ/8zly90qQUM/26813
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="USA:  CINEMAX WEST" tvg-logo="" group-title="(no group)",USA:  CINEMAX WEST
+http://appfactory.group:8080/9M2Bl5YikQ/8zly90qQUM/26814
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="USA:  A&E" tvg-logo="" group-title="(no group)",USA:  A&E
+http://appfactory.group:8080/9M2Bl5YikQ/8zly90qQUM/26962
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="USA: CNN" tvg-logo="" group-title="(no group)",USA: CNN
+http://appfactory.group:8080/9M2Bl5YikQ/8zly90qQUM/26963
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="USA:  AMC" tvg-logo="" group-title="(no group)",USA:  AMC
+http://appfactory.group:8080/9M2Bl5YikQ/8zly90qQUM/26964
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="USA:  AWE" tvg-logo="" group-title="(no group)",USA:  AWE
+http://appfactory.group:8080/9M2Bl5YikQ/8zly90qQUM/26969
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="USA:  AXS TV" tvg-logo="" group-title="(no group)",USA:  AXS TV
+http://appfactory.group:8080/9M2Bl5YikQ/8zly90qQUM/26970
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="USA:  BABY FIRST" tvg-logo="" group-title="(no group)",USA:  BABY FIRST
+http://appfactory.group:8080/9M2Bl5YikQ/8zly90qQUM/26971
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="USA:  BOOMERANG" tvg-logo="" group-title="(no group)",USA:  BOOMERANG
+http://appfactory.group:8080/9M2Bl5YikQ/8zly90qQUM/26979
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="USA:  COMEDY CENTRAL EAST" tvg-logo="" group-title="(no group)",USA:  COMEDY CENTRAL EAST
+http://appfactory.group:8080/9M2Bl5YikQ/8zly90qQUM/26985
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="USA:  COMET" tvg-logo="" group-title="(no group)",USA:  COMET
+http://appfactory.group:8080/9M2Bl5YikQ/8zly90qQUM/26986
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="USA:  DISCOVERY CHANNEL EAST" tvg-logo="" group-title="(no group)",USA:  DISCOVERY CHANNEL EAST
+http://appfactory.group:8080/9M2Bl5YikQ/8zly90qQUM/26989
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="USA:  DISCOVERY CHANNEL WEST" tvg-logo="" group-title="(no group)",USA:  DISCOVERY CHANNEL WEST
+http://appfactory.group:8080/9M2Bl5YikQ/8zly90qQUM/26990
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="USA:  DISCOVERY ID EAST" tvg-logo="" group-title="(no group)",USA:  DISCOVERY ID EAST
+http://appfactory.group:8080/9M2Bl5YikQ/8zly90qQUM/26991
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="USA:  DISCOVERY LIFE" tvg-logo="" group-title="(no group)",USA:  DISCOVERY LIFE
+http://appfactory.group:8080/9M2Bl5YikQ/8zly90qQUM/26992
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="USA:  DISNEY CHANNEL WEST" tvg-logo="" group-title="(no group)",USA:  DISNEY CHANNEL WEST
+http://appfactory.group:8080/9M2Bl5YikQ/8zly90qQUM/26993
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="USA:  DISNEY JR EAST" tvg-logo="" group-title="(no group)",USA:  DISNEY JR EAST
+http://appfactory.group:8080/9M2Bl5YikQ/8zly90qQUM/26994
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="USA:  GSN" tvg-logo="" group-title="(no group)",USA:  GSN
+http://appfactory.group:8080/9M2Bl5YikQ/8zly90qQUM/27000
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="USA:  MTV2" tvg-logo="" group-title="(no group)",USA:  MTV2
+http://appfactory.group:8080/9M2Bl5YikQ/8zly90qQUM/27006
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="USA:  MTV U" tvg-logo="" group-title="(no group)",USA:  MTV U
+http://appfactory.group:8080/9M2Bl5YikQ/8zly90qQUM/27007
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="USA:  NAT GEO WILD" tvg-logo="" group-title="(no group)",USA:  NAT GEO WILD
+http://appfactory.group:8080/9M2Bl5YikQ/8zly90qQUM/27008
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="USA:  NATIONAL GEOGRAPHIC EAST" tvg-logo="" group-title="(no group)",USA:  NATIONAL GEOGRAPHIC EAST
+http://appfactory.group:8080/9M2Bl5YikQ/8zly90qQUM/27009
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="USA:  NATIONAL GEOGRAPHIC WEST" tvg-logo="" group-title="(no group)",USA:  NATIONAL GEOGRAPHIC WEST
+http://appfactory.group:8080/9M2Bl5YikQ/8zly90qQUM/27010
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="USA:  NICK JR EAST" tvg-logo="" group-title="(no group)",USA:  NICK JR EAST
+http://appfactory.group:8080/9M2Bl5YikQ/8zly90qQUM/27013
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="USA:  NICKELODEON EAST" tvg-logo="" group-title="(no group)",USA:  NICKELODEON EAST
+http://appfactory.group:8080/9M2Bl5YikQ/8zly90qQUM/27014
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="USA:  NICKELODEON WEST" tvg-logo="" group-title="(no group)",USA:  NICKELODEON WEST
+http://appfactory.group:8080/9M2Bl5YikQ/8zly90qQUM/27015
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="USA:  NICK MUSIC" tvg-logo="" group-title="(no group)",USA:  NICK MUSIC
+http://appfactory.group:8080/9M2Bl5YikQ/8zly90qQUM/27016
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="USA:  NICKTOONS" tvg-logo="" group-title="(no group)",USA:  NICKTOONS
+http://appfactory.group:8080/9M2Bl5YikQ/8zly90qQUM/27017
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="USA:  POP" tvg-logo="" group-title="(no group)",USA:  POP
+http://appfactory.group:8080/9M2Bl5YikQ/8zly90qQUM/27027
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="USA:  SYFY EAST" tvg-logo="" group-title="(no group)",USA:  SYFY EAST
+http://appfactory.group:8080/9M2Bl5YikQ/8zly90qQUM/27035
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="USA:  SYFY WEST" tvg-logo="" group-title="(no group)",USA:  SYFY WEST
+http://appfactory.group:8080/9M2Bl5YikQ/8zly90qQUM/27036
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="USA:  TBS EAST" tvg-logo="" group-title="(no group)",USA:  TBS EAST
+http://appfactory.group:8080/9M2Bl5YikQ/8zly90qQUM/27038
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="USA:  TBS WEST" tvg-logo="" group-title="(no group)",USA:  TBS WEST
+http://appfactory.group:8080/9M2Bl5YikQ/8zly90qQUM/27039
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="USA:  TEEN NICK" tvg-logo="" group-title="(no group)",USA:  TEEN NICK
+http://appfactory.group:8080/9M2Bl5YikQ/8zly90qQUM/27041
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="USA: TSN 1" tvg-logo="" group-title="(no group)",USA: TSN 1
+http://appfactory.group:8080/9M2Bl5YikQ/8zly90qQUM/27062
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="USA: TSN 2" tvg-logo="" group-title="(no group)",USA: TSN 2
+http://appfactory.group:8080/9M2Bl5YikQ/8zly90qQUM/27063
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="USA: TSN 3" tvg-logo="" group-title="(no group)",USA: TSN 3
+http://appfactory.group:8080/9M2Bl5YikQ/8zly90qQUM/27064
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="USA: TSN 4" tvg-logo="" group-title="(no group)",USA: TSN 4
+http://appfactory.group:8080/9M2Bl5YikQ/8zly90qQUM/27065
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="USA:  ESPN" tvg-logo="" group-title="(no group)",USA:  ESPN
+http://appfactory.group:8080/9M2Bl5YikQ/8zly90qQUM/27087
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="USA:  ESPN 2" tvg-logo="" group-title="(no group)",USA:  ESPN 2
+http://appfactory.group:8080/9M2Bl5YikQ/8zly90qQUM/27088
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="USA:  ESPN DEPORTES" tvg-logo="" group-title="(no group)",USA:  ESPN DEPORTES
+http://appfactory.group:8080/9M2Bl5YikQ/8zly90qQUM/27089
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="USA:  ESPN U" tvg-logo="" group-title="(no group)",USA:  ESPN U
+http://appfactory.group:8080/9M2Bl5YikQ/8zly90qQUM/27090
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="USA:  ESPN News" tvg-logo="" group-title="(no group)",USA:  ESPN News
+http://appfactory.group:8080/9M2Bl5YikQ/8zly90qQUM/27091
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="USA:  ESPN 1 FHD" tvg-logo="" group-title="(no group)",USA:  ESPN 1 FHD
+http://appfactory.group:8080/9M2Bl5YikQ/8zly90qQUM/27092
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="USA:  ESPN 1 VIP" tvg-logo="" group-title="(no group)",USA:  ESPN 1 VIP
+http://appfactory.group:8080/9M2Bl5YikQ/8zly90qQUM/27093
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="USA:  ESPN 2" tvg-logo="" group-title="(no group)",USA:  ESPN 2
+http://appfactory.group:8080/9M2Bl5YikQ/8zly90qQUM/27094
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="USA:  ESPN 2 HD" tvg-logo="" group-title="(no group)",USA:  ESPN 2 HD
+http://appfactory.group:8080/9M2Bl5YikQ/8zly90qQUM/27095
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="USA:  ESPN 3 FHD" tvg-logo="" group-title="(no group)",USA:  ESPN 3 FHD
+http://appfactory.group:8080/9M2Bl5YikQ/8zly90qQUM/27096
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="USA:  ESPN News HD" tvg-logo="" group-title="(no group)",USA:  ESPN News HD
+http://appfactory.group:8080/9M2Bl5YikQ/8zly90qQUM/27099
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="USA: NBA LP 1" tvg-logo="" group-title="(no group)",USA: NBA LP 1
+http://appfactory.group:8080/9M2Bl5YikQ/8zly90qQUM/27105
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="USA: NBA LP 2" tvg-logo="" group-title="(no group)",USA: NBA LP 2
+http://appfactory.group:8080/9M2Bl5YikQ/8zly90qQUM/27106
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="USA: NBA LP 3" tvg-logo="" group-title="(no group)",USA: NBA LP 3
+http://appfactory.group:8080/9M2Bl5YikQ/8zly90qQUM/27107
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="USA: NBA LP 4" tvg-logo="" group-title="(no group)",USA: NBA LP 4
+http://appfactory.group:8080/9M2Bl5YikQ/8zly90qQUM/27108
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="UK: Disney Junior" tvg-logo="" group-title="(no group)",UK: Disney Junior
 http://appfactory.group:8080/9M2Bl5YikQ/8zly90qQUM/1166
-#EXTINF:-1,UK: Disney Channel
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="UK: Disney Channel" tvg-logo="" group-title="(no group)",UK: Disney Channel
 http://appfactory.group:8080/9M2Bl5YikQ/8zly90qQUM/1165
-#EXTINF:-1,UK: Disney XD
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="UK: Disney XD" tvg-logo="" group-title="(no group)",UK: Disney XD
 http://appfactory.group:8080/9M2Bl5YikQ/8zly90qQUM/1164
-#EXTINF:-1,UK: Nick FHD
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="UK: Nick FHD" tvg-logo="" group-title="(no group)",UK: Nick FHD
 http://appfactory.group:8080/9M2Bl5YikQ/8zly90qQUM/1162
-#EXTINF:-1,UK: Cartoon Network FHD
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="UK: Cartoon Network FHD" tvg-logo="" group-title="(no group)",UK: Cartoon Network FHD
 http://appfactory.group:8080/9M2Bl5YikQ/8zly90qQUM/1161
-#EXTINF:-1,UK: Cartoon Network
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="UK: Cartoon Network" tvg-logo="" group-title="(no group)",UK: Cartoon Network
 http://appfactory.group:8080/9M2Bl5YikQ/8zly90qQUM/1155
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CA: ADULT SWIM | HD" tvg-logo="" group-title="(no group)",CA: ADULT SWIM | HD
+http://appfactory.group:8080/9M2Bl5YikQ/8zly90qQUM/6450
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CA: Discovery Channel | HD" tvg-logo="" group-title="(no group)",CA: Discovery Channel | HD
+http://appfactory.group:8080/9M2Bl5YikQ/8zly90qQUM/6518
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CA: DISCOVERY SCIENCE | SD" tvg-logo="" group-title="(no group)",CA: DISCOVERY SCIENCE | SD
+http://appfactory.group:8080/9M2Bl5YikQ/8zly90qQUM/6519
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CA: SPORTSNET 360 | HD" tvg-logo="" group-title="(no group)",CA: SPORTSNET 360 | HD
+http://appfactory.group:8080/9M2Bl5YikQ/8zly90qQUM/6593
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CA: SPORTSNET EAST | HD" tvg-logo="" group-title="(no group)",CA: SPORTSNET EAST | HD
+http://appfactory.group:8080/9M2Bl5YikQ/8zly90qQUM/6594
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CA: SPORTSNET ONE | HD" tvg-logo="" group-title="(no group)",CA: SPORTSNET ONE | HD
+http://appfactory.group:8080/9M2Bl5YikQ/8zly90qQUM/6595
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Telemax" tvg-logo="https://i.imgur.com/bjGgLrA.jpg" group-title="Undefined",Telemax
+http://s5.mexside.net:1935/telemax/telemax/.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Vietnam : ANTV HD" tvg-logo="http://tduc.tk/logo/antv.png" group-title="Undefined",Vietnam : ANTV HD
+http://antvlive.ab5c6921.cdnviet.com/antv/chunklist.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="QRT" tvg-logo="https://uphinhnhanh.com/images/2019/01/31/IMG_20190131_191516.jpg" group-title="Undefined",QRT
+http://113.161.6.157:8081/hls-live/livepkgr/_definst_/liveevent/livestream.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="World Poker Tour 2 (720p)" tvg-logo="https://images.pluto.tv/channels/5f8ecfb9db6c180007a6d1b0/colorLogoPNG.png" group-title="Entertainment",World Poker Tour 2 (720p)
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f8ecfb9db6c180007a6d1b0/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CNN International" tvg-logo="" group-title="News",CNN International
+https://i.imgur.com/2BXCg0x.jpg" tvg-url="" group-title="News" - CNN International
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="VOA" tvg-logo="" group-title="News",VOA
+https://i.postimg.cc/sgzJcvKK/VOA.jpg" group-title="News" - VOA
