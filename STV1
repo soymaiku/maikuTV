@@ -1,281 +1,260 @@
-#EXTM3U
-#EXTINF:-1 group-title="Entertainment;Undefined" tvg-logo="https://i.imgur.com/F9GnABn.png",US | Adult Swim
-https://adultswimtv.warnermediacdn.com/hls/live/2007031/livestream/master_Layer7.m3u8?checkedby:iptvcat.com
-#EXTINF:-1 ,The Eric Andre Show
+#EXTINF:-1,The Eric Andre Show
 http://adultswim-vodlive.cdn.turner.com/live/eric-andre/stream.m3u8
-#EXTINF:-1 ,Adult Swim Samurai Jack (1080p) [Geo-blocked]
-https://adultswim-vodlive.cdn.turner.com/live/samurai-jack/stream.m3u8
-#EXTINF:-1 ,Adult Swim Rick and Morty (1080p) [Geo-blocked]
-https://adultswim-vodlive.cdn.turner.com/live/rick-and-morty/stream.m3u8
-#EXTINF:-1 ,TNT 4
+#EXTINF:-1,TNT 4
 https://16live00.akamaized.net/TNT/index.m3u8
-#EXTINF:-1 ,WWE Network 2
+#EXTINF:-1,WWE Network 2
 http://loginto.live:80/9E2GucVqA/qorMDQjpwg/4289
-#EXTINF:-1 ,New Japan Pro Wrestling World
+#EXTINF:-1,New Japan Pro Wrestling World
 https://aka-amd-njpwworld-hls-enlive.akamaized.net/hls/video/njpw_en/njpw_en_channel01_3/chunklist_DVR.m3u8
-#EXTINF:-1 ,TNT
+#EXTINF:-1,TNT
 http://primestreams.tv:826/hommydriver/Qo1gnR9Nku/109218
-#EXTINF:-1 ,USA NETWORK 1
-https://list.iptvcat.com/my_list/s/a8d12fc15c923b2b11863a8f0d6d24da.m3u8
-#EXTINF:-1 ,USA Network 2
-https://list.iptvcat.com/my_list/s/a33fc209753a6f1f95a71c4eb1af13a2.m3u8
-#EXTINF:-1 ,Comedy Central
+#EXTINF:-1,Comedy Central
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ca671f215a62078d2ec0abf/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=465&deviceId=5ca671f215a62078d2ec0abf&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
-#EXTINF:-1 ,Канал Disney (576p)
+#EXTINF:-1,Канал Disney (576p)
 http://188.40.68.167/russia/disney/playlist.m3u8
-#EXTINF:-1 ,Warner TV
+#EXTINF:-1,Warner TV
 http://203.154.243.89:11205/
-#EXTINF:-1 ,FX
+#EXTINF:-1,FX
 https://list.iptvcat.com/my_list/s/deeaac439c9dac689b24d205d229e609.m3u8
-#EXTINF:-1 ,Super Radyo DZBB
+#EXTINF:-1,Super Radyo DZBB
 http://stream.gmanews.tv/ioslive/livestream/chunklist.m3u8?checkedby:iptvcat.com
-#EXTINF:-1 group-title="Undefined" tvg-logo="https://i.imgur.com/bjGgLrA.jpg",Telemax
-http://s5.mexside.net:1935/telemax/telemax/.m3u8?checkedby:iptvcat.com
 #EXTINF:-1,Россия 24
 http://cdnmg.secure.live.rtr-vesti.ru/hls/russia_24/playlist_2.m3u8
-#EXTINF:-1 ,Da Nang TV1 (1080p) [Not 24/7]
-http://drtdnglive.e49a7c38.cdnviet.com/livedrt1/chunklist.m3u8
-#EXTINF:-1 ,Cà Mau TV (720p)
-http://tv.ctvcamau.vn/live/tv/tv.m3u8
-#EXTINF:-1 group-title="Undefined" tvg-logo="http://tduc.tk/logo/antv.png",Vietnam : ANTV HD
+#EXTINF:-1,Telemax
+http://s5.mexside.net:1935/telemax/telemax/.m3u8?checkedby:iptvcat.com
+#EXTINF:-1,Vietnam : ANTV HD
 http://antvlive.ab5c6921.cdnviet.com/antv/chunklist.m3u8?checkedby:iptvcat.com
-#EXTINF:-1 group-title="Undefined" tvg-logo="https://uphinhnhanh.com/images/2019/01/31/IMG_20190131_191516.jpg",QRT
+#EXTINF:-1,QRT
 http://113.161.6.157:8081/hls-live/livepkgr/_definst_/liveevent/livestream.m3u8?checkedby:iptvcat.com
-#EXTINF:-1 ,Tien Giang
-https://list.iptvcat.com/my_list/s/8bb380f1e220e9a4d4d1929dc571c37f.m3u8
-#EXTINF:-1 ,BRT (360p)
-http://113.163.216.23:1935/live/tv2.stream_480p/playlist.m3u8
-#EXTINF:-1 ,World Poker Tour (720p)
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5616f9c0ada51f8004c4b091/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5616f9c0ada51f8004c4b091&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=770&terminate=false&userId=
-#EXTINF:-1 group-title="Entertainment" tvg-logo="https://images.pluto.tv/channels/5f8ecfb9db6c180007a6d1b0/colorLogoPNG.png",World Poker Tour 2 (720p)
+#EXTINF:-1,World Poker Tour 2 (720p)
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f8ecfb9db6c180007a6d1b0/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
-#EXTINF:-1 ,Game Show Network
-https://list.iptvcat.com/my_list/s/7f26867854b778aaff78e2839400c8e8.m3u8
-#EXTINF:-1 ,Edge TV
-https://livestreamdirect-edgetv.mediaworks.nz/edgetv.m3u8
-#EXTINF:-1 ,NICKTOONS
-https://list.iptvcat.com/my_list/s/43d1b59e127554cd34bea4bb7b7f093b.m3u8
-#EXTINF:-1 ,DISNEY CHANNEL
-https://list.iptvcat.com/my_list/s/f451b940bc8359678ec8c1fc2233f984.m3u8
-#EXTINF:-1 ,DISNEY JUNIOR
-https://list.iptvcat.com/my_list/s/a5de489f97052d36278b7cec03fff7d5.m3u8
-#EXTINF:-1 ,DISNEY XD
-https://list.iptvcat.com/my_list/s/d3d36a6ab1c27b3945416b36106fd07b.m3u8
-#EXTINF:-1 ,LEGO CHANNEL
-https://legochannel-roku.amagi.tv/playlist.m3u8
-#EXTINF:-1 ,SMITHSONIAN CHANNEL (SEA)
-https://smithsonianaus-samsungau.amagi.tv/playlist.m3u8
-#EXTINF:-1 ,CNET
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/56283c8769ba54637dea0464/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
-#EXTINF:-1 ,Yu-Gi-Oh
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f4ec10ed9636f00089b8c89/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
-#EXTINF:-1 ,TV Asahi
-http://203.162.235.41:16906
-#EXTINF:-1 ,MTV Spankin' New
-http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS07/master.m3u8
-#EXTINF:-1 ,MTV Biggest Pop
-http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS02/master.m3u8
-#EXTINF:-1 ,Pop
-https://live-poptv-fastly-prod.global.ssl.fastly.net/pop/master.m3u8
-#EXTINF:-1 ,FOX Russia (576p)
-http://188.40.68.167/russia/fox_russia_sd/playlist.m3u8
-#EXTINF:-1 ,ESPN (720p)
-http://stream2.grandma.fit/fs2.m3u8
-#EXTINF:-1 ,ESPN2 (720p)
-http://stream2.grandma.fit/espn2.m3u8
-#EXTINF:-1 ,Fite
-https://cdn-cf.fite.tv/linear/fite247/playlist.m3u8
-#EXTINF:-1 ,AXS TV Now (1080p)
-https://dikcfc9915kp8.cloudfront.net/hls/main.m3u8
-#EXTINF:-1 ,FOX Sport HD 1
-https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master.m3u8
-#EXTINF:-1 ,AFV
-https://dai.google.com/linear/hls/event/18_lZXPySFa5_GRVEbOX_A/master.m3u8
-#EXTINF:-1 ,Amazing Discoveries TV
-https://uni01rtmp.tulix.tv/amazingdtv/amazingdtv/playlist.m3u8
-#EXTINF:-1 ,Arirang
-http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
-#EXTINF:-1 ,NBC / ABC Jacksonville FL (WTLV) (1080p)
-https://livevideo01.firstcoastnews.com/hls/live/2014550/newscasts/live.m3u8
-#EXTINF:-1 ,Canal Macau (Opt-2)
-http://61.244.22.4/ch2/ch2.live/playelist.m3u8
-#EXTINF:-1 ,CBS TV
-http://cbs-live.gscdn.com/cbs-live/cbs-live.stream/hasbahca.m3u8
-#EXTINF:-1 ,BS Asahi (New!)
-http://203.162.235.41:16914
-#EXTINF:-1 ,EBS Plus 1
-http://ebsonair.ebs.co.kr:1935/plus1tablet500k/tablet500k/playlist.m3u8
-#EXTINF:-1 ,EBS Plus 2
-http://ebsonair.ebs.co.kr:1935/plus2tablet500k/tablet500k/playlist.m3u8
-#EXTINF:-1 ,Fail Army
-https://dai.google.com/linear/hls/event/7tuuoX1wSsCTaki1HqJFYw/master.m3u8
-#EXTINF:-1 ,Gunma TV
-https://movie.mcas.jp/switcher/smil:mcas8.smil/master.m3u8
-#EXTINF:-1 ,IMPACT Wrestling
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/59b722526996084038c01e1b/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=734&deviceId=59b722526996084038c01e1b&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
-#EXTINF:-1 ,Japanet Channel DX
-https://bcsecurelivehls-i.akamaihd.net/hls/live/265320/5043843989001/140130JTDX/index.m3u8
-#EXTINF:-1 ,KBS LiveCam DokDo
-http://kbs-dokdo.gscdn.com/dokdo_300/_definst_/dokdo_300.stream/playlist.m3u8
-#EXTINF:-1 ,Kepez TV
-http://85.132.81.184:8080/arbkepez/live/index.m3u8
-#EXTINF:-1 ,NHK Chinese Vision
-https://nhkw-zh-hlscomp.akamaized.net/8thz5iufork8wjip/playlist.m3u8
-#EXTINF:-1 ,NTV News24
-https://www.news24.jp/livestream/index.m3u8
-#EXTINF:-1 ,QVC Japan
-https://cdn-live1.qvc.jp/iPhone/1501/1501.m3u8
-#EXTINF:-1 ,Red Bull TV
-http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
-#EXTINF:-1 ,Ring of Honor
-https://stadium-ringofhonor-1.sinclair.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 ,STIRR Ring of Honor (720p)
-https://dai.google.com/linear/hls/event/RNiQYO3aTjOqTe8od1zlqA/master.m3u8
-#EXTINF:-1 ,Sheffield Live! 93.2 FM
-http://tv.sheffieldlive.org/hls/main.m3u8
-#EXTINF:-1 ,Shop Channel
-https://stream3.shopch.jp/HLS/master.m3u8
-#EXTINF:-1 ,Sky News
-https://skynews2-plutolive-vo.akamaized.net/cdhlsskynewsamericas/1013/latest.m3u8?serverSideAds=true
-#EXTINF:-1 ,Spike (Opt-1)
-https://viacomitalytest-lh.akamaihd.net/i/sbshdlive_1@829515/index_1800_av-p.m3u8
-#EXTINF:-1 ,Teleritmo
-http://mdstrm.com/live-stream-playlist_400/57b4dc126338448314449d0c.m3u8
-#EXTINF:-1 ,TMZ
-https://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1234A-tmz/CDN/1280x720_5000000/index.m3u8
-#EXTINF:-1 ,Tokyo MX1
-https://movie.mcas.jp/mcas/smil:mx1_prod.smil/master.m3u8
-#EXTINF:-1 ,Tokyo MX2
-https://movie.mcas.jp/mcas/smil:mx2_prod.smil/master.m3u8
-#EXTINF:-1 ,TRUELIVE
-https://vcnleomarkstudios.teleosmedia.com/stream/leomarkstudios/screamfest/seglist_720p.m3u8
-#EXTINF:-1 ,Weather News
-http://movie.mcas.jp/mcas/smil:wn1.smil/master.m3u8
-#EXTINF:-1 ,YTN
-http://slive.ytn.co.kr:1935/dmb/ydlive_20140419_1/playlist.m3u8
-#EXTINF:-1 ,CNN Philippines
-https://streaming.cnnphilippines.com/live/myStream/chunklist.m3u8
-#EXTINF:-1 ,Nat Geo WILD Russia (1080p)
-https://sc.id-tv.kz/NatGeoWildHD_34_35.m3u8
-#EXTINF:-1 ,NASA TV
-https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
-#EXTINF:-1 ,Fashion TV
-https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_pg13_zw9_27065_ftv_pg13_196_hls.smil/chunklist_b4700000_t64MTA4MHA=.m3u8
-#EXTINF:-1 ,Fashion TV+
-http://fash1043.cloudycdn.services/slive/_definst_/ftv_midnite_secrets_adaptive.smil/chunklist_b4700000_t64MTA4MHA=.m3u8
-#EXTINF:-1 ,World Poker Tour (1080p)
-https://dth07jsr8atug.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/WPT-Plex/171.m3u8
-#EXTINF:-1 ,Red Bull TV HD
-https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
-#EXTINF:-1 ,MLB Network
-http://hlslive-akc-med1.media.mlb.com/ls01/mlbnetwork/NETWORK_LINEAR_1/master_wired.m3u8
-#EXTINF:-1 ,NFL Network
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ced7d5df64be98e07ed47b6/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=708&deviceId=5ced7d5df64be98e07ed47b6&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
-#EXTINF:-1 ,CGTN
-http://live.cgtn.com/1000/prog_index.m3u8
-#EXTINF:-1 ,France 24
-http://f24hls-i.akamaihd.net/hls/live/221147/F24_EN_HI_HLS/master_500.m3u8
-#EXTINF:-1 ,Movie Kingdom
-https://a.jsrdn.com/broadcast/e9b4093a41/+0000/high/c.m3u8
-#EXTINF:-1 ,MoviesComedy
-https://a.jsrdn.com/broadcast/e9b4093a41/+0000/c.m3u8
-#EXTINF:-1 ,LaughtTv
-https://playout4multirtmp.tulix.tv/live7/Stream1/chunklist_w1897993124.m3u8
-#EXTINF:-1 ,UFC
-https://live-k2302-kbp.1plus1.video/sport/smil:sport.smil/chunklist_b6000000.m3u8
-#EXTINF:-1 ,UFC 2
-https://stadiumlivein-i.akamaihd.net/hls/live/522512/mux_4/master.m3u8
-#EXTINF:-1 ,ONE Golf
-http://162.250.201.58:6211/pk/ONEGOLF/index.m3u8
-#EXTINF:-1 ,Love Nature
-http://bamus-eng-roku.amagi.tv/playlist.m3u8
-#EXTINF:-1 ,After School Cartoons
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/56171fafada51f8004c4b40f/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=990&deviceId=56171fafada51f8004c4b40f&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
-#EXTINF:-1 ,PBS Kids
-https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8
-#EXTINF:-1 ,HappyKids
-https://happykids-vizio.amagi.tv/playlist480p.m3u8
-#EXTINF:-1 ,Kartoon Fun Time
-https://simultv.s.llnwi.net/n4s4/KartoonCircus/interlink.m3u8
-#EXTINF:-1 ,Kid Central
-https://simultv.s.llnwi.net/n4s4/kidcentral/interlink.m3u8
-#EXTINF:-1 ,Big Buck Bunny
-https://wowzaec2demo.streamlock.net/live/bigbuckbunny/eroz_brebes.m3u8
-#EXTINF:-1 ,Spacetoon
-https://streams.spacetoon.com/live/stchannel/smil:livesmil.smil/playlist.m3u8
-#EXTINF:-1 ,CocoRo
-https://4ea7abcc97144832b81dc50c6e8d6330.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Roku_Cocoro/playlist.m3u8?id=eroz_brebes.m3u8
-#EXTINF:-1 ,MTV
-http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/index_1250_av-p.m3u8
-#EXTINF:-1 ,MTV Hits
-http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/index_3500_av-p.m3u8?sd=10&rebase=on
-#EXTINF:-1 ,The K-POP
-http://kkhyoyoyo.duckdns.org:9999/klive/api/url.m3u8?m=url&s=tving&i=C43342&q=SD&apikey=0MENK2CJI5
-#EXTINF:-1 ,ABC News
-https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index.m3u8
-#EXTINF:-1 ,CGTN
-https://news.cgtn.com/resource/live/english/cgtn-news.m3u8
-#EXTINF:-1 ,Bloomberg
-https://liveprodapnortheast.global.ssl.fastly.net/ap1/Channel-APTVqvs-AWS-tokyo-1/Source-APTVqvs-1000-1_live.m3u8?id=eroz_brebes.m3u8
-#EXTINF:-1 group-title="News",CNN International
+#EXTINF:-1,CNN International
 https://i.imgur.com/2BXCg0x.jpg" tvg-url="" group-title="News" - CNN International
-#EXTINF:-1 ,CNN International HD
+#EXTINF:-1,Da Nang TV1 (1080p) [Not 24/7]
+http://drtdnglive.e49a7c38.cdnviet.com/livedrt1/chunklist.m3u8
+#EXTINF:-1,Cà Mau TV (720p)
+http://tv.ctvcamau.vn/live/tv/tv.m3u8
+#EXTINF:-1,Tien Giang
+https://list.iptvcat.com/my_list/s/8bb380f1e220e9a4d4d1929dc571c37f.m3u8
+#EXTINF:-1,BRT (360p)
+http://113.163.216.23:1935/live/tv2.stream_480p/playlist.m3u8
+#EXTINF:-1,World Poker Tour (720p)
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5616f9c0ada51f8004c4b091/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5616f9c0ada51f8004c4b091&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=770&terminate=false&userId=
+#EXTINF:-1,Game Show Network
+https://list.iptvcat.com/my_list/s/7f26867854b778aaff78e2839400c8e8.m3u8
+#EXTINF:-1,Edge TV
+https://livestreamdirect-edgetv.mediaworks.nz/edgetv.m3u8
+#EXTINF:-1,LEGO CHANNEL
+https://legochannel-roku.amagi.tv/playlist.m3u8
+#EXTINF:-1,SMITHSONIAN CHANNEL (SEA)
+https://smithsonianaus-samsungau.amagi.tv/playlist.m3u8
+#EXTINF:-1,CNET
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/56283c8769ba54637dea0464/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
+#EXTINF:-1,Yu-Gi-Oh
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f4ec10ed9636f00089b8c89/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
+#EXTINF:-1,TV Asahi
+http://203.162.235.41:16906
+#EXTINF:-1,MTV Spankin' New
+http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS07/master.m3u8
+#EXTINF:-1,MTV Biggest Pop
+http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS02/master.m3u8
+#EXTINF:-1,Pop
+https://live-poptv-fastly-prod.global.ssl.fastly.net/pop/master.m3u8
+#EXTINF:-1,FOX Russia (576p)
+http://188.40.68.167/russia/fox_russia_sd/playlist.m3u8
+#EXTINF:-1,ESPN (720p)
+http://stream2.grandma.fit/fs2.m3u8
+#EXTINF:-1,ESPN2 (720p)
+http://stream2.grandma.fit/espn2.m3u8
+#EXTINF:-1,Fite
+https://cdn-cf.fite.tv/linear/fite247/playlist.m3u8
+#EXTINF:-1,AXS TV Now (1080p)
+https://dikcfc9915kp8.cloudfront.net/hls/main.m3u8
+#EXTINF:-1,FOX Sport HD 1
+https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master.m3u8
+#EXTINF:-1,AFV
+https://dai.google.com/linear/hls/event/18_lZXPySFa5_GRVEbOX_A/master.m3u8
+#EXTINF:-1,Amazing Discoveries TV
+https://uni01rtmp.tulix.tv/amazingdtv/amazingdtv/playlist.m3u8
+#EXTINF:-1,Arirang
+http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
+#EXTINF:-1,NBC / ABC Jacksonville FL (WTLV) (1080p)
+https://livevideo01.firstcoastnews.com/hls/live/2014550/newscasts/live.m3u8
+#EXTINF:-1,Canal Macau (Opt-2)
+http://61.244.22.4/ch2/ch2.live/playelist.m3u8
+#EXTINF:-1,CBS TV
+http://cbs-live.gscdn.com/cbs-live/cbs-live.stream/hasbahca.m3u8
+#EXTINF:-1,BS Asahi (New!)
+http://203.162.235.41:16914
+#EXTINF:-1,EBS Plus 1
+http://ebsonair.ebs.co.kr:1935/plus1tablet500k/tablet500k/playlist.m3u8
+#EXTINF:-1,EBS Plus 2
+http://ebsonair.ebs.co.kr:1935/plus2tablet500k/tablet500k/playlist.m3u8
+#EXTINF:-1,Fail Army
+https://dai.google.com/linear/hls/event/7tuuoX1wSsCTaki1HqJFYw/master.m3u8
+#EXTINF:-1,Gunma TV
+https://movie.mcas.jp/switcher/smil:mcas8.smil/master.m3u8
+#EXTINF:-1,IMPACT Wrestling
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/59b722526996084038c01e1b/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=734&deviceId=59b722526996084038c01e1b&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
+#EXTINF:-1,Japanet Channel DX
+https://bcsecurelivehls-i.akamaihd.net/hls/live/265320/5043843989001/140130JTDX/index.m3u8
+#EXTINF:-1,KBS LiveCam DokDo
+http://kbs-dokdo.gscdn.com/dokdo_300/_definst_/dokdo_300.stream/playlist.m3u8
+#EXTINF:-1,Kepez TV
+http://85.132.81.184:8080/arbkepez/live/index.m3u8
+#EXTINF:-1,NHK Chinese Vision
+https://nhkw-zh-hlscomp.akamaized.net/8thz5iufork8wjip/playlist.m3u8
+#EXTINF:-1,NTV News24
+https://www.news24.jp/livestream/index.m3u8
+#EXTINF:-1,QVC Japan
+https://cdn-live1.qvc.jp/iPhone/1501/1501.m3u8
+#EXTINF:-1,Red Bull TV
+http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
+#EXTINF:-1,Ring of Honor
+https://stadium-ringofhonor-1.sinclair.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1,STIRR Ring of Honor (720p)
+https://dai.google.com/linear/hls/event/RNiQYO3aTjOqTe8od1zlqA/master.m3u8
+#EXTINF:-1,Sheffield Live! 93.2 FM
+http://tv.sheffieldlive.org/hls/main.m3u8
+#EXTINF:-1,Shop Channel
+https://stream3.shopch.jp/HLS/master.m3u8
+#EXTINF:-1,Sky News
+https://skynews2-plutolive-vo.akamaized.net/cdhlsskynewsamericas/1013/latest.m3u8?serverSideAds=true
+#EXTINF:-1,Spike (Opt-1)
+https://viacomitalytest-lh.akamaihd.net/i/sbshdlive_1@829515/index_1800_av-p.m3u8
+#EXTINF:-1,Teleritmo
+http://mdstrm.com/live-stream-playlist_400/57b4dc126338448314449d0c.m3u8
+#EXTINF:-1,TMZ
+https://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1234A-tmz/CDN/1280x720_5000000/index.m3u8
+#EXTINF:-1,Tokyo MX1
+https://movie.mcas.jp/mcas/smil:mx1_prod.smil/master.m3u8
+#EXTINF:-1,Tokyo MX2
+https://movie.mcas.jp/mcas/smil:mx2_prod.smil/master.m3u8
+#EXTINF:-1,TRUELIVE
+https://vcnleomarkstudios.teleosmedia.com/stream/leomarkstudios/screamfest/seglist_720p.m3u8
+#EXTINF:-1,Weather News
+http://movie.mcas.jp/mcas/smil:wn1.smil/master.m3u8
+#EXTINF:-1,YTN
+http://slive.ytn.co.kr:1935/dmb/ydlive_20140419_1/playlist.m3u8
+#EXTINF:-1,CNN Philippines
+https://streaming.cnnphilippines.com/live/myStream/chunklist.m3u8
+#EXTINF:-1,Nat Geo WILD Russia (1080p)
+https://sc.id-tv.kz/NatGeoWildHD_34_35.m3u8
+#EXTINF:-1,NASA TV
+https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
+#EXTINF:-1,Fashion TV
+https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_pg13_zw9_27065_ftv_pg13_196_hls.smil/chunklist_b4700000_t64MTA4MHA=.m3u8
+#EXTINF:-1,Fashion TV+
+http://fash1043.cloudycdn.services/slive/_definst_/ftv_midnite_secrets_adaptive.smil/chunklist_b4700000_t64MTA4MHA=.m3u8
+#EXTINF:-1,World Poker Tour (1080p)
+https://dth07jsr8atug.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/WPT-Plex/171.m3u8
+#EXTINF:-1,Red Bull TV HD
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
+#EXTINF:-1,MLB Network
+http://hlslive-akc-med1.media.mlb.com/ls01/mlbnetwork/NETWORK_LINEAR_1/master_wired.m3u8
+#EXTINF:-1,NFL Network
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ced7d5df64be98e07ed47b6/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=708&deviceId=5ced7d5df64be98e07ed47b6&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
+#EXTINF:-1,CGTN
+http://live.cgtn.com/1000/prog_index.m3u8
+#EXTINF:-1,France 24
+http://f24hls-i.akamaihd.net/hls/live/221147/F24_EN_HI_HLS/master_500.m3u8
+#EXTINF:-1,Movie Kingdom
+https://a.jsrdn.com/broadcast/e9b4093a41/+0000/high/c.m3u8
+#EXTINF:-1,MoviesComedy
+https://a.jsrdn.com/broadcast/e9b4093a41/+0000/c.m3u8
+#EXTINF:-1,LaughtTv
+https://playout4multirtmp.tulix.tv/live7/Stream1/chunklist_w1897993124.m3u8
+#EXTINF:-1,UFC
+https://live-k2302-kbp.1plus1.video/sport/smil:sport.smil/chunklist_b6000000.m3u8
+#EXTINF:-1,UFC 2
+https://stadiumlivein-i.akamaihd.net/hls/live/522512/mux_4/master.m3u8
+#EXTINF:-1,ONE Golf
+http://162.250.201.58:6211/pk/ONEGOLF/index.m3u8
+#EXTINF:-1,Love Nature
+http://bamus-eng-roku.amagi.tv/playlist.m3u8
+#EXTINF:-1,After School Cartoons
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/56171fafada51f8004c4b40f/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=990&deviceId=56171fafada51f8004c4b40f&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
+#EXTINF:-1,PBS Kids
+https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8
+#EXTINF:-1,HappyKids
+https://happykids-vizio.amagi.tv/playlist480p.m3u8
+#EXTINF:-1,Kartoon Fun Time
+https://simultv.s.llnwi.net/n4s4/KartoonCircus/interlink.m3u8
+#EXTINF:-1,Kid Central
+https://simultv.s.llnwi.net/n4s4/kidcentral/interlink.m3u8
+#EXTINF:-1,Big Buck Bunny
+https://wowzaec2demo.streamlock.net/live/bigbuckbunny/eroz_brebes.m3u8
+#EXTINF:-1,Spacetoon
+https://streams.spacetoon.com/live/stchannel/smil:livesmil.smil/playlist.m3u8
+#EXTINF:-1,CocoRo
+https://4ea7abcc97144832b81dc50c6e8d6330.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Roku_Cocoro/playlist.m3u8?id=eroz_brebes.m3u8
+#EXTINF:-1,MTV
+http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/index_1250_av-p.m3u8
+#EXTINF:-1,MTV Hits
+http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/index_3500_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1,The K-POP
+http://kkhyoyoyo.duckdns.org:9999/klive/api/url.m3u8?m=url&s=tving&i=C43342&q=SD&apikey=0MENK2CJI5
+#EXTINF:-1,ABC News
+https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index.m3u8
+#EXTINF:-1,CGTN
+https://news.cgtn.com/resource/live/english/cgtn-news.m3u8
+#EXTINF:-1,Bloomberg
+https://liveprodapnortheast.global.ssl.fastly.net/ap1/Channel-APTVqvs-AWS-tokyo-1/Source-APTVqvs-1000-1_live.m3u8?id=eroz_brebes.m3u8
+#EXTINF:-1,CNN International HD
 https://cnn-cnninternational-1-gb.samsung.wurl.com/manifest/playlist_1280x720_3000k.m3u8
-#EXTINF:-1 ,Sky News
+#EXTINF:-1,Sky News
 https://skynewsau-live.akamaized.net/hls/live/2002689/skynewsau-extra1/master.m3u8
-#EXTINF:-1 ,CBN News
+#EXTINF:-1,CBN News
 http://bcliveuniv-lh.akamaihd.net/i/iptv1_1@194050/master.m3u8
-#EXTINF:-1 ,NHK WORLD
+#EXTINF:-1,NHK WORLD
 https://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/global/2003458/live.m3u8
-#EXTINF:-1 ,Channel NewsAsia
+#EXTINF:-1,Channel NewsAsia
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_3.m3u8
-#EXTINF:-1 group-title="News",VOA
-https://i.postimg.cc/sgzJcvKK/VOA.jpg" group-title="News" - VOA
-#EXTINF:-1 ,Fox News
+#EXTINF:-1,Fox News
 http://1111296894.rsc.cdn77.org/ls-54548-2/tracks-v1a1/mono.m3u8
-#EXTINF:-1 ,Fox Sports
+#EXTINF:-1,Fox Sports
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5a74b8e1e22a61737979c6bf/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=705&deviceId=5a74b8e1e22a61737979c6bf&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
-#EXTINF:-1 ,Stadium
+#EXTINF:-1,Stadium
 https://dai.google.com/linear/hls/event/0jRU1DBXSW6a_TFheLfAUQ/master.m3u8
-#EXTINF:-1 ,Stadium HD
+#EXTINF:-1,Stadium HD
 https://stadiumlivein-i.akamaihd.net/hls/live/522512/mux_4/master_3000k.m3u8
-#EXTINF:-1 ,Fashion TV
+#EXTINF:-1,Fashion TV
 https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_pg13_zw9_27065_ftv_pg13_196_hls.smil/chunklist_b900000_t64MzYwcA==.m3u8
-#EXTINF:-1 ,NewsNOW from Fox
+#EXTINF:-1,NewsNOW from Fox
 http://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
-#EXTINF:-1 ,DW
+#EXTINF:-1,DW
 https://m-c010-j2apps.s.llnwi.net/hls/8023.DWEnglish.in_360p/index.m3u8
-#EXTINF:-1 ,Euronews
+#EXTINF:-1,Euronews
 https://euronews-euronews-world-1.roku.wurl.com/manifest/b34060fcaf527710b244a3e16504edd0.m3u8
-#EXTINF:-1 ,TV5 Monde Asie
+#EXTINF:-1,TV5 Monde Asie
 https://tv5asieen-i.akamaihd.net/hls/live/631617/tv5asieen/index.m3u8
-#EXTINF:-1 ,Hillsong Channel
+#EXTINF:-1,Hillsong Channel
 http://api.new.livestream.com/accounts/27460990/events/8266909/live.m3u8
-#EXTINF:-1 ,Pilipinas HD BeamTv
+#EXTINF:-1,Pilipinas HD BeamTv
 https://d3cbe0gidjd4k2.cloudfront.net/channel_5/channel5/playlist.m3u8
-#EXTINF:-1 ,INC TV
+#EXTINF:-1,INC TV
 https://churchrus2-lh.akamaihd.net/i/coctesting_1@57550/master.m3u8
-#EXTINF:-1 ,Outdoor Channel
+#EXTINF:-1,Outdoor Channel
 https://outdoorchannel-samsungau.amagi.tv/playlist.m3u8
-#EXTINF:-1 ,Motorvision
+#EXTINF:-1,Motorvision
 https://dai2-xumo.fubo.tv/amagi_hls_data_xumo1212A-motorvisiontv/CDN/master.m3u8
-#EXTINF:-1 ,Tennis Channel HD
+#EXTINF:-1,Tennis Channel HD
 https://tennischannel-intl-samsung-uk.amagi.tv/playlist720_p.m3u8
-#EXTINF:-1 ,Edge Sports HD
+#EXTINF:-1,Edge Sports HD
 https://edgesports-stirr.amagi.tv/playlist1080p.m3u8
-#EXTINF:-1 ,CBSN HD
+#EXTINF:-1,CBSN HD
 https://linkastream.co/headless?url=https://www.youtube.com/c/ABCNews/live
-#EXTINF:-1 ,NBC News Now HD
+#EXTINF:-1,NBC News Now HD
 http://nbcnews2.akamaized.net/hls/live/723426-b/NBCNewsPlaymaker24x7Linear99a3a827-ua/VIDEO_0_6596000.m3u8
-#EXTINF:-1 ,MSNBC HD
+#EXTINF:-1,MSNBC HD
 http://1111296894.rsc.cdn77.org/LS-ATL-54548-10/tracks-v1a1/mono.m3u8
-#EXTINF:-1 ,Indonesia Channel
+#EXTINF:-1,Indonesia Channel
 http://wowzaprod236-i.akamaihd.net/hls/live/1019903/7dd4cf51/playlist.m3u8
-#EXTINF:-1 ,Gaming TV
+#EXTINF:-1,Gaming TV
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f8eccd81062c300078a11df/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
-#EXTINF:-1 ,24 Hour Free Movies (720p)
+#EXTINF:-1,24 Hour Free Movies (720p)
 https://d15690s323oesy.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/UDU-Plex/158.m3u8
-#EXTINF:-1 ,AMC Presents (1080p)
+#EXTINF:-1,AMC Presents (1080p)
 https://amc-amcpresents-1.imdbtv.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1,Boomerang
 http://185.226.88.6:1026/live/Wb8XNkyIJn/UkPn4unfnR/151.ts
@@ -317,52 +296,22 @@ http://xtream-ui03.feel-tv.com:25461/Vwelsbfa/widnv39573sldba/514
 http://xtream-ui03.feel-tv.com:25461/Vwelsbfa/widnv39573sldba/521
 #EXTINF:-1,USA: Usa (call)
 http://xtream-ui03.feel-tv.com:25461/Vwelsbfa/widnv39573sldba/526
-#EXTINF:-1,USA:  ACTION MAX
-http://appfactory.group:8080/9M2Bl5YikQ/8zly90qQUM/26812
-#EXTINF:-1,USA:  CINEMAX EAST
-http://appfactory.group:8080/9M2Bl5YikQ/8zly90qQUM/26813
 #EXTINF:-1,USA:  CINEMAX WEST
 http://appfactory.group:8080/9M2Bl5YikQ/8zly90qQUM/26814
 #EXTINF:-1,USA:  A&E
 http://appfactory.group:8080/9M2Bl5YikQ/8zly90qQUM/26962
 #EXTINF:-1,USA: CNN
 http://appfactory.group:8080/9M2Bl5YikQ/8zly90qQUM/26963
-#EXTINF:-1,USA:  AMC
-http://appfactory.group:8080/9M2Bl5YikQ/8zly90qQUM/26964
-#EXTINF:-1,USA:  AWE
-http://appfactory.group:8080/9M2Bl5YikQ/8zly90qQUM/26969
-#EXTINF:-1,USA:  AXS TV
-http://appfactory.group:8080/9M2Bl5YikQ/8zly90qQUM/26970
 #EXTINF:-1,USA:  BABY FIRST
 http://appfactory.group:8080/9M2Bl5YikQ/8zly90qQUM/26971
 #EXTINF:-1,USA:  BOOMERANG
 http://appfactory.group:8080/9M2Bl5YikQ/8zly90qQUM/26979
-#EXTINF:-1,USA:  COMEDY CENTRAL EAST
-http://appfactory.group:8080/9M2Bl5YikQ/8zly90qQUM/26985
-#EXTINF:-1,USA:  COMET
-http://appfactory.group:8080/9M2Bl5YikQ/8zly90qQUM/26986
-#EXTINF:-1,USA:  DISCOVERY CHANNEL EAST
-http://appfactory.group:8080/9M2Bl5YikQ/8zly90qQUM/26989
 #EXTINF:-1,USA:  DISCOVERY CHANNEL WEST
 http://appfactory.group:8080/9M2Bl5YikQ/8zly90qQUM/26990
-#EXTINF:-1,USA:  DISCOVERY ID EAST
-http://appfactory.group:8080/9M2Bl5YikQ/8zly90qQUM/26991
-#EXTINF:-1,USA:  DISCOVERY LIFE
-http://appfactory.group:8080/9M2Bl5YikQ/8zly90qQUM/26992
-#EXTINF:-1,USA:  DISNEY CHANNEL WEST
-http://appfactory.group:8080/9M2Bl5YikQ/8zly90qQUM/26993
-#EXTINF:-1,USA:  DISNEY JR EAST
-http://appfactory.group:8080/9M2Bl5YikQ/8zly90qQUM/26994
-#EXTINF:-1,USA:  GSN
-http://appfactory.group:8080/9M2Bl5YikQ/8zly90qQUM/27000
-#EXTINF:-1,USA:  MTV2
-http://appfactory.group:8080/9M2Bl5YikQ/8zly90qQUM/27006
 #EXTINF:-1,USA:  MTV U
 http://appfactory.group:8080/9M2Bl5YikQ/8zly90qQUM/27007
 #EXTINF:-1,USA:  NAT GEO WILD
 http://appfactory.group:8080/9M2Bl5YikQ/8zly90qQUM/27008
-#EXTINF:-1,USA:  NATIONAL GEOGRAPHIC EAST
-http://appfactory.group:8080/9M2Bl5YikQ/8zly90qQUM/27009
 #EXTINF:-1,USA:  NATIONAL GEOGRAPHIC WEST
 http://appfactory.group:8080/9M2Bl5YikQ/8zly90qQUM/27010
 #EXTINF:-1,USA:  NICK JR EAST
@@ -371,24 +320,10 @@ http://appfactory.group:8080/9M2Bl5YikQ/8zly90qQUM/27013
 http://appfactory.group:8080/9M2Bl5YikQ/8zly90qQUM/27014
 #EXTINF:-1,USA:  NICKELODEON WEST
 http://appfactory.group:8080/9M2Bl5YikQ/8zly90qQUM/27015
-#EXTINF:-1,USA:  NICK MUSIC
-http://appfactory.group:8080/9M2Bl5YikQ/8zly90qQUM/27016
-#EXTINF:-1,USA:  NICKTOONS
-http://appfactory.group:8080/9M2Bl5YikQ/8zly90qQUM/27017
-#EXTINF:-1,USA:  POP
-http://appfactory.group:8080/9M2Bl5YikQ/8zly90qQUM/27027
-#EXTINF:-1,USA:  SYFY EAST
-http://appfactory.group:8080/9M2Bl5YikQ/8zly90qQUM/27035
 #EXTINF:-1,USA:  SYFY WEST
 http://appfactory.group:8080/9M2Bl5YikQ/8zly90qQUM/27036
 #EXTINF:-1,USA:  TBS EAST
 http://appfactory.group:8080/9M2Bl5YikQ/8zly90qQUM/27038
-#EXTINF:-1,USA:  TBS WEST
-http://appfactory.group:8080/9M2Bl5YikQ/8zly90qQUM/27039
-#EXTINF:-1,USA:  TEEN NICK
-http://appfactory.group:8080/9M2Bl5YikQ/8zly90qQUM/27041
-#EXTINF:-1,USA: TSN 1
-http://appfactory.group:8080/9M2Bl5YikQ/8zly90qQUM/27062
 #EXTINF:-1,USA: TSN 2
 http://appfactory.group:8080/9M2Bl5YikQ/8zly90qQUM/27063
 #EXTINF:-1,USA: TSN 3
@@ -397,8 +332,6 @@ http://appfactory.group:8080/9M2Bl5YikQ/8zly90qQUM/27064
 http://appfactory.group:8080/9M2Bl5YikQ/8zly90qQUM/27065
 #EXTINF:-1,USA:  ESPN
 http://appfactory.group:8080/9M2Bl5YikQ/8zly90qQUM/27087
-#EXTINF:-1,USA:  ESPN 2
-http://appfactory.group:8080/9M2Bl5YikQ/8zly90qQUM/27088
 #EXTINF:-1,USA:  ESPN DEPORTES
 http://appfactory.group:8080/9M2Bl5YikQ/8zly90qQUM/27089
 #EXTINF:-1,USA:  ESPN U
@@ -417,36 +350,11 @@ http://appfactory.group:8080/9M2Bl5YikQ/8zly90qQUM/27095
 http://appfactory.group:8080/9M2Bl5YikQ/8zly90qQUM/27096
 #EXTINF:-1,USA:  ESPN News HD
 http://appfactory.group:8080/9M2Bl5YikQ/8zly90qQUM/27099
-#EXTINF:-1,USA: NBA LP 1
-http://appfactory.group:8080/9M2Bl5YikQ/8zly90qQUM/27105
-#EXTINF:-1,USA: NBA LP 2
-http://appfactory.group:8080/9M2Bl5YikQ/8zly90qQUM/27106
-#EXTINF:-1,USA: NBA LP 3
-http://appfactory.group:8080/9M2Bl5YikQ/8zly90qQUM/27107
-#EXTINF:-1,USA: NBA LP 4
-http://appfactory.group:8080/9M2Bl5YikQ/8zly90qQUM/27108
 #EXTINF:-1,UK: Disney Junior
 http://appfactory.group:8080/9M2Bl5YikQ/8zly90qQUM/1166
-#EXTINF:-1,UK: Disney Channel
-http://appfactory.group:8080/9M2Bl5YikQ/8zly90qQUM/1165
 #EXTINF:-1,UK: Disney XD
 http://appfactory.group:8080/9M2Bl5YikQ/8zly90qQUM/1164
 #EXTINF:-1,UK: Nick FHD
 http://appfactory.group:8080/9M2Bl5YikQ/8zly90qQUM/1162
 #EXTINF:-1,UK: Cartoon Network FHD
 http://appfactory.group:8080/9M2Bl5YikQ/8zly90qQUM/1161
-#EXTINF:-1,UK: Cartoon Network
-http://appfactory.group:8080/9M2Bl5YikQ/8zly90qQUM/1155
-#EXTINF:-1,CA: ADULT SWIM | HD
-http://appfactory.group:8080/9M2Bl5YikQ/8zly90qQUM/6450
-#EXTINF:-1,CA: Discovery Channel | HD
-http://appfactory.group:8080/9M2Bl5YikQ/8zly90qQUM/6518
-#EXTINF:-1,CA: DISCOVERY SCIENCE | SD
-http://appfactory.group:8080/9M2Bl5YikQ/8zly90qQUM/6519
-#EXTINF:-1,CA: SPORTSNET 360 | HD
-http://appfactory.group:8080/9M2Bl5YikQ/8zly90qQUM/6593
-#EXTINF:-1,CA: SPORTSNET EAST | HD
-http://appfactory.group:8080/9M2Bl5YikQ/8zly90qQUM/6594
-#EXTINF:-1,CA: SPORTSNET ONE | HD
-http://appfactory.group:8080/9M2Bl5YikQ/8zly90qQUM/6595
-
