@@ -20,8 +20,8 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/56283c876
 http://cdnmg.secure.live.rtr-vesti.ru/hls/russia_24/playlist_2.m3u8
 #EXTINF:-1,Da Nang TV1 (1080p) [Not 24/7]
 http://drtdnglive.e49a7c38.cdnviet.com/livedrt1/chunklist.m3u8
-#EXTINF:-1,MX: Canal 5 FHD
-http://smartmedia.watch:2086/James2/James2/195691
+#EXTINF:-1,Canal 5 HD MX
+http://iptvworld.xyz:2095/hXZp0zPK/djDM7bPC/19189
 #EXTINF:-1,Cà Mau TV (720p)
 http://tv.ctvcamau.vn/live/tv/tv.m3u8
 #EXTINF:-1,Telemax
@@ -275,7 +275,7 @@ http://xtream-ui03.feel-tv.com:25461/Vwelsbfa/widnv39573sldba/460
 #EXTINF:-1,VIP USA: Discovery Science HD (call)
 http://xtream-ui03.feel-tv.com:25461/Vwelsbfa/widnv39573sldba/469
 #EXTINF:-1,USA: History HD (call)
-http://xtream-ui03.feel-tv.com:25461/Vwelsbfa/widnv39573sldba/476
+http://iptvworld.xyz:2095/hXZp0zPK/djDM7bPC/16767
 #EXTINF:-1,USA: NBC
 http://xtream-ui03.feel-tv.com:25461/Vwelsbfa/widnv39573sldba/512
 #EXTINF:-1,USA: HBO HD
@@ -286,32 +286,34 @@ http://xtream-ui03.feel-tv.com:25461/Vwelsbfa/widnv39573sldba/514
 http://xtream-ui03.feel-tv.com:25461/Vwelsbfa/widnv39573sldba/521
 #EXTINF:-1,USA: Usa (call)
 http://xtream-ui03.feel-tv.com:25461/Vwelsbfa/widnv39573sldba/526
-#EXTINF:-1,US: NICKELODEON EAST
-http://smartmedia.watch:2086/James2/James2/64473
-#EXTINF:-1,US: NICKTOONS
-http://smartmedia.watch:2086/James2/James2/64475
-#EXTINF:-1,US: PBS KIDS
-http://smartmedia.watch:2086/James2/James2/64483
-#EXTINF:-1,US: UNIVERSAL KIDS
-http://smartmedia.watch:2086/James2/James2/64508
-#EXTINF:-1,USA: ESPN
-http://smartmedia.watch:2086/James2/James2/64331
-#EXTINF:-1,USA: ESPN 2
-http://smartmedia.watch:2086/James2/James2/64332
-#EXTINF:-1,US: POP
-http://smartmedia.watch:2086/James2/James2/50709
-#EXTINF:-1,US: Sony Movies
-http://smartmedia.watch:2086/James2/James2/50723
-#EXTINF:-1,US: Starz Encore Black
-http://smartmedia.watch:2086/James2/James2/50731
-#EXTINF:-1,USA: WWE
-http://smartmedia.watch:2086/James2/James2/61075
-#EXTINF:-1,US: WWE NETWORK
-http://smartmedia.watch:2086/James2/James2/61080
-#EXTINF:-1,US: WWE FHD
-http://smartmedia.watch:2086/James2/James2/61077
-#EXTINF:-1,US UFC
-http://smartmedia.watch:2086/James2/James2/61074
+#EXTINF:-1,Universal Kids HD US
+http://iptvworld.xyz:2095/hXZp0zPK/djDM7bPC/23661
+#EXTINF:-1,Cartoon Network FHD US
+http://iptvworld.xyz:2095/hXZp0zPK/djDM7bPC/10878
+#EXTINF:-1,Disney Channel FHD US
+http://iptvworld.xyz:2095/hXZp0zPK/djDM7bPC/16709
+#EXTINF:-1,Disney Junior HD US
+http://iptvworld.xyz:2095/hXZp0zPK/djDM7bPC/16770
+#EXTINF:-1,Disney XD FHD US
+http://iptvworld.xyz:2095/hXZp0zPK/djDM7bPC/10925
+#EXTINF:-1,Nickelodeon HD US
+http://iptvworld.xyz:2095/hXZp0zPK/djDM7bPC/27892
+#EXTINF:-1,Nick JR HD US
+http://iptvworld.xyz:2095/hXZp0zPK/djDM7bPC/10927
+#EXTINF:-1,MTV Rocks US
+http://iptvworld.xyz:2095/hXZp0zPK/djDM7bPC/11908
+#EXTINF:-1,National Geographic HD US
+http://iptvworld.xyz:2095/hXZp0zPK/djDM7bPC/24795
+#EXTINF:-1,National Geographic Wild HD US
+http://iptvworld.xyz:2095/hXZp0zPK/djDM7bPC/25364
+#EXTINF:-1,E! HD US
+http://iptvworld.xyz:2095/hXZp0zPK/djDM7bPC/8257
+#EXTINF:-1,A&E FHD US
+http://iptvworld.xyz:2095/hXZp0zPK/djDM7bPC/8264
+#EXTINF:-1,CMT HD US
+http://iptvworld.xyz:2095/hXZp0zPK/djDM7bPC/16852
+#EXTINF:-1,Comedy Central HD US
+http://iptvworld.xyz:2095/hXZp0zPK/djDM7bPC/17304
 #EXTINF:-1,UK: ------------UK----------------------
 https://Wala.net/live/titemalaki3213.m3u8
 #EXTINF:-1,Boomerang
@@ -322,41 +324,39 @@ http://mytv.fun:8080/GiavanniBalboa/inpyqlwt0s/683858
 http://mytv.fun:8080/GiavanniBalboa/inpyqlwt0s/683859
 #EXTINF:-1,BT Sport 1 UK
 http://mytv.fun:8080/GiavanniBalboa/inpyqlwt0s/683860
-#EXTINF:-1,Sky Cinema Disney HD UK
-http://xtream-ui03.feel-tv.com:25461/Vwelsbfa/widnv39573sldba/511
-#EXTINF:-1,UK: BABY TV
-http://xtream-ui03.feel-tv.com:25461/Vwelsbfa/widnv39573sldba/531
-#EXTINF:-1,UK: NICKELODEON
-http://xtream-ui03.feel-tv.com:25461/Vwelsbfa/widnv39573sldba/661
-#EXTINF:-1,UK: Premier Sports
-http://xtream-ui03.feel-tv.com:25461/Vwelsbfa/widnv39573sldba/722
-#EXTINF:-1,UK: CARTOON NETWORK
-http://xtream-ui03.feel-tv.com:25461/Vwelsbfa/widnv39573sldba/534
-#EXTINF:-1,UK: Disney Channel HD
-http://smartmedia.watch:2086/James2/James2/30868
-#EXTINF:-1,UK: Disney Junior
-http://smartmedia.watch:2086/James2/James2/44701
-#EXTINF:-1,UK: Disney XD HD
-http://smartmedia.watch:2086/James2/James2/30872
-#EXTINF:-1,UK: DMAX
-http://smartmedia.watch:2086/James2/James2/44699
-#EXTINF:-1,UK: Nick Jr Too HD
-http://smartmedia.watch:2086/James2/James2/44676
-#EXTINF:-1,UK: Nicktoons
-http://smartmedia.watch:2086/James2/James2/30882
-#EXTINF:-1,UK: BBC 1 HD
-http://smartmedia.watch:2086/James2/James2/61017
-#EXTINF:-1,Uk: BBC Four
-http://smartmedia.watch:2086/James2/James2/61035
-#EXTINF:-1,UK | VICELAND
-http://smartmedia.watch:2086/James2/James2/31347
-#EXTINF:-1,UK-NEW: COMEDY CENTRAL
-http://smartmedia.watch:2086/James2/James2/44703
-#EXTINF:-1,UK-NEW: SYFY
-http://smartmedia.watch:2086/James2/James2/44625
-#EXTINF:-1,UK: AMC | HD
-http://smartmedia.watch:2086/James2/James2/31385
-#EXTINF:-1,UK: Comedy Central
-http://smartmedia.watch:2086/James2/James2/31153
-#EXTINF:-1,UK: Fox HD
-http://smartmedia.watch:2086/James2/James2/31169
+#EXTINF:-1,BT Sports 1 UK
+http://iptvworld.xyz:2095/hXZp0zPK/djDM7bPC/128229
+#EXTINF:-1,BT Sports 1 HD UK
+http://iptvworld.xyz:2095/hXZp0zPK/djDM7bPC/9851
+#EXTINF:-1,BT Sports 2 UK
+http://iptvworld.xyz:2095/hXZp0zPK/djDM7bPC/128230
+#EXTINF:-1,BT Sports 2 HD UK
+http://iptvworld.xyz:2095/hXZp0zPK/djDM7bPC/9849
+#EXTINF:-1,BT Sports 3 UK
+http://iptvworld.xyz:2095/hXZp0zPK/djDM7bPC/128231
+#EXTINF:-1,BT Sports 3 HD UK
+http://iptvworld.xyz:2095/hXZp0zPK/djDM7bPC/9847
+#EXTINF:-1,BT Sport Box Office HD UK
+http://iptvworld.xyz:2095/hXZp0zPK/djDM7bPC/140398
+#EXTINF:-1,Cartoon Network HD UK
+http://iptvworld.xyz:2095/hXZp0zPK/djDM7bPC/20941
+#EXTINF:-1,Cartoonito UK
+http://iptvworld.xyz:2095/hXZp0zPK/djDM7bPC/20940
+#EXTINF:-1,Discovery Channel HD UK
+http://iptvworld.xyz:2095/hXZp0zPK/djDM7bPC/117798
+#EXTINF:-1,Discovery History UK
+http://iptvworld.xyz:2095/hXZp0zPK/djDM7bPC/11370
+#EXTINF:-1,E4 +1 UK
+http://iptvworld.xyz:2095/hXZp0zPK/djDM7bPC/87274
+#EXTINF:-1,National Geographic HD UK
+http://iptvworld.xyz:2095/hXZp0zPK/djDM7bPC/117750
+#EXTINF:-1,Nick HD UK
+http://iptvworld.xyz:2095/hXZp0zPK/djDM7bPC/39798
+#EXTINF:-1,Nick Jr. HD UK
+http://iptvworld.xyz:2095/hXZp0zPK/djDM7bPC/26659
+#EXTINF:-1,Nick Jr Too UK
+http://iptvworld.xyz:2095/hXZp0zPK/djDM7bPC/26586
+#EXTINF:-1,Paramount Network HD UK
+http://iptvworld.xyz:2095/hXZp0zPK/djDM7bPC/39797
+
+
