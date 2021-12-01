@@ -7,7 +7,7 @@ http://adultswim-vodlive.cdn.turner.com/live/eric-andre/stream.m3u8
 https://adultswim-vodlive.cdn.turner.com/live/samurai-jack/stream.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Adult Swim Rick and Morty (1080p) [Geo-blocked]" tvg-logo="" group-title="(no group)",Adult Swim Rick and Morty (1080p) [Geo-blocked]
 https://adultswim-vodlive.cdn.turner.com/live/rick-and-morty/stream.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TNT 4" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e5/TNT_%282001%29.svg/revision/latest/scale-to-width-down/200?cb=20180731162135" group-title="(no group)",TNT 4
+#EXTINF:-1 tvg-id="TNT.us" tvg-name="TNT 4" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e5/TNT_%282001%29.svg/revision/latest/scale-to-width-down/200?cb=20180731162135" group-title="(no group)",TNT 4
 https://16live00.akamaized.net/TNT/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="WWE Network 2" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-states/wwe-us.png" group-title="(no group)",WWE Network 2
 http://loginto.live:80/9E2GucVqA/qorMDQjpwg/4289
@@ -47,7 +47,7 @@ https://list.iptvcat.com/my_list/s/7f26867854b778aaff78e2839400c8e8.m3u8
 https://livestreamdirect-edgetv.mediaworks.nz/edgetv.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NICKTOONS" tvg-logo="" group-title="(no group)",NICKTOONS
 https://list.iptvcat.com/my_list/s/43d1b59e127554cd34bea4bb7b7f093b.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DISNEY CHANNEL" tvg-logo="" group-title="(no group)",DISNEY CHANNEL
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DISNEY CHANNEL" tvg-logo="https://raw.githubusercontent.com/soymaiku/tv-logos/master/countries/united-states/disney-channel-us.png" group-title="(no group)",DISNEY CHANNEL
 https://list.iptvcat.com/my_list/s/f451b940bc8359678ec8c1fc2233f984.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DISNEY JUNIOR" tvg-logo="" group-title="(no group)",DISNEY JUNIOR
 https://list.iptvcat.com/my_list/s/a5de489f97052d36278b7cec03fff7d5.m3u8
@@ -337,9 +337,9 @@ http://appfactory.group:8080/9M2Bl5YikQ/8zly90qQUM/26990
 http://appfactory.group:8080/9M2Bl5YikQ/8zly90qQUM/26991
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="USA:  DISCOVERY LIFE" tvg-logo="" group-title="(no group)",USA:  DISCOVERY LIFE
 http://appfactory.group:8080/9M2Bl5YikQ/8zly90qQUM/26992
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="USA:  DISNEY CHANNEL WEST" tvg-logo="" group-title="(no group)",USA:  DISNEY CHANNEL WEST
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="USA:  DISNEY CHANNEL WEST" tvg-logo="https://raw.githubusercontent.com/soymaiku/tv-logos/master/countries/united-states/disney-channel-us.png" group-title="(no group)",USA:  DISNEY CHANNEL WEST
 http://appfactory.group:8080/9M2Bl5YikQ/8zly90qQUM/26993
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="USA:  DISNEY JR EAST" tvg-logo="" group-title="(no group)",USA:  DISNEY JR EAST
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="USA:  DISNEY JR EAST" tvg-logo="https://raw.githubusercontent.com/soymaiku/tv-logos/master/countries/united-states/disney-junior-us.png" group-title="(no group)",USA:  DISNEY JR EAST
 http://appfactory.group:8080/9M2Bl5YikQ/8zly90qQUM/26994
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="USA:  GSN" tvg-logo="" group-title="(no group)",USA:  GSN
 http://appfactory.group:8080/9M2Bl5YikQ/8zly90qQUM/27000
@@ -363,7 +363,7 @@ http://appfactory.group:8080/9M2Bl5YikQ/8zly90qQUM/27015
 http://appfactory.group:8080/9M2Bl5YikQ/8zly90qQUM/27016
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="USA:  NICKTOONS" tvg-logo="" group-title="(no group)",USA:  NICKTOONS
 http://appfactory.group:8080/9M2Bl5YikQ/8zly90qQUM/27017
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="USA:  POP" tvg-logo="" group-title="(no group)",USA:  POP
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="USA:  POP" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/82/Pop_Network_Logo.png" group-title="(no group)",USA:  POP
 http://appfactory.group:8080/9M2Bl5YikQ/8zly90qQUM/27027
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="USA:  SYFY EAST" tvg-logo="" group-title="(no group)",USA:  SYFY EAST
 http://appfactory.group:8080/9M2Bl5YikQ/8zly90qQUM/27035
@@ -413,29 +413,29 @@ http://appfactory.group:8080/9M2Bl5YikQ/8zly90qQUM/27106
 http://appfactory.group:8080/9M2Bl5YikQ/8zly90qQUM/27107
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="USA: NBA LP 4" tvg-logo="" group-title="(no group)",USA: NBA LP 4
 http://appfactory.group:8080/9M2Bl5YikQ/8zly90qQUM/27108
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="UK: Disney Junior" tvg-logo="" group-title="(no group)",UK: Disney Junior
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="UK: Disney Junior" tvg-logo="https://raw.githubusercontent.com/soymaiku/tv-logos/master/countries/united-states/disney-junior-us.png" group-title="(no group)",UK: Disney Junior
 http://appfactory.group:8080/9M2Bl5YikQ/8zly90qQUM/1166
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="UK: Disney Channel" tvg-logo="" group-title="(no group)",UK: Disney Channel
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="UK: Disney Channel" tvg-logo="https://raw.githubusercontent.com/soymaiku/tv-logos/master/countries/united-states/disney-channel-us.png" group-title="(no group)",UK: Disney Channel
 http://appfactory.group:8080/9M2Bl5YikQ/8zly90qQUM/1165
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="UK: Disney XD" tvg-logo="" group-title="(no group)",UK: Disney XD
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="UK: Disney XD" tvg-logo="https://raw.githubusercontent.com/soymaiku/tv-logos/master/countries/united-states/disney-xd-us.png" group-title="(no group)",UK: Disney XD
 http://appfactory.group:8080/9M2Bl5YikQ/8zly90qQUM/1164
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="UK: Nick FHD" tvg-logo="" group-title="(no group)",UK: Nick FHD
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="UK: Nick FHD" tvg-logo="https://raw.githubusercontent.com/soymaiku/tv-logos/master/countries/united-states/nick-us.png" group-title="(no group)",UK: Nick FHD
 http://appfactory.group:8080/9M2Bl5YikQ/8zly90qQUM/1162
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="UK: Cartoon Network FHD" tvg-logo="" group-title="(no group)",UK: Cartoon Network FHD
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="UK: Cartoon Network FHD" tvg-logo="https://raw.githubusercontent.com/soymaiku/tv-logos/master/countries/united-states/cartoon-network-us.png" group-title="(no group)",UK: Cartoon Network FHD
 http://appfactory.group:8080/9M2Bl5YikQ/8zly90qQUM/1161
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="UK: Cartoon Network" tvg-logo="" group-title="(no group)",UK: Cartoon Network
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="UK: Cartoon Network" tvg-logo="https://raw.githubusercontent.com/soymaiku/tv-logos/master/countries/united-states/cartoon-network-us.png" group-title="(no group)",UK: Cartoon Network
 http://appfactory.group:8080/9M2Bl5YikQ/8zly90qQUM/1155
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CA: ADULT SWIM | HD" tvg-logo="" group-title="(no group)",CA: ADULT SWIM | HD
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CA: ADULT SWIM | HD" tvg-logo="https://raw.githubusercontent.com/soymaiku/tv-logos/master/countries/united-states/adult-swim-us.png" group-title="(no group)",CA: ADULT SWIM | HD
 http://appfactory.group:8080/9M2Bl5YikQ/8zly90qQUM/6450
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CA: Discovery Channel | HD" tvg-logo="" group-title="(no group)",CA: Discovery Channel | HD
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CA: Discovery Channel | HD" tvg-logo="https://raw.githubusercontent.com/soymaiku/tv-logos/master/countries/united-states/discovery-channel-icon-us.png" group-title="(no group)",CA: Discovery Channel | HD
 http://appfactory.group:8080/9M2Bl5YikQ/8zly90qQUM/6518
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CA: DISCOVERY SCIENCE | SD" tvg-logo="" group-title="(no group)",CA: DISCOVERY SCIENCE | SD
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CA: DISCOVERY SCIENCE | SD" tvg-logo="https://raw.githubusercontent.com/soymaiku/tv-logos/master/countries/united-states/discovery-science-icon-us.png" group-title="(no group)",CA: DISCOVERY SCIENCE | SD
 http://appfactory.group:8080/9M2Bl5YikQ/8zly90qQUM/6519
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CA: SPORTSNET 360 | HD" tvg-logo="" group-title="(no group)",CA: SPORTSNET 360 | HD
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CA: SPORTSNET 360 | HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Logo_Sportsnet_2011.svg/1280px-Logo_Sportsnet_2011.svg.png" group-title="(no group)",CA: SPORTSNET 360 | HD
 http://appfactory.group:8080/9M2Bl5YikQ/8zly90qQUM/6593
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CA: SPORTSNET EAST | HD" tvg-logo="" group-title="(no group)",CA: SPORTSNET EAST | HD
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CA: SPORTSNET EAST | HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Logo_Sportsnet_2011.svg/1280px-Logo_Sportsnet_2011.svg.png" group-title="(no group)",CA: SPORTSNET EAST | HD
 http://appfactory.group:8080/9M2Bl5YikQ/8zly90qQUM/6594
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CA: SPORTSNET ONE | HD" tvg-logo="" group-title="(no group)",CA: SPORTSNET ONE | HD
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CA: SPORTSNET ONE | HD" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/sportsnetone.png" group-title="(no group)",CA: SPORTSNET ONE | HD
 http://appfactory.group:8080/9M2Bl5YikQ/8zly90qQUM/6595
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Telemax" tvg-logo="https://i.imgur.com/bjGgLrA.jpg" group-title="Undefined",Telemax
 http://s5.mexside.net:1935/telemax/telemax/.m3u8?checkedby:iptvcat.com
