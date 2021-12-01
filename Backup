@@ -15,10 +15,6 @@ http://loginto.live:80/9E2GucVqA/qorMDQjpwg/4289
 https://aka-amd-njpwworld-hls-enlive.akamaized.net/hls/video/njpw_en/njpw_en_channel01_3/chunklist_DVR.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TNT" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e5/TNT_%282001%29.svg/revision/latest/scale-to-width-down/200?cb=20180731162135" group-title="(no group)",TNT
 http://primestreams.tv:826/hommydriver/Qo1gnR9Nku/109218
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="USA NETWORK 1" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-states/usa-us.png" group-title="(no group)",USA NETWORK 1
-https://list.iptvcat.com/my_list/s/a8d12fc15c923b2b11863a8f0d6d24da.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="USA Network 2" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-states/usa-us.png" group-title="(no group)",USA Network 2
-https://list.iptvcat.com/my_list/s/a33fc209753a6f1f95a71c4eb1af13a2.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Comedy Central" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-states/comedy-central-icon-us.png" group-title="(no group)",Comedy Central
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ca671f215a62078d2ec0abf/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=465&deviceId=5ca671f215a62078d2ec0abf&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Канал Disney (576p)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Disney_Channel_Russia.png/200px-Disney_Channel_Russia.png" group-title="(no group)",Канал Disney (576p)
@@ -45,14 +41,6 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5616f9c0ada51f8004
 https://list.iptvcat.com/my_list/s/7f26867854b778aaff78e2839400c8e8.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Edge TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a0/The_Edge_%28radio_station%29_logo.png/220px-The_Edge_%28radio_station%29_logo.png" group-title="(no group)",Edge TV
 https://livestreamdirect-edgetv.mediaworks.nz/edgetv.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NICKTOONS" tvg-logo="" group-title="(no group)",NICKTOONS
-https://list.iptvcat.com/my_list/s/43d1b59e127554cd34bea4bb7b7f093b.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DISNEY CHANNEL" tvg-logo="https://raw.githubusercontent.com/soymaiku/tv-logos/master/countries/united-states/disney-channel-us.png" group-title="(no group)",DISNEY CHANNEL
-https://list.iptvcat.com/my_list/s/f451b940bc8359678ec8c1fc2233f984.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DISNEY JUNIOR" tvg-logo="" group-title="(no group)",DISNEY JUNIOR
-https://list.iptvcat.com/my_list/s/a5de489f97052d36278b7cec03fff7d5.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DISNEY XD" tvg-logo="" group-title="(no group)",DISNEY XD
-https://list.iptvcat.com/my_list/s/d3d36a6ab1c27b3945416b36106fd07b.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="LEGO CHANNEL" tvg-logo="" group-title="(no group)",LEGO CHANNEL
 https://legochannel-roku.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SMITHSONIAN CHANNEL (SEA)" tvg-logo="" group-title="(no group)",SMITHSONIAN CHANNEL (SEA)
