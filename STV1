@@ -20,8 +20,10 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/56283c876
 http://188.40.68.167/russia/disney/playlist.m3u8
 #EXTINF:-1,Россия 24
 http://cdnmg.secure.live.rtr-vesti.ru/hls/russia_24/playlist_2.m3u8
+#EXTINF:-1,Sexy Kpop Tv
+https://srv1.zcast.com.br/kpoptv/kpoptv/playlist.m3u8
 #EXTINF:-1,VN/MX: ------------VN/MX----------------------
-https://manggi.net/live/titemalaki3213.m3u8
+https://a.jsrdn.com/broadcast/e9b4093a41/+0000/c.m3u8
 #EXTINF:-1,Da Nang TV1 (1080p) [Not 24/7]
 http://drtdnglive.e49a7c38.cdnviet.com/livedrt1/chunklist.m3u8
 #EXTINF:-1,Da Nang TV2 (1080p) [Not 24/7]
