@@ -29,7 +29,7 @@ http://drtdnglive.e49a7c38.cdnviet.com/livedrt1/chunklist.m3u8
 #EXTINF:-1,Da Nang TV2 (1080p) [Not 24/7]
 http://drtdnglive.e49a7c38.cdnviet.com/livestream/chunklist.m3u8
 #EXTINF:-1,Canal 5 HD MX
-http://iptvworld.xyz:2095/hXZp0zPK/djDM7bPC/19189
+http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbLkLjLW3EuNib8QGzvdkjEKIjj6C2XynqlYJlFVjcS0y/ts
 #EXTINF:-1,Cà Mau TV (720p)
 http://tv.ctvcamau.vn/live/tv/tv.m3u8
 #EXTINF:-1,Telemax
@@ -46,6 +46,36 @@ http://113.163.216.23:1935/live/tv2.stream_480p/playlist.m3u8
 http://113.163.94.245/hls-live/livepkgr/_definst_/liveevent/thbt.m3u8
 #EXTINF:-1,HBTV (406p) [Not 24/7]
 http://hoabinhtvlive.746b3ddb.cdnviet.com/hoabinhtv/playlist.m3u8
+#EXTINF:-1,------------Asia----------------------
+#EXTINF:-1,HBO Hits FHD
+http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbDhuTTc1HNV5TXcWWzVEIjQeMoRgs4Ca0ePi1geC0eDf/ts
+#EXTINF:-1,HBO Family FHD
+http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbDhuTTc1HNV5TXcWWzVEIjQVzk1YVtkRgA7ztWHkKx_b/ts
+#EXTINF:-1,HBO FHD
+http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbBw0vWPCMXMtu-jP9qctHSsbx0i0EB4yktoAR5dDU5d2/ts
+#EXTINF:-1,HBO Signature FHD
+http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbBw0vWPCMXMtu-jP9qctHSvqiUQeAds_tsWA2utIliLI/ts
+#EXTINF:-1,History
+http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbBw0vWPCMXMtu-jP9qctHSvlNwCu-d9vZnTjciTzOL3T/ts
+#EXTINF:-1,Nick Jr ID
+http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbBw0vWPCMXMtu-jP9qctHSsZPqLaadWttjxTyCwjmH-1/ts
+#EXTINF:-1,Paramount Network
+http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbBw0vWPCMXMtu-jP9qctHSu-Vcd8MwkTMm0uXBZdf46B/ts
+https://mandss.net/live/titemalaki3213.m3u8
+#EXTINF:-1,MEWATCH: CHANNEL 5
+http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbLtm911_YRmP-0mNdmmL-hviI16KWX4kl56A5DEu4fLt/ts
+#EXTINF:-1,AXN
+http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbDjQtBAERPFfZOCXiIg35GfWvbkPKwJGNVoO-ISMAW-R/ts
+#EXTINF:-1,Animal Planet
+http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbDhuTTc1HNV5TXcWWzVEIjRpnfnYCVtcj3Oyipv2Is3s/ts
+#EXTINF:-1,Cartoon Network
+http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbGUpRBUWt0F35P8qVFqNA_cEkWvxIVosPti_L3fA1IEf/ts
+#EXTINF:-1,NHK World Premium
+http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbGUpRBUWt0F35P8qVFqNA_fLHTCD8VGkMkFxZSU4vAA8/ts
+#EXTINF:-1,National Geographic
+http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbDhuTTc1HNV5TXcWWzVEIjTxot4DQryBIkpxVSzl4evD/ts
+#EXTINF:-1,Nat Geo Wild
+http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbDhuTTc1HNV5TXcWWzVEIjSQwtjbv2ADLItLRBHLne0n/ts
 #EXTINF:-1,Others: ------------Others----------------------
 https://mangds.net/live/titemalaki3213.m3u8
 #EXTINF:-1,World Poker Tour (720p)
@@ -190,8 +220,36 @@ https://outdoorchannel-samsungau.amagi.tv/playlist.m3u8
 http://1111296894.rsc.cdn77.org/LS-ATL-54548-10/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Indonesia Channel
 http://wowzaprod236-i.akamaihd.net/hls/live/1019903/7dd4cf51/playlist.m3u8
+#EXTINF:-1,Motorvision
+https://dai2-xumo.fubo.tv/amagi_hls_data_xumo1212A-motorvisiontv/CDN/master.m3u8
+#EXTINF:-1,Gaming TV
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f8eccd81062c300078a11df/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 #EXTINF:-1,US: ------------US----------------------
 https://Wala.net/live/titemalaki.m3u8
+#EXTINF:-1,VIP NBA TV
+http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbJHKNY0uer1AwxyeIFQ3sL_3jvHrSRZuwMcxIkuxX_Wf/ts
+#EXTINF:-1,VIP UFC USA
+http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbJhXIXk3mMv-HViyOaV7m-6SWBGnMrxE9IXhNANuaIsO/ts
+#EXTINF:-1,VIP TSN 1
+http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbEOEOGZEs2NXIuq4N6J43ffHKGw8hsegE-3x-Yd4YMUw/ts
+#EXTINF:-1,VIP TSN 4
+http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbBgNqrRj-bcyVsQu5DzC9c6TD4qvsyQX6qxmcg4_ejYJ/ts
+#EXTINF:-1,VIP TSN 5
+http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbOh_zRSF2a35Zdylsdqo5JoWj91Coa0Rl9KJ1y73mesi/ts
+#EXTINF:-1,VIP ESPN
+http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbMvo_gKWmZBbSOKGABxNyGFftKS9vB1jAhpAQQnd16v-/ts
+#EXTINF:-1,VIP ESPN 2
+http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbMjIueQEmP9irl6w7L9CIdr4oXWPV4aTYo2GGuc8qZNx/ts
+#EXTINF:-1,VIP ESPN U
+http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbJT9_ndMP8DdMBP5eqQOZq-3zDl5fWGuhujpkLu2kG2B/ts
+#EXTINF:-1,VIP Sportsnet 360
+http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbDSDhjCpXLSeq4VZ5UPc99tgwCPf8akFY7XusekOhots/ts
+#EXTINF:-1,VIP Sportsnet One
+http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbE45BispoT1RCfJqQP3VWTPJxmCO-S7PTuJhrGJGv72w/ts
+#EXTINF:-1,VIP SportsNet West
+http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbBe9GAfgyWN6zHg9nT1RsvMD3OwVqiz59VrSKHekNlUL/ts
+#EXTINF:-1,VIP SportsNet East
+http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbAGi1Y_RMOLNoz-DRmt76L83GsfZv7keQFZwr-TfWPbF/ts
 #EXTINF:-1,TNT
 http://primestreams.tv:826/hommydriver/Qo1gnR9Nku/109218
 #EXTINF:-1,USA NETWORK 1
@@ -252,10 +310,8 @@ http://hlslive-akc-med1.media.mlb.com/ls01/mlbnetwork/NETWORK_LINEAR_1/master_wi
 http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS07/master.m3u8
 #EXTINF:-1,MTV Biggest Pop
 http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS02/master.m3u8
-#EXTINF:-1,Motorvision
-https://dai2-xumo.fubo.tv/amagi_hls_data_xumo1212A-motorvisiontv/CDN/master.m3u8
-#EXTINF:-1,Gaming TV
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f8eccd81062c300078a11df/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
+#EXTINF:-1,Baby TV US
+http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbG_3IAVwPN69Ws0lU61iLqfpm43jFzxATIVf0xxB7AOy/ts
 #EXTINF:-1,24 Hour Free Movies (720p)
 https://d15690s323oesy.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/UDU-Plex/158.m3u8
 #EXTINF:-1,AMC Presents (1080p)
@@ -292,8 +348,86 @@ http://xtream-ui03.feel-tv.com:25461/Vwelsbfa/widnv39573sldba/514
 http://xtream-ui03.feel-tv.com:25461/Vwelsbfa/widnv39573sldba/521
 #EXTINF:-1,USA: Usa (call)
 http://xtream-ui03.feel-tv.com:25461/Vwelsbfa/widnv39573sldba/526
+#EXTINF:-1,FUSE
+http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbFvpNOhuaHCuDsKk6qprNMuJJcsgiRE8NfZZvdzWa6Jw/ts
+#EXTINF:-1,FXM
+http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbJ7rmMKENQ3q51gCoI1cgF3Fxahlg5lCoGQbPhd2AJuJ/ts
+#EXTINF:-1,FXX
+http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbDrKOydMJvZapBLr4FzsYliluHDGPQ2OtbDIGXCEv1jd/ts
+#EXTINF:-1,HBO 2
+http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbDiSuU2qvlN3xZVLwlMuEG6JKxLbhU9NNfg2mk6ttdA5/ts
+#EXTINF:-1,HBO Family
+http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbNdPhaeI0uInnLAY6D7lIglRNxIWRPphXFEbr1bBkVDp/ts
+#EXTINF:-1,HBO Signature
+http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbPdTziA7QdWJ3FwfcA7K6-_62PuHTzRPZklbtOMrntGL/ts
+#EXTINF:-1,HBO ZONE
+http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbOK2qRjF3h1Ywm93nXdkVa-sIdz5VVMWGog0ZwgCb9Gj/ts
+#EXTINF:-1,MTV
+http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbFQqThyLbhe8sEy0IxlkVBm1DQjqfYTb3Ot8uHRFO-s1/ts
+#EXTINF:-1,MTV 2
+http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbKiZuC2dzZOBiexkK5vQ-ljwoSg2tyO4CuU4qE1chsk5/ts
+#EXTINF:-1,NICKELODEON
+http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbFh8UsXmo5ud-_3JhdTzc-2ocq870o9MsioDmcQa6F3f/ts
+#EXTINF:-1,Philadelphia CW East UHD
+http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbBhVeZcmfklQ8G35HqpV4YByxD13hlm-SPJgQaQhqVey/ts
+#EXTINF:-1,Philadelphia CW57 WPSG
+http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbL7GSkGCXkPKOsvuqDPh6ZLHVWOyDPsj-tpSDjb8Mo-V/ts
+#EXTINF:-1,USA: Cartoon Network HD
+http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbF4jh3jWEt9NM937MAVwfoDNLU8b1cE34M2G2AjKNtlj/ts
+#EXTINF:-1,USA: COMEDY CENTRAL
+http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbB2cJAau3nYq0yYXmGQ-yroKJRgb-Cx85X5srsdd-rb6/ts
+#EXTINF:-1,Destination America HD
+http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbFrr7kpgSeHmDGLSfnLvNJPgFXu_toPtgShj-rggrVlM/ts
+#EXTINF:-1,USA: FX HD
+http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbPyZjz5U36LDgW8e3TXOQmDbWXBsOANkqeDA-plHZTh3/ts
+#EXTINF:-1,Reelz HD
+http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbGe8plAkjuVU_36UWJUnZKU0JItj87HtPrDneWLAKMEj/ts
+#EXTINF:-1,USA: SYFY HD
+http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbKjnN81mmA_NPeZqHc57QLx3z2E-IMxws3oGENIPcg6Y/ts
+#EXTINF:-1,USA: TBS
+http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbNS2b9ihf7qQmpp_t5DzFa5Bz7uHoIW48AEOdGZ4YyjD/ts
+#EXTINF:-1,VIP US: CARTOON NETWORK
+http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbHwMZJoUw4UHQnCFDznTIs7PxItZQoocn0-iM4u8IYs_/ts
+#EXTINF:-1,VIP US: COMEDY CENTRAL HD
+http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbOKiwRbQ5Hs1A-QQMQLqIrBR3mHxd9bYX2niq7UwH2Kq/ts
+#EXTINF:-1,VIP US: Comet
+http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbJQHzn7ExkNH2R0tWiXpE1aqcoE_wxbUwl35IX_9Q7-Q/ts
+#EXTINF:-1,VIP US: Destination America
+http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbPwYKssRx0nngb_tgohrHdmQjoWgYqUzkilHGF6xI-8J/ts
+#EXTINF:-1,VIP US: Discovery Channel
+http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbPlNidtgwzhe3AfTXuHX0mWGJ9wDjW-TTA5bYT1Zqtgz/ts
+#EXTINF:-1,VIP US: Discovery Family
+http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbOzzU_pMxmzex4gUl9YHKSP0GIiQ_Fy5XK-apkcCIFP6/ts
+#EXTINF:-1,VIP US: Discovery Life
+http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbDUiTbi5Fpm3sqL5TQ436jTLvFyIlv42ozQWRqjRxe5W/ts
+#EXTINF:-1,VIP US: Discovery Science HD
+http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbBMBWhnZHozUwXl41WJxMDBDESpLjbRVWWUzD-tWxYzC/ts
+#EXTINF:-1,VIP US: Disney Channel
+http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbGzcuGbHCcCPaaqnf3Ssz1bjidfm6G2kXsLuVPB7IkM3/ts
+#EXTINF:-1,VIP US: DISNEY JR HD
+http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbDL6hd_QuFCqxI9tO5qW9p3-Ai730MQFrl045NF03M65/ts
+#EXTINF:-1,VIP US: Disney Jr.
+http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbCkmmIIWxPKlbaSZSXNNbkBh0EvkxSmPBTUkRhfRhrMd/ts
+#EXTINF:-1,VIP US: Disney XD HD
+http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbCPaZmSn6DWXKSVUmXiMCdpBB__HgQEaVfll-bCUIrFb/ts
+#EXTINF:-1,VIP US: ESPN News US HD
+http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbP21lBJtczSWY7Uo8wX2e8dG2u4a7B5O9wuzXRgNGssB/ts
+#EXTINF:-1,VIP US: HISTORY HD
+http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbJP4w8TEPEJtWzkQh8mmWltQOb-zoncAm--SULSWPJMv/ts
+#EXTINF:-1,VIP US: Hunt Channel
+http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbOQZuNEcvoJwXvC8cLmywTfu_RdNidBZOoeg2QbNU0XE/ts
+#EXTINF:-1,VIP US: Nat Geo Wild
+http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbP-fn15hfvV0meQVJKoO8jSZfQHpJeEMPYZndn0meLJA/ts
 #EXTINF:-1,UK: ------------UK----------------------
 https://Wala.net/live/titemalaki3213.m3u8
+#EXTINF:-1,Nat Geo
+http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbM-eLMJYweVeC-632lXjn9lBrCCejelXHFELQt8LVEXr/ts
+#EXTINF:-1,Nick Jr
+http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbPD-3L_l2Eenag4tyuMX84TlkJBhuACRhBZqi5j6N86c/ts
+#EXTINF:-1,Nick Jr Too
+http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbC1fCSRvEUACv1BtRnEqbqPxmawEMutR2GV5uLKB83WY/ts
+#EXTINF:-1,UK: Nicktoons
+http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbNkG-1xh-5T4aoOq9kjEABO9uZMvo8nD5EaN7iRGgcDD/ts
 #EXTINF:-1,Boomerang
 http://185.226.88.6:1026/live/Wb8XNkyIJn/UkPn4unfnR/151.ts
 #EXTINF:-1,BT Sport 1 FHD UK
