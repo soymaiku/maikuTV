@@ -107,10 +107,6 @@ https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master
 http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
 #EXTINF:-1,Canal Macau (Opt-2)
 http://61.244.22.4/ch2/ch2.live/playelist.m3u8
-#EXTINF:-1,CBS TV
-http://cbs-live.gscdn.com/cbs-live/cbs-live.stream/hasbahca.m3u8
-#EXTINF:-1,BS Asahi (New!)
-http://203.162.235.41:16914
 #EXTINF:-1,EBS Plus 1
 http://ebsonair.ebs.co.kr:1935/plus1tablet500k/tablet500k/playlist.m3u8
 #EXTINF:-1,EBS Plus 2
@@ -163,22 +159,6 @@ http://live.cgtn.com/1000/prog_index.m3u8
 http://f24hls-i.akamaihd.net/hls/live/221147/F24_EN_HI_HLS/master_500.m3u8
 #EXTINF:-1,MoviesComedy
 https://a.jsrdn.com/broadcast/e9b4093a41/+0000/c.m3u8
-#EXTINF:-1,LaughtTv
-https://playout4multirtmp.tulix.tv/live7/Stream1/chunklist_w1897993124.m3u8
-#EXTINF:-1,After School Cartoons
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/56171fafada51f8004c4b40f/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=990&deviceId=56171fafada51f8004c4b40f&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
-#EXTINF:-1,PBS Kids
-https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8
-#EXTINF:-1,HappyKids
-https://happykids-vizio.amagi.tv/playlist480p.m3u8
-#EXTINF:-1,Kartoon Fun Time
-https://simultv.s.llnwi.net/n4s4/KartoonCircus/interlink.m3u8
-#EXTINF:-1,Kid Central
-https://simultv.s.llnwi.net/n4s4/kidcentral/interlink.m3u8
-#EXTINF:-1,Big Buck Bunny
-https://wowzaec2demo.streamlock.net/live/bigbuckbunny/eroz_brebes.m3u8
-#EXTINF:-1,Spacetoon
-https://streams.spacetoon.com/live/stchannel/smil:livesmil.smil/playlist.m3u8
 #EXTINF:-1,CocoRo
 https://4ea7abcc97144832b81dc50c6e8d6330.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Roku_Cocoro/playlist.m3u8?id=eroz_brebes.m3u8
 #EXTINF:-1,The K-POP
@@ -271,8 +251,6 @@ https://stadiumlivein-i.akamaihd.net/hls/live/522512/mux_4/master_3000k.m3u8
 https://tennischannel-intl-samsung-uk.amagi.tv/playlist720_p.m3u8
 #EXTINF:-1,Edge Sports HD
 https://edgesports-stirr.amagi.tv/playlist1080p.m3u8
-#EXTINF:-1,CBSN HD
-https://linkastream.co/headless?url=https://www.youtube.com/c/ABCNews/live
 #EXTINF:-1,NBC News Now HD
 http://nbcnews2.akamaized.net/hls/live/723426-b/NBCNewsPlaymaker24x7Linear99a3a827-ua/VIDEO_0_6596000.m3u8
 #EXTINF:-1,TMZ
@@ -281,10 +259,8 @@ https://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1234A-tmz/CDN/1280x720_5
 https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
 #EXTINF:-1,World Poker Tour (1080p)
 https://dth07jsr8atug.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/WPT-Plex/171.m3u8
-#EXTINF:-1,Red Bull TV HD
+#EXTINF:-1,Red Bull TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
-#EXTINF:-1,MLB Network
-http://hlslive-akc-med1.media.mlb.com/ls01/mlbnetwork/NETWORK_LINEAR_1/master_wired.m3u8
 #EXTINF:-1,MTV Spankin' New
 http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS07/master.m3u8
 #EXTINF:-1,MTV Biggest Pop
