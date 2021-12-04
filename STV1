@@ -46,7 +46,10 @@ http://113.163.216.23:1935/live/tv2.stream_480p/playlist.m3u8
 http://113.163.94.245/hls-live/livepkgr/_definst_/liveevent/thbt.m3u8
 #EXTINF:-1,HBTV (406p) [Not 24/7]
 http://hoabinhtvlive.746b3ddb.cdnviet.com/hoabinhtv/playlist.m3u8
+#EXTINF:-1,Canal 5
+http://smartmedia.watch:2086/112233/112233/195691
 #EXTINF:-1,------------Asia----------------------
+http://smartmedia.watch:2236/112233/112233/195691
 #EXTINF:-1,HBO Hits FHD
 http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbDhuTTc1HNV5TXcWWzVEIjQeMoRgs4Ca0ePi1geC0eDf/ts
 #EXTINF:-1,HBO Family FHD
@@ -77,7 +80,7 @@ http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbDhuTTc1HNV5TXcWWzVEIjTxot
 #EXTINF:-1,Nat Geo Wild
 http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbDhuTTc1HNV5TXcWWzVEIjSQwtjbv2ADLItLRBHLne0n/ts
 #EXTINF:-1,Others: ------------Others----------------------
-https://mangds.net/live/titemalaki3213.m3u8
+https://mdsadngds.net/live/titemalaki3213.m3u8
 #EXTINF:-1,World Poker Tour (720p)
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5616f9c0ada51f8004c4b091/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5616f9c0ada51f8004c4b091&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=770&terminate=false&userId=
 #EXTINF:-1,Stadium
