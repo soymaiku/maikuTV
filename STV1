@@ -207,6 +207,50 @@ http://wowzaprod236-i.akamaihd.net/hls/live/1019903/7dd4cf51/playlist.m3u8
 https://dai2-xumo.fubo.tv/amagi_hls_data_xumo1212A-motorvisiontv/CDN/master.m3u8
 #EXTINF:-1,Gaming TV
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f8eccd81062c300078a11df/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
+#EXTINF:-1,Arirang
+http://iptvid.my.id/ch/arirang.m3u8?by=iptv_id
+#EXTINF:-1,AXN
+http://iptvid.my.id/ch/axn.m3u8?by=iptv_id
+#EXTINF:-1,HISTORY
+http://iptvid.my.id/ch/history.m3u8?by=iptv_id
+#EXTINF:-1,Warner TV
+http://iptvid.my.id/ch/wrnr.m3u8?by=iptv_id
+#EXTINF:-1,CTI
+http://iptvid.my.id/ch/cti.m3u8?by=iptv_id
+#EXTINF:-1,SONE
+http://iptvid.my.id/ch/sone.m3u8?by=iptv_id
+#EXTINF:-1,MTV Live
+http://iptvid.my.id/ch/mtv.m3u8?by=iptv_id
+#EXTINF:-1,HGTV
+http://iptvid.my.id/ch/hgtv.m3u8?by=iptv_id
+#EXTINF:-1,CGTN doc
+http://iptvid.my.id/ch/cgtndoc.m3u8?by=iptv_id
+#EXTINF:-1,PANDA TV
+http://iptvid.my.id/ch/pandatv.m3u8?by=iptv_id
+#EXTINF:-1,NATGEO WILD
+http://iptvid.my.id/ch/natgeo.m3u8?by=iptv_id
+#EXTINF:-1,NGWILD
+http://iptvid.my.id/ch/ngwild.m3u8?by=iptv_id
+#EXTINF:-1,DA VINCI
+http://iptvid.my.id/ch/davinci.m3u8?by=iptv_id
+#EXTINF:-1,Boomerang
+http://iptvid.my.id/ch/boomerang.m3u8?by=iptv_id
+#EXTINF:-1,NICKJR
+http://iptvid.my.id/ch/nickjr.m3u8?by=iptv_id
+#EXTINF:-1,NICKELODEON
+http://iptvid.my.id/ch/nickelodeon.m3u8?by=iptv_id
+#EXTINF:-1,CN
+http://iptvid.my.id/ch/cn.m3u8?by=iptv_id
+#EXTINF:-1,Baby First
+http://iptvid.my.id/ch/babyfirst.m3u8?by=iptv_id
+#EXTINF:-1,NBA TV
+http://iptvid.my.id/ch/nba.m3u8?by=iptv_id
+#EXTINF:-1,EGG TV
+http://iptvid.my.id/ch/egg.m3u8?by=iptv_id
+#EXTINF:-1,GolfPlus
+http://iptvid.my.id/ch/golfplus.m3u8?by=iptv_id
+#EXTINF:-1,Horison sport
+http://iptvid.my.id/ch/horisonsport.m3u8?by=iptv_id
 #EXTINF:-1,US: ------------US----------------------
 https://Wala.net/live/titemalaki.m3u8
 #EXTINF:-1,TNT
@@ -303,22 +347,6 @@ http://xtream-ui03.feel-tv.com:25461/Vwelsbfa/widnv39573sldba/514
 http://xtream-ui03.feel-tv.com:25461/Vwelsbfa/widnv39573sldba/521
 #EXTINF:-1,USA: Usa (call)
 http://xtream-ui03.feel-tv.com:25461/Vwelsbfa/widnv39573sldba/526
-#EXTINF:-1,AXS TV
-http://line.thesmartiptv.com:900/4773C858/4C98AA45/13532
-#EXTINF:-1,FOX
-http://line.thesmartiptv.com:900/4773C858/4C98AA45/212524
-#EXTINF:-1,UFC CHANNEL FHD
-http://line.thesmartiptv.com:900/4773C858/4C98AA45/181532
-#EXTINF:-1,WWE NETWORK FHD
-http://line.thesmartiptv.com:900/4773C858/4C98AA45/181443
-#EXTINF:-1,WWE NETWORK
-http://line.thesmartiptv.com:900/4773C858/4C98AA45/181444
-#EXTINF:-1,ADULT SWIM
-http://line.thesmartiptv.com:900/4773C858/4C98AA45/362317
-#EXTINF:-1,US| FUSE HD
-http://line.thesmartiptv.com:900/4773C858/4C98AA45/181560
-#EXTINF:-1,US| FX HD
-http://line.thesmartiptv.com:900/4773C858/4C98AA45/212539
 #EXTINF:-1,UK: ------------UK----------------------
 https://Wala.net/live/titemalaki3213.m3u8
 #EXTINF:-1,Nat Geo
