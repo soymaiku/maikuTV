@@ -85,30 +85,6 @@ https://skylivesky-i.akamaihd.net/hls/live/569780/skylive/sky1_extreme@569780.m3
 https://skylivesky-i.akamaihd.net/hls/live/569780/skylive/sky2_extreme@569780.m3u8
 #EXTINF:-1,CNA
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
-#EXTINF:-1,YTN
-http://slive.ytn.co.kr/ytn/_definst_/ytn_stream_20190306/playlist.m3u8
-#EXTINF:-1,YTN Science
-http://slive.sciencetv.kr:1935/science/yslive_20140419_1/playlist.m3u8
-#EXTINF:-1,NHK BSプレミアム
-http://203.162.235.41:16910
-#EXTINF:-1,テレビ東京
-http://203.162.235.41:16908
-#EXTINF:-1,TBSテレビ
-http://203.162.235.41:16907
-#EXTINF:-1,フジテレビ
-http://203.162.235.41:16904
-#EXTINF:-1,日テレ
-http://203.162.235.41:16905
-#EXTINF:-1,BS TBS
-http://203.162.235.41:16913
-#EXTINF:-1,BSフジ
-http://203.162.235.41:16911
-#EXTINF:-1,BS 東京
-http://203.162.235.41:16915
-#EXTINF:-1,BS 日テレ
-http://203.162.235.41:16912
-#EXTINF:-1,シネフィルWOWOW
-http://203.162.235.41:16916
 #EXTINF:-1,ททบ. 5(Channel 5)
 https://tc-live1.sanook.com/live/22302_ch5.m3u8
 #EXTINF:-1,ULTRA REX 4K
@@ -327,121 +303,121 @@ http://xtream-ui03.feel-tv.com:25461/Vwelsbfa/widnv39573sldba/514
 http://xtream-ui03.feel-tv.com:25461/Vwelsbfa/widnv39573sldba/521
 #EXTINF:-1,USA: Usa (call)
 http://xtream-ui03.feel-tv.com:25461/Vwelsbfa/widnv39573sldba/526
-#EXTINF:-1,DEPORTE HD | NBA USA
+#EXTINF:-1,NBA
 http://stalkertvlatino.com:8080/Restreamec607/Restreamec607/6265
-#EXTINF:-1,DEPORTE HD | WWE USA
+#EXTINF:-1,WWE Network
 http://stalkertvlatino.com:8080/Restreamec607/Restreamec607/6268
-#EXTINF:-1,DEPORTES FULL HD | UFC USA
+#EXTINF:-1,UFC
 http://stalkertvlatino.com:8080/Restreamec607/Restreamec607/83899
-#EXTINF:-1,TELEMUNDO | USA
+#EXTINF:-1,TELEMUNDO
 http://stalkertvlatino.com:8080/Restreamec607/Restreamec607/26318
-#EXTINF:-1,USA | NATIONAL GEOGRAPHIC
+#EXTINF:-1,NATIONAL GEOGRAPHIC
 http://stalkertvlatino.com:8080/Restreamec607/Restreamec607/26306
-#EXTINF:-1,USA | NATIONAL GEOGRAPHIC WILD
+#EXTINF:-1,NATIONAL GEOGRAPHIC WILD
 http://stalkertvlatino.com:8080/Restreamec607/Restreamec607/26307
-#EXTINF:-1,USA | SYFY
+#EXTINF:-1,SYFY
 http://stalkertvlatino.com:8080/Restreamec607/Restreamec607/26309
-#EXTINF:-1,USA | TBS
+#EXTINF:-1,TBS
 http://stalkertvlatino.com:8080/Restreamec607/Restreamec607/26310
-#EXTINF:-1,USA | TCM
+#EXTINF:-1,TCM
 http://stalkertvlatino.com:8080/Restreamec607/Restreamec607/26311
-#EXTINF:-1,USA | WEATHER CHANNEL
+#EXTINF:-1,WEATHER CHANNEL
 http://stalkertvlatino.com:8080/Restreamec607/Restreamec607/26312
-#EXTINF:-1,USA | TLC
+#EXTINF:-1,TLC
 http://stalkertvlatino.com:8080/Restreamec607/Restreamec607/26313
-#EXTINF:-1,USA | TRAVEL CHANNEL
+#EXTINF:-1,TRAVEL CHANNEL
 http://stalkertvlatino.com:8080/Restreamec607/Restreamec607/26314
-#EXTINF:-1,USA | E!
+#EXTINF:-1,E!
 http://stalkertvlatino.com:8080/Restreamec607/Restreamec607/26315
-#EXTINF:-1,USA | NBC UNIVERSO
+#EXTINF:-1,NBC UNIVERSO
 http://stalkertvlatino.com:8080/Restreamec607/Restreamec607/26324
-#EXTINF:-1,USA | DISCOVERY FAMILIA
+#EXTINF:-1,DISCOVERY FAMILIA
 http://stalkertvlatino.com:8080/Restreamec607/Restreamec607/26325
-#EXTINF:-1,USA | DISCOVERY CHANNEL
+#EXTINF:-1,DISCOVERY CHANNEL
 http://stalkertvlatino.com:8080/Restreamec607/Restreamec607/26326
-#EXTINF:-1,USA | CARTOON NETWORK
+#EXTINF:-1,CARTOON NETWORK
 http://stalkertvlatino.com:8080/Restreamec607/Restreamec607/26327
-#EXTINF:-1,USA | DISNEY CHANNEL
+#EXTINF:-1,DISNEY CHANNEL
 http://stalkertvlatino.com:8080/Restreamec607/Restreamec607/26328
-#EXTINF:-1,USA | DISNEY JR
+#EXTINF:-1,DISNEY JR
 http://stalkertvlatino.com:8080/Restreamec607/Restreamec607/26329
-#EXTINF:-1,USA | DISNEY XD
+#EXTINF:-1,DISNEY XD
 http://stalkertvlatino.com:8080/Restreamec607/Restreamec607/26330
-#EXTINF:-1,USA | NICK
+#EXTINF:-1,NICK
 http://stalkertvlatino.com:8080/Restreamec607/Restreamec607/26331
-#EXTINF:-1,USA | NICK JR
+#EXTINF:-1,NICK JR
 http://stalkertvlatino.com:8080/Restreamec607/Restreamec607/26332
-#EXTINF:-1,USA | NICKTOONS
+#EXTINF:-1,NICKTOONS
 http://stalkertvlatino.com:8080/Restreamec607/Restreamec607/26333
-#EXTINF:-1,USA | UNIVERSAL KIDS
+#EXTINF:-1,UNIVERSAL KIDS
 http://stalkertvlatino.com:8080/Restreamec607/Restreamec607/26334
-#EXTINF:-1,USA |  ACTION MAX
+#EXTINF:-1,ACTION MAX
 http://stalkertvlatino.com:8080/Restreamec607/Restreamec607/26335
-#EXTINF:-1,USA | EPIX HITS
+#EXTINF:-1,EPIX HITS
 http://stalkertvlatino.com:8080/Restreamec607/Restreamec607/26336
-#EXTINF:-1,USA | STARZ
+#EXTINF:-1,STARZ
 http://stalkertvlatino.com:8080/Restreamec607/Restreamec607/26342
-#EXTINF:-1,USA | HBO LATINO
+#EXTINF:-1,HBO LATINO
 http://stalkertvlatino.com:8080/Restreamec607/Restreamec607/26344
-#EXTINF:-1,USA | HBO ZONE
+#EXTINF:-1,HBO ZONE
 http://stalkertvlatino.com:8080/Restreamec607/Restreamec607/26345
-#EXTINF:-1,USA | STARZ EDGE
+#EXTINF:-1,STARZ EDGE
 http://stalkertvlatino.com:8080/Restreamec607/Restreamec607/26347
-#EXTINF:-1,USA | HBO SIGNATURE
+#EXTINF:-1,HBO SIGNATURE
 http://stalkertvlatino.com:8080/Restreamec607/Restreamec607/26348
-#EXTINF:-1,USA | HBO
+#EXTINF:-1,HBO
 http://stalkertvlatino.com:8080/Restreamec607/Restreamec607/26350
-#EXTINF:-1,USA | HBO LATINO
+#EXTINF:-1,HBO LATINO
 http://stalkertvlatino.com:8080/Restreamec607/Restreamec607/26351
-#EXTINF:-1,USA | CINEMAX
+#EXTINF:-1,CINEMAX
 http://stalkertvlatino.com:8080/Restreamec607/Restreamec607/26352
-#EXTINF:-1,USA | A&E
+#EXTINF:-1,A&E
 http://stalkertvlatino.com:8080/Restreamec607/Restreamec607/26355
-#EXTINF:-1,USA | USA NETWORK
+#EXTINF:-1,USA NETWORK
 http://stalkertvlatino.com:8080/Restreamec607/Restreamec607/26357
-#EXTINF:-1,USA | HBO COMEDY
+#EXTINF:-1,HBO COMEDY
 http://stalkertvlatino.com:8080/Restreamec607/Restreamec607/26364
-#EXTINF:-1,USA | FXM
+#EXTINF:-1,FXM
 http://stalkertvlatino.com:8080/Restreamec607/Restreamec607/26374
-#EXTINF:-1,USA | HBO WEST
+#EXTINF:-1,HBO WEST
 http://stalkertvlatino.com:8080/Restreamec607/Restreamec607/26375
-#EXTINF:-1,USA | CNN
+#EXTINF:-1,CNN
 http://stalkertvlatino.com:8080/Restreamec607/Restreamec607/26377
-#EXTINF:-1,USA | HGTV
+#EXTINF:-1,HGTV
 http://stalkertvlatino.com:8080/Restreamec607/Restreamec607/26381
-#EXTINF:-1,USA | HGTV
+#EXTINF:-1,HGTV
 http://stalkertvlatino.com:8080/Restreamec607/Restreamec607/26382
-#EXTINF:-1,USA | UFC
+#EXTINF:-1,UFC
 http://stalkertvlatino.com:8080/Restreamec607/Restreamec607/26386
-#EXTINF:-1,USA | FIGHT NETWORK
+#EXTINF:-1,FIGHT NETWORK
 http://stalkertvlatino.com:8080/Restreamec607/Restreamec607/26387
-#EXTINF:-1,USA | ESPN
+#EXTINF:-1,ESPN
 http://stalkertvlatino.com:8080/Restreamec607/Restreamec607/26389
-#EXTINF:-1,USA | ESPN NEWS
+#EXTINF:-1,ESPN NEWS
 http://stalkertvlatino.com:8080/Restreamec607/Restreamec607/26390
-#EXTINF:-1,USA | ESPN U
+#EXTINF:-1,ESPN U
 http://stalkertvlatino.com:8080/Restreamec607/Restreamec607/26391
-#EXTINF:-1,USA | GOLF CHANNEL
+#EXTINF:-1,GOLF CHANNEL
 http://stalkertvlatino.com:8080/Restreamec607/Restreamec607/26397
-#EXTINF:-1,USA | NBC5N
+#EXTINF:-1,NBC5N
 http://stalkertvlatino.com:8080/Restreamec607/Restreamec607/26410
-#EXTINF:-1,USA | AMC
+#EXTINF:-1,AMC
 http://stalkertvlatino.com:8080/Restreamec607/Restreamec607/26427
-#EXTINF:-1,USA | CNBC
+#EXTINF:-1,CNBC
 http://stalkertvlatino.com:8080/Restreamec607/Restreamec607/26429
-#EXTINF:-1,USA | COMEDY CENTRAL
+#EXTINF:-1,COMEDY CENTRAL
 http://stalkertvlatino.com:8080/Restreamec607/Restreamec607/26430
-#EXTINF:-1,USA | DESTINATION AMERICA
+#EXTINF:-1,DESTINATION AMERICA
 http://stalkertvlatino.com:8080/Restreamec607/Restreamec607/26431
-#EXTINF:-1,USA |  SCIENCE
+#EXTINF:-1,SCIENCE
 http://stalkertvlatino.com:8080/Restreamec607/Restreamec607/26434
-#EXTINF:-1,USA | FXX
+#EXTINF:-1,FXX
 http://stalkertvlatino.com:8080/Restreamec607/Restreamec607/26437
-#EXTINF:-1,USA | HISTORY CHANNEL
+#EXTINF:-1,HISTORY CHANNEL
 http://stalkertvlatino.com:8080/Restreamec607/Restreamec607/26440
-#EXTINF:-1,USA | TNT
+#EXTINF:-1,TNT
 http://stalkertvlatino.com:8080/Restreamec607/Restreamec607/70906
-#EXTINF:-1,USA | CW
+#EXTINF:-1,CW
 http://stalkertvlatino.com:8080/Restreamec607/Restreamec607/77091
 #EXTINF:-1,UK: ------------UK----------------------
 https://Wala.net/live/titemalaki3213.m3u8
