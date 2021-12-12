@@ -1,8 +1,9 @@
-#EXTINF:-1,Adult Swim
+#EXTM3U
+#EXTINF:-1 tvg-id="@iptv_id.Adult Swim Fishcenter" tvg-logo="http://i.cdn.turner.com/adultswim/big/img/2015/07/29/FishCenter_ShowHeader.png" group-title="" , Adult Swim Fishcenter
 https://adultswimtv.warnermediacdn.com/hls/live/2007031/livestream/master_Layer7.m3u8?checkedby:iptvcat.com
-#EXTINF:-1,The Eric Andre Show
+#EXTINF:-1 tvg-id="@iptv_id.Adult Swim: The Eric Andre Show" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/The_Eric_André_Show_logo.svg/1200px-The_Eric_André_Show_logo.svg.png" group-title="" , Adult Swim: The Eric Andre Show
 http://adultswim-vodlive.cdn.turner.com/live/eric-andre/stream.m3u8
-#EXTINF:-1,Adult Swim Samurai Jack (1080p) [Geo-blocked]
+#EXTINF:-1 tvg-id="@iptv_id.Adult Swim Samurai Jack (1080p) [Geo-blocked]" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f6/Samurai_Jack_logo.png" group-title="" , Adult Swim Samurai Jack (1080p) [Geo-blocked]
 https://adultswim-vodlive.cdn.turner.com/live/samurai-jack/stream.m3u8
 #EXTINF:-1,Adult Swim Rick and Morty (1080p) [Geo-blocked]
 https://adultswim-vodlive.cdn.turner.com/live/rick-and-morty/stream.m3u8
@@ -24,14 +25,16 @@ http://cdnmg.secure.live.rtr-vesti.ru/hls/russia_24/playlist_2.m3u8
 https://srv1.zcast.com.br/kpoptv/kpoptv/playlist.m3u8
 #EXTINF:-1,VN/MX: ------------VN/MX----------------------
 https://a.jsrdn.com/broadcast/e9b4093a41/+0000/c.m3u8
-#EXTINF:-1,Da Nang TV1 (1080p) [Not 24/7]
+#EXTINF:-1 tvg-id="@iptv_id.Da Nang TV1 (1080p) [Not 24/7]" tvg-logo="https://img.hplus.com.vn/460x260/poster/2018/06/05/709843-DN1.png" group-title="" , Da Nang TV1 (1080p) [Not 24/7]
 http://drtdnglive.e49a7c38.cdnviet.com/livedrt1/chunklist.m3u8
-#EXTINF:-1,Da Nang TV2 (1080p) [Not 24/7]
+#EXTINF:-1 tvg-id="@iptv_id.Da Nang TV2 (1080p) [Not 24/7]" tvg-logo="https://www.coolstreaming.us/img/ch/ima80038491870.jpg" group-title="Kids" , Da Nang TV2 (1080p) [Not 24/7]
 http://drtdnglive.e49a7c38.cdnviet.com/livestream/chunklist.m3u8
+#EXTINF:-1 tvg-id="@iptv_id.Cà Mau TV (720p)" tvg-logo="https://i.imgur.com/8gcr7fn.png" group-title="" , Cà Mau TV (720p)
+http://tv.ctvcamau.vn/live/tv/tv.m3u8
 #EXTINF:-1,Canal 5
 http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbLkLjLW3EuNib8QGzvdkjEKIjj6C2XynqlYJlFVjcS0y/ts
-#EXTINF:-1,Cà Mau TV (720p)
-http://tv.ctvcamau.vn/live/tv/tv.m3u8
+#EXTINF:-1,PTP - Phú Yên
+https://list.iptvcat.com/my_list/s/1188647e7fd403cbdc76414e5cfdd915.m3u8
 #EXTINF:-1,Telemax
 http://s5.mexside.net:1935/telemax/telemax/.m3u8?checkedby:iptvcat.com
 #EXTINF:-1,Vietnam : ANTV HD
