@@ -7,6 +7,12 @@ http://adultswim-vodlive.cdn.turner.com/live/eric-andre/stream.m3u8
 https://adultswim-vodlive.cdn.turner.com/live/samurai-jack/stream.m3u8
 #EXTINF:-1,Adult Swim Rick and Morty (1080p) [Geo-blocked]
 https://adultswim-vodlive.cdn.turner.com/live/rick-and-morty/stream.m3u8
+#EXTINF:-1,US: USA NETWORK EAST HD
+http://king-tv.online:8080/tarek.soh/Dw7jM8cyFC/117577
+#EXTINF:-1,US: USA NETWORK WEST HD
+http://king-tv.online:8080/tarek.soh/Dw7jM8cyFC/117440
+#EXTINF:-1,USA NETWORK
+http://king-tv.online:8080/tarek.soh/Dw7jM8cyFC/185436
 #EXTINF:-1,TNT 4
 https://16live00.akamaized.net/TNT/index.m3u8
 #EXTINF:-1,WWE Network 2
