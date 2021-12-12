@@ -1,9 +1,8 @@
-#EXTM3U
-#EXTINF:-1 tvg-id="@iptv_id.Adult Swim Fishcenter" tvg-logo="http://i.cdn.turner.com/adultswim/big/img/2015/07/29/FishCenter_ShowHeader.png" group-title="" , Adult Swim Fishcenter
+#EXTINF:-1,Adult Swim Fishcenter
 https://adultswimtv.warnermediacdn.com/hls/live/2007031/livestream/master_Layer7.m3u8?checkedby:iptvcat.com
-#EXTINF:-1 tvg-id="@iptv_id.Adult Swim: The Eric Andre Show" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/The_Eric_André_Show_logo.svg/1200px-The_Eric_André_Show_logo.svg.png" group-title="" , Adult Swim: The Eric Andre Show
+#EXTINF:-1,Adult Swim: The Eric Andre Show
 http://adultswim-vodlive.cdn.turner.com/live/eric-andre/stream.m3u8
-#EXTINF:-1 tvg-id="@iptv_id.Adult Swim Samurai Jack (1080p) [Geo-blocked]" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f6/Samurai_Jack_logo.png" group-title="" , Adult Swim Samurai Jack (1080p) [Geo-blocked]
+#EXTINF:-1,Adult Swim Samurai Jack (1080p) [Geo-blocked]
 https://adultswim-vodlive.cdn.turner.com/live/samurai-jack/stream.m3u8
 #EXTINF:-1,Adult Swim Rick and Morty (1080p) [Geo-blocked]
 https://adultswim-vodlive.cdn.turner.com/live/rick-and-morty/stream.m3u8
@@ -31,11 +30,11 @@ http://cdnmg.secure.live.rtr-vesti.ru/hls/russia_24/playlist_2.m3u8
 https://srv1.zcast.com.br/kpoptv/kpoptv/playlist.m3u8
 #EXTINF:-1,VN/MX: ------------VN/MX----------------------
 https://a.jsrdn.com/broadcast/e9b4093a41/+0000/c.m3u8
-#EXTINF:-1 tvg-id="@iptv_id.Da Nang TV1 (1080p) [Not 24/7]" tvg-logo="https://img.hplus.com.vn/460x260/poster/2018/06/05/709843-DN1.png" group-title="" , Da Nang TV1 (1080p) [Not 24/7]
+#EXTINF:-1,Da Nang TV1 (1080p) [Not 24/7]
 http://drtdnglive.e49a7c38.cdnviet.com/livedrt1/chunklist.m3u8
-#EXTINF:-1 tvg-id="@iptv_id.Da Nang TV2 (1080p) [Not 24/7]" tvg-logo="https://www.coolstreaming.us/img/ch/ima80038491870.jpg" group-title="Kids" , Da Nang TV2 (1080p) [Not 24/7]
+#EXTINF:-1,Da Nang TV2 (1080p) [Not 24/7]
 http://drtdnglive.e49a7c38.cdnviet.com/livestream/chunklist.m3u8
-#EXTINF:-1 tvg-id="@iptv_id.Cà Mau TV (720p)" tvg-logo="https://i.imgur.com/8gcr7fn.png" group-title="" , Cà Mau TV (720p)
+#EXTINF:-1,Cà Mau TV (720p)
 http://tv.ctvcamau.vn/live/tv/tv.m3u8
 #EXTINF:-1,Canal 5
 http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbLkLjLW3EuNib8QGzvdkjEKIjj6C2XynqlYJlFVjcS0y/ts
@@ -49,11 +48,11 @@ http://antvlive.ab5c6921.cdnviet.com/antv/chunklist.m3u8?checkedby:iptvcat.com
 http://113.161.6.157:8081/hls-live/livepkgr/_definst_/liveevent/livestream.m3u8?checkedby:iptvcat.com
 #EXTINF:-1,Tien Giang
 https://list.iptvcat.com/my_list/s/8bb380f1e220e9a4d4d1929dc571c37f.m3u8
-#EXTINF:-1 tvg-id="@iptv_id.CANAL 4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5e/Repretel_4_logo.png" group-title="" , CANAL 4
+#EXTINF:-1,CANAL 4
 http://stalkertvlatino.com:8080/Restreamec607/Restreamec607/87777
-#EXTINF:-1 tvg-id="@iptv_id.CANAL 6" tvg-logo="http://directostv.teleame.com/wp-content/uploads/2016/06/Canal-6-Costa-Rica-en-vivo-Online.png" group-title="" , CANAL 6
+#EXTINF:-1,CANAL 6
 http://stalkertvlatino.com:8080/Restreamec607/Restreamec607/87778
-#EXTINF:-1 tvg-id="@iptv_id.CANAL 11" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Repretel_11_logo.png/640px-Repretel_11_logo.png" group-title="" , CANAL 11
+#EXTINF:-1,CANAL 11
 http://stalkertvlatino.com:8080/Restreamec607/Restreamec607/87779
 #EXTINF:-1,BRT (360p)
 http://113.163.216.23:1935/live/tv2.stream_480p/playlist.m3u8
@@ -65,7 +64,6 @@ http://113.163.94.245/hls-live/livepkgr/_definst_/liveevent/thbt.m3u8
 http://hoabinhtvlive.746b3ddb.cdnviet.com/hoabinhtv/playlist.m3u8
 #EXTINF:-1,CANAL 5
 http://stalkertvlatino.com:8080/Restreamec607/Restreamec607/6896
-
 #EXTINF:-1,------------Asia----------------------
 http://smartmedia.watch:2236/112233/112233/195691
 #EXTINF:-1,HBO Hits FHD
@@ -80,11 +78,6 @@ http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbBw0vWPCMXMtu-jP9qctHSvqiU
 http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbBw0vWPCMXMtu-jP9qctHSvlNwCu-d9vZnTjciTzOL3T/ts
 #EXTINF:-1,Nick Jr ID
 http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbBw0vWPCMXMtu-jP9qctHSsZPqLaadWttjxTyCwjmH-1/ts
-#EXTINF:-1,Paramount Network
-http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbBw0vWPCMXMtu-jP9qctHSu-Vcd8MwkTMm0uXBZdf46B/ts
-https://mandss.net/live/titemalaki3213.m3u8
-#EXTINF:-1,MEWATCH: CHANNEL 5
-http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbLtm911_YRmP-0mNdmmL-hviI16KWX4kl56A5DEu4fLt/ts
 #EXTINF:-1,AXN
 http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbDjQtBAERPFfZOCXiIg35GfWvbkPKwJGNVoO-ISMAW-R/ts
 #EXTINF:-1,Animal Planet
@@ -335,12 +328,6 @@ http://stalkertvlatino.com:8080/Restreamec607/Restreamec607/26318
 http://stalkertvlatino.com:8080/Restreamec607/Restreamec607/26306
 #EXTINF:-1,NATIONAL GEOGRAPHIC WILD
 http://stalkertvlatino.com:8080/Restreamec607/Restreamec607/26307
-#EXTINF:-1,SYFY
-http://stalkertvlatino.com:8080/Restreamec607/Restreamec607/26309
-#EXTINF:-1,TBS
-http://stalkertvlatino.com:8080/Restreamec607/Restreamec607/26310
-#EXTINF:-1,TCM
-http://stalkertvlatino.com:8080/Restreamec607/Restreamec607/26311
 #EXTINF:-1,WEATHER CHANNEL
 http://stalkertvlatino.com:8080/Restreamec607/Restreamec607/26312
 #EXTINF:-1,TLC
@@ -355,90 +342,30 @@ http://stalkertvlatino.com:8080/Restreamec607/Restreamec607/26324
 http://stalkertvlatino.com:8080/Restreamec607/Restreamec607/26325
 #EXTINF:-1,DISCOVERY CHANNEL
 http://stalkertvlatino.com:8080/Restreamec607/Restreamec607/26326
-#EXTINF:-1,CARTOON NETWORK
-http://stalkertvlatino.com:8080/Restreamec607/Restreamec607/26327
-#EXTINF:-1,DISNEY CHANNEL
-http://stalkertvlatino.com:8080/Restreamec607/Restreamec607/26328
-#EXTINF:-1,DISNEY JR
-http://stalkertvlatino.com:8080/Restreamec607/Restreamec607/26329
-#EXTINF:-1,DISNEY XD
-http://stalkertvlatino.com:8080/Restreamec607/Restreamec607/26330
-#EXTINF:-1,NICK
-http://stalkertvlatino.com:8080/Restreamec607/Restreamec607/26331
-#EXTINF:-1,NICK JR
-http://stalkertvlatino.com:8080/Restreamec607/Restreamec607/26332
-#EXTINF:-1,NICKTOONS
-http://stalkertvlatino.com:8080/Restreamec607/Restreamec607/26333
-#EXTINF:-1,UNIVERSAL KIDS
-http://stalkertvlatino.com:8080/Restreamec607/Restreamec607/26334
-#EXTINF:-1,ACTION MAX
-http://stalkertvlatino.com:8080/Restreamec607/Restreamec607/26335
-#EXTINF:-1,EPIX HITS
-http://stalkertvlatino.com:8080/Restreamec607/Restreamec607/26336
-#EXTINF:-1,STARZ
-http://stalkertvlatino.com:8080/Restreamec607/Restreamec607/26342
-#EXTINF:-1,HBO LATINO
-http://stalkertvlatino.com:8080/Restreamec607/Restreamec607/26344
-#EXTINF:-1,HBO ZONE
-http://stalkertvlatino.com:8080/Restreamec607/Restreamec607/26345
-#EXTINF:-1,STARZ EDGE
-http://stalkertvlatino.com:8080/Restreamec607/Restreamec607/26347
-#EXTINF:-1,HBO SIGNATURE
-http://stalkertvlatino.com:8080/Restreamec607/Restreamec607/26348
-#EXTINF:-1,HBO
-http://stalkertvlatino.com:8080/Restreamec607/Restreamec607/26350
-#EXTINF:-1,HBO LATINO
-http://stalkertvlatino.com:8080/Restreamec607/Restreamec607/26351
-#EXTINF:-1,CINEMAX
-http://stalkertvlatino.com:8080/Restreamec607/Restreamec607/26352
-#EXTINF:-1,A&E
-http://stalkertvlatino.com:8080/Restreamec607/Restreamec607/26355
-#EXTINF:-1,USA NETWORK
-http://stalkertvlatino.com:8080/Restreamec607/Restreamec607/26357
-#EXTINF:-1,HBO COMEDY
-http://stalkertvlatino.com:8080/Restreamec607/Restreamec607/26364
-#EXTINF:-1,FXM
-http://stalkertvlatino.com:8080/Restreamec607/Restreamec607/26374
-#EXTINF:-1,HBO WEST
-http://stalkertvlatino.com:8080/Restreamec607/Restreamec607/26375
 #EXTINF:-1,CNN
 http://stalkertvlatino.com:8080/Restreamec607/Restreamec607/26377
 #EXTINF:-1,HGTV
 http://stalkertvlatino.com:8080/Restreamec607/Restreamec607/26381
 #EXTINF:-1,HGTV
 http://stalkertvlatino.com:8080/Restreamec607/Restreamec607/26382
-#EXTINF:-1,UFC
-http://stalkertvlatino.com:8080/Restreamec607/Restreamec607/26386
-#EXTINF:-1,FIGHT NETWORK
-http://stalkertvlatino.com:8080/Restreamec607/Restreamec607/26387
 #EXTINF:-1,ESPN
 http://stalkertvlatino.com:8080/Restreamec607/Restreamec607/26389
 #EXTINF:-1,ESPN NEWS
 http://stalkertvlatino.com:8080/Restreamec607/Restreamec607/26390
 #EXTINF:-1,ESPN U
 http://stalkertvlatino.com:8080/Restreamec607/Restreamec607/26391
-#EXTINF:-1,GOLF CHANNEL
-http://stalkertvlatino.com:8080/Restreamec607/Restreamec607/26397
 #EXTINF:-1,NBC5N
 http://stalkertvlatino.com:8080/Restreamec607/Restreamec607/26410
 #EXTINF:-1,AMC
 http://stalkertvlatino.com:8080/Restreamec607/Restreamec607/26427
 #EXTINF:-1,CNBC
 http://stalkertvlatino.com:8080/Restreamec607/Restreamec607/26429
-#EXTINF:-1,COMEDY CENTRAL
-http://stalkertvlatino.com:8080/Restreamec607/Restreamec607/26430
 #EXTINF:-1,DESTINATION AMERICA
 http://stalkertvlatino.com:8080/Restreamec607/Restreamec607/26431
 #EXTINF:-1,SCIENCE
 http://stalkertvlatino.com:8080/Restreamec607/Restreamec607/26434
-#EXTINF:-1,FXX
-http://stalkertvlatino.com:8080/Restreamec607/Restreamec607/26437
 #EXTINF:-1,HISTORY CHANNEL
 http://stalkertvlatino.com:8080/Restreamec607/Restreamec607/26440
-#EXTINF:-1,TNT
-http://stalkertvlatino.com:8080/Restreamec607/Restreamec607/70906
-#EXTINF:-1,CW
-http://stalkertvlatino.com:8080/Restreamec607/Restreamec607/77091
 #EXTINF:-1,UK: ------------UK----------------------
 https://Wala.net/live/titemalaki3213.m3u8
 #EXTINF:-1,Nat Geo
@@ -465,7 +392,7 @@ http://xtream-ui03.feel-tv.com:25461/Vwelsbfa/widnv39573sldba/533
 http://xtream-ui03.feel-tv.com:25461/Vwelsbfa/widnv39573sldba/565
 #EXTINF:-1,BT SPORT 2
 http://xtream-ui03.feel-tv.com:25461/Vwelsbfa/widnv39573sldba/720
-#EXTINF:-1,BT SPORT 3 
+#EXTINF:-1,BT SPORT 3
 http://xtream-ui03.feel-tv.com:25461/Vwelsbfa/widnv39573sldba/721
 #EXTINF:-1,BT SPORT 1
 http://xtream-ui03.feel-tv.com:25461/Vwelsbfa/widnv39573sldba/719
@@ -509,7 +436,7 @@ http://xtream-ui03.feel-tv.com:25461/Vwelsbfa/widnv39573sldba/541
 http://xtream-ui03.feel-tv.com:25461/Vwelsbfa/widnv39573sldba/543
 #EXTINF:-1,CNBC
 http://xtream-ui03.feel-tv.com:25461/Vwelsbfa/widnv39573sldba/568
-#EXTINF:-1,1+1 
+#EXTINF:-1,1+1
 http://xtream-ui03.feel-tv.com:25461/Vwelsbfa/widnv39573sldba/573
 #EXTINF:-1,2+2
 http://xtream-ui03.feel-tv.com:25461/Vwelsbfa/widnv39573sldba/574
