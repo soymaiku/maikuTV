@@ -43,12 +43,23 @@ http://antvlive.ab5c6921.cdnviet.com/antv/chunklist.m3u8?checkedby:iptvcat.com
 http://113.161.6.157:8081/hls-live/livepkgr/_definst_/liveevent/livestream.m3u8?checkedby:iptvcat.com
 #EXTINF:-1,Tien Giang
 https://list.iptvcat.com/my_list/s/8bb380f1e220e9a4d4d1929dc571c37f.m3u8
+#EXTINF:-1 tvg-id="@iptv_id.CANAL 4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5e/Repretel_4_logo.png" group-title="" , CANAL 4
+http://stalkertvlatino.com:8080/Restreamec607/Restreamec607/87777
+#EXTINF:-1 tvg-id="@iptv_id.CANAL 6" tvg-logo="http://directostv.teleame.com/wp-content/uploads/2016/06/Canal-6-Costa-Rica-en-vivo-Online.png" group-title="" , CANAL 6
+http://stalkertvlatino.com:8080/Restreamec607/Restreamec607/87778
+#EXTINF:-1 tvg-id="@iptv_id.CANAL 11" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Repretel_11_logo.png/640px-Repretel_11_logo.png" group-title="" , CANAL 11
+http://stalkertvlatino.com:8080/Restreamec607/Restreamec607/87779
 #EXTINF:-1,BRT (360p)
 http://113.163.216.23:1935/live/tv2.stream_480p/playlist.m3u8
+#EXTINF:-1,EL CANAL DEL FUTBOL
+http://stalkertvlatino.com:8080/Restreamec607/Restreamec607/109229
 #EXTINF:-1,Bến Tre (720p)
 http://113.163.94.245/hls-live/livepkgr/_definst_/liveevent/thbt.m3u8
 #EXTINF:-1,HBTV (406p) [Not 24/7]
 http://hoabinhtvlive.746b3ddb.cdnviet.com/hoabinhtv/playlist.m3u8
+#EXTINF:-1,CANAL 5
+http://stalkertvlatino.com:8080/Restreamec607/Restreamec607/6896
+
 #EXTINF:-1,------------Asia----------------------
 http://smartmedia.watch:2236/112233/112233/195691
 #EXTINF:-1,HBO Hits FHD
