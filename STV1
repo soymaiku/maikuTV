@@ -16,6 +16,8 @@ http://king-tv.online:8080/tarek.soh/Dw7jM8cyFC/185436
 https://16live00.akamaized.net/TNT/index.m3u8
 #EXTINF:-1,WWE Network 2
 http://loginto.live:80/9E2GucVqA/qorMDQjpwg/4289
+#EXTINF:-1,WWE Network 1
+https://h2.ustvgo.la/WWE/myStream/chunks.m3u8?nimblesessionid=161496513&wmsAuthSign=c2VydmVyX3RpbWU9MS8zMC8yMDIyIDI6MjE6NDQgQU0maGFzaF92YWx1ZT04OENlWU9qK2UrT3FFdnRnKzZOUWJBPT0mdmFsaWRtaW51dGVzPTI0MA==
 #EXTINF:-1,TNT
 http://primestreams.tv:826/hommydriver/Qo1gnR9Nku/109218
 #EXTINF:-1,Comedy Central
