@@ -446,3 +446,5 @@ https://kbsworld-ott.akamaized.net/hls/live/2002341/kbsworld/master.m3u8
 https://wms4-kortv.akamaized.net/a_live/63719963/smil:20ch011.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="FOX 5 NY" status="timeout",FOX 5 NY (720p)
 https://dcs-live-uw1.mp.lura.live/server/play/V72qBb2IvL6ESNpj/rendition.m3u8?track=video-2&anvsid=m177610520-na37f5c6f931e1617fc93bf8756fe8c45&ts=1674377799&anvtrid=b0b79fa3aa04f2cf2357ef7831d7fea7
+#EXTINF:-1 tvg-id="FOX Russia" status="timeout",FOX russia (720p)
+https://sc.id-tv.kz/FOX_HD_34_35.m3u8
