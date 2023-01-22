@@ -440,3 +440,9 @@ https://iptv-sniper.herokuapp.com/localtv.php?channel=42
 http://stream.gmanews.tv/ioslive/livestream/chunklist.m3u8?wowzasessionid=693701106
 #EXTINF:-1,TeleRadyo
 https://abscbn-ono.akamaized.net/midroll/amagi_hls_data_abscbnAAA-abscbn-teleradyo-oando/CDN/playlist.m3u8
+#EXTINF:-1 tvg-id="KBSWorld.kr" status="timeout",KBS World (720p)
+https://kbsworld-ott.akamaized.net/hls/live/2002341/kbsworld/master.m3u8
+#EXTINF:-1 tvg-id="KBSWorld.kr" status="timeout",KBS World (720p)
+https://wms4-kortv.akamaized.net/a_live/63719963/smil:20ch011.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="FOX 5 NY" status="timeout",FOX 5 NY (720p)
+https://dcs-live-uw1.mp.lura.live/server/play/V72qBb2IvL6ESNpj/rendition.m3u8?track=video-2&anvsid=m177610520-na37f5c6f931e1617fc93bf8756fe8c45&ts=1674377799&anvtrid=b0b79fa3aa04f2cf2357ef7831d7fea7
