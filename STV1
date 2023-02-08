@@ -1,16 +1,28 @@
 #EXTM3U
-#EXTINF:-1 ,Adult Swim: The Eric Andre Show
+#EXTINF:-1,TNT
+https://s5.liveforward.click/live/gtt0b1du/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi84LzIwMjMgNDo1MjoxMSBBTSZoYXNoX3ZhbHVlPXhRWEN0cjhJUCtBSkJLL3huWUtoTFE9PSZ2YWxpZG1pbnV0ZXM9MTIwJnN0cm1fbGVuPTEz
+#EXTINF:-1,WWE Network
+http://cdnak19.cast4u.info/channels/4/10804.m3u8?fluxustv.m3u8
+#EXTINF:-1,Pop
+https://bcsecurelivehls-i.akamaihd.net/hls/live/505785/5367332899001/master.m3u8
+#EXTINF:-1,Adult Swim Animation
+https://adultswim-vodlive.cdn.turner.com/live/daily_animated_1/stream.m3u8
+#EXTINF:-1,Adult Swim Live Action
+https://adultswim-vodlive.cdn.turner.com/live/daily_liveaction_1/stream.m3u8
+#EXTINF:-1,Black Jesus
+http://adultswim-vodlive.cdn.turner.com/live/black-jesus/stream.m3u8
+#EXTINF:-1,The Eric Andre Show
 http://adultswim-vodlive.cdn.turner.com/live/eric-andre/stream.m3u8
 #EXTINF:-1 ,Adult Swim Samurai Jack (1080p) [Geo-blocked]
 https://adultswim-vodlive.cdn.turner.com/live/samurai-jack/stream.m3u8
 #EXTINF:-1 ,Adult Swim Rick and Morty (1080p) [Geo-blocked]
 https://adultswim-vodlive.cdn.turner.com/live/rick-and-morty/stream.m3u8
-#EXTINF:-1 ,WWE
-http://moontools.me:8080//live/FNmdP2U7ey/HZQzvGgaPe/28626.ts
 #EXTINF:-1 ,Comedy Central
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ca671f215a62078d2ec0abf/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=465&deviceId=5ca671f215a62078d2ec0abf&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
 #EXTINF:-1 ,Sexy Kpop Tv
 https://srv1.zcast.com.br/kpoptv/kpoptv/playlist.m3u8
+#EXTINF:-1,Canada One
+http://cdn8.live247stream.com/canadaone/tv/playlist.m3u8
 #EXTINF:-1 ,VN/MX: ------------VN/MX----------------------
 https://a.jsrdn.com/broadcast/e9b4093a41/+0000/c.m3u8
 #EXTINF:-1 ,Da Nang TV1 (1080p) [Not 24/7]
@@ -37,6 +49,16 @@ http://hoabinhtvlive.746b3ddb.cdnviet.com/hoabinhtv/playlist.m3u8
 http://smartmedia.watch:2236/112233/112233/195691
 #EXTINF:-1 ,Others: ------------Others----------------------
 https://mdsadngds.net/live/titemalaki3213.m3u8
+#EXTINF:-1,KTK Channel
+http://89.218.30.37/ktklive/live.hq/playlist.m3u8
+#EXTINF:-1,TV2 Bornholm
+http://live.tv2bornholm.dk/stream/live/chunklist.m3u8
+#EXTINF:-1,TV2 Lorry
+http://cdn-lt-hls-vod.tv2lorry.dk/fhls/p/2045321/sp/204532100/serveFlavor/entryId/0_0u9letdh/v/1/flavorId/0_p5f7q6yf/name/a.mp4/index.m3u8
+#EXTINF:-1,TV Syd
+http://cdn-lt-live.tvsyd.dk/dc-1/live/hls/p/1956351/e/0_e9slj9wh/t/ut3_n5VQ1FqzlqMhwbQmJg/index-s32.m3u8
+#EXTINF:-1,Star TV
+http://ivi.bupt.edu.cn/hls/cctv1.m3u8
 #EXTINF:-1 ,CNA
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
 #EXTINF:-1 ,ททบ. 5(Channel 5)
@@ -77,7 +99,7 @@ https://movie.mcas.jp/switcher/smil:mcas8.smil/master.m3u8
 https://bcsecurelivehls-i.akamaihd.net/hls/live/265320/5043843989001/140130JTDX/index.m3u8
 #EXTINF:-1 ,KBS LiveCam DokDo
 http://kbs-dokdo.gscdn.com/dokdo_300/_definst_/dokdo_300.stream/playlist.m3u8
-#EXTINF:-1 ,Kepez TV
+#EXTINF:-1,Kepez TV
 http://85.132.81.184:8080/arbkepez/live/index.m3u8
 #EXTINF:-1 ,NHK Chinese Vision
 https://nhkw-zh-hlscomp.akamaized.net/8thz5iufork8wjip/playlist.m3u8
