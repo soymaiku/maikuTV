@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="tofokyo.com",tofokyo TV Live (720p)
+#EXTINF:-1 tvg-id="tofokyo.com",tofokyo TV Live (720p) tvg-logo="https://tofokyo.com/images/signature.png" ,tofokyo TV
 https://live.tofokyo.com/hls/0/stream.m3u8
 
 
