@@ -1,5 +1,9 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="tofokyo.com",tofokyo TV Live (720p) tvg-logo="https://tofokyo.com/images/signature.png" ,tofokyo TV
 https://live.tofokyo.com/hls/0/stream.m3u8
-
-
+#EXTINF:-2 tvg-id="Abente TV",Abente TV tvg-logo="" ,Abente TV
+https://amg19223-amg19223c12-amgplt0352.playout.now3.amagi.tv/ts-eu-w1-n2/playlist/amg19223-amg19223c12-amgplt0352/f3daa271-484b-11f1-a2ee-72c7d1359591/24/640x360_871200/index.m3u8
+#EXTINF:-3 tvg-id="CW GOLD",CW GOLD tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f3/CW_Gold_%282024%29.jpg/revision/latest/scale-to-width-down/250?cb=20250709180012" ,CW GOLD
+https://d1d726ny1vain2.cloudfront.net/playlist_640x360.m3u8
+#EXTINF:-4 tvg-id="Yu-Gi-Oh!",Yu-Gi-Oh! tvg-logo="https://shirtstore.eu/cdn/shop/collections/YuGiOh-CollectionLogo.gif?v=1761755187&width=1296" ,Yu-Gi-Oh!
+https://amg01796-amg01796c19-rakuten-gb-7486.playouts.now.amagi.tv/ts-eu-w1-n2/playlist/amg01796-fastmediafast-yugioh2en-rakutengb/cb553d167b6c64879ad43e65d5ef41a4da243dfc087a8d6933fb4b926bc10f41e2e5af97b20cac7822fb0fdf61146d5a4d009247d8780ad7967cac48240d5734c6cdd52e8be24b4daddd0c2d34b07c0e49857671ad594f32d5e0110dc51ab07a0e1ca1494d5e2082b00cb27756c29e0a957f378bbdbe306f2c180680585ee2be5da5edf5544cd965a0e0491c882b4de3d65fc8d54aba9ddd0d9b479b7fa416c894f2d98642838596010e6688416180f07ae3e249bb8b3686d29365308c6121481b4694ccf99c6f0ff68cc7c19a85af9e76f612b4e54d15c73ec966ba4e873f8579e87ccf16a60bcec9bd161143cee75a6d26a2e4b290f43b71c00e1c29e1af105fb8c06e0a77db62ce2b253b95bdc412c4e01480bf3780fe0f775c94c015c9cff3eb9bc15bd90191d24eb8b8442c9033fd48da6382d006fa3ad479e7e3122f554145975734ae89f4512a6b438a8111815d4bf993bc8ad10a34dd735b74dc20880b4b3c97745b75eb7badc17c74df7243c5142deb5430b747fe9325e1e88eb65175e688870ad447db98269eb60ea066391925b6f127500c0c5ed8fc690035369211b39d9aaf274750acc4ccf8c14131486c440542d8b49505f1e4f7201312ce443520254065f12ae2298e500750548a74b58b067b820a24579684374f55619388fcc1b0dfc440ba68c08d9a1d2a285277b2230f453f87e36d3847facdd11cf9ecf081410bf983d5e79d257ac18e1d/145/426x240_511680/index.m3u8
