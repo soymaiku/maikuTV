@@ -2,7 +2,7 @@
 #EXTINF:-1 tvg-id="tofokyo.com",tofokyo TV Live (720p) tvg-logo="https://tofokyo.com/images/signature.png" ,tofokyo TV
 https://live.tofokyo.com/hls/0/stream.m3u8
 #EXTINF:-2 tvg-id="Abente TV",Abente TV tvg-logo="" ,Abente TV
-https://amg19223-amg19223c12-amgplt0352.playout.now3.amagi.tv/ts-eu-w1-n2/playlist/amg19223-amg19223c12-amgplt0352/f3daa271-484b-11f1-a2ee-72c7d1359591/24/640x360_871200/index.m3u8
+https://jay11dr-proxy.hf.space/api/stream?url=https%3A%2F%2Famg19223-amg19223c12-amgplt0352.playout.now3.amagi.tv%2Fts-eu-w1-n2%2Fplaylist%2Famg19223-amg19223c12-amgplt0352%2Fefac721f-5bfc-11f1-851c-56ff575dda0f%2F159%2F640x360_871200%2Findex.m3u8&ua=Dalvik%2F2.1.0+%28Linux%3B+U%3B+Android+12%3B+Pixel+6+Build%2FSD1A.210817.036%29
 #EXTINF:-3 tvg-id="CW GOLD",CW GOLD tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f3/CW_Gold_%282024%29.jpg/revision/latest/scale-to-width-down/250?cb=20250709180012" ,CW GOLD
 https://d1d726ny1vain2.cloudfront.net/playlist_640x360.m3u8
 #EXTINF:-4 tvg-id="Yu-Gi-Oh!",Yu-Gi-Oh! tvg-logo="https://shirtstore.eu/cdn/shop/collections/YuGiOh-CollectionLogo.gif?v=1761755187&width=1296" ,Yu-Gi-Oh!
@@ -15,8 +15,6 @@ http://161.49.17.2:6610/001/2/ch00000090990000001250/manifest.mpd?AuthInfo=v87HD
 http://161.49.17.2:6610/001/2/ch00000090990000001125/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BoZQDeIq8A03ROpfeWN75MYytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001238&contentid=ch00000000000000001238&videoid=ch00000090990000001125&recommendtype=0&userid=1642489849443&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=9X3U5ZPDLQVXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
 #EXTINF:-1,FilAm TV Network
 https://streams.comclark.com/pknsd/filamtv/playlist.m3u8
-#EXTINF:-1,GMA
-http://136.158.97.2:6610/001/2/ch00000090990000001093/manifest.mpd?
 #EXTINF:-1 tvg-id="Canal5.mx@SD",Canal 5 (1080p) 
 https://d162h6qqsk8wvl.cloudfront.net/a3df683f-7ba6-4012-8c2c-3cfd188c8c0c/manifest.m3u8 
 #EXTINF:-1,Animax
