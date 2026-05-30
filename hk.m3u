@@ -7,3 +7,17 @@ https://amg19223-amg19223c12-amgplt0352.playout.now3.amagi.tv/ts-eu-w1-n2/playli
 https://d1d726ny1vain2.cloudfront.net/playlist_640x360.m3u8
 #EXTINF:-4 tvg-id="Yu-Gi-Oh!",Yu-Gi-Oh! tvg-logo="https://shirtstore.eu/cdn/shop/collections/YuGiOh-CollectionLogo.gif?v=1761755187&width=1296" ,Yu-Gi-Oh!
 https://amg01796-amg01796c19-rakuten-gb-7486.playouts.now.amagi.tv/ts-eu-w1-n2/playlist/amg01796-fastmediafast-yugioh2en-rakutengb/cb553d167b6c64879ad43e65d5ef41a4da243dfc087a8d6933fb4b926bc10f41e2e5af97b20cac7822fb0fdf61146d5a4d009247d8780ad7967cac48240d5734c6cdd52e8be24b4daddd0c2d34b07c0e49857671ad594f32d5e0110dc51ab07a0e1ca1494d5e2082b00cb27756c29e0a957f378bbdbe306f2c180680585ee2be5da5edf5544cd965a0e0491c882b4de3d65fc8d54aba9ddd0d9b479b7fa416c894f2d98642838596010e6688416180f07ae3e249bb8b3686d29365308c6121481b4694ccf99c6f0ff68cc7c19a85af9e76f612b4e54d15c73ec966ba4e873f8579e87ccf16a60bcec9bd161143cee75a6d26a2e4b290f43b71c00e1c29e1af105fb8c06e0a77db62ce2b253b95bdc412c4e01480bf3780fe0f775c94c015c9cff3eb9bc15bd90191d24eb8b8442c9033fd48da6382d006fa3ad479e7e3122f554145975734ae89f4512a6b438a8111815d4bf993bc8ad10a34dd735b74dc20880b4b3c97745b75eb7badc17c74df7243c5142deb5430b747fe9325e1e88eb65175e688870ad447db98269eb60ea066391925b6f127500c0c5ed8fc690035369211b39d9aaf274750acc4ccf8c14131486c440542d8b49505f1e4f7201312ce443520254065f12ae2298e500750548a74b58b067b820a24579684374f55619388fcc1b0dfc440ba68c08d9a1d2a285277b2230f453f87e36d3847facdd11cf9ecf081410bf983d5e79d257ac18e1d/145/426x240_511680/index.m3u8
+#EXTINF:-1,ALLTV
+http://136.239.158.10:6610/001/2/ch00000090990000001179/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2Bow35sHUcBhGBpxqddBGYEnytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001415&contentid=ch00000000000000001415&videoid=ch00000090990000001179&recommendtype=0&userid=1205050496206&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=02WMA0HI2O3AXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
+#EXTINF:-1,Jeepney TV
+http://161.49.17.2:6610/001/2/ch00000090990000001250/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BpGbNnk2H5Bi8k4yR%2B9AHGFytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001546&contentid=ch00000000000000001546&videoid=ch00000090990000001250&recommendtype=0&userid=1870820485634&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=6T45HYQ6YE3XXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
+#EXTINF:-1,Cartoonito
+http://161.49.17.2:6610/001/2/ch00000090990000001125/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BoZQDeIq8A03ROpfeWN75MYytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001238&contentid=ch00000000000000001238&videoid=ch00000090990000001125&recommendtype=0&userid=1642489849443&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=9X3U5ZPDLQVXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
+#EXTINF:-1,FilAm TV Network
+https://streams.comclark.com/pknsd/filamtv/playlist.m3u8
+#EXTINF:-1,GMA
+http://136.158.97.2:6610/001/2/ch00000090990000001093/manifest.mpd?
+#EXTINF:-1 tvg-id="Canal5.mx@SD",Canal 5 (1080p) 
+https://d162h6qqsk8wvl.cloudfront.net/a3df683f-7ba6-4012-8c2c-3cfd188c8c0c/manifest.m3u8 
+#EXTINF:-1,Animax
+https://amg02159-amg02159c9-amgplt0352.playout.now3.amagi.tv/ts-eu-w1-n2/playlist/amg02159-amg02159c9-amgplt0352/playlist.m3u8
